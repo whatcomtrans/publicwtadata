@@ -1,9 +1,7 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
 1083,14,105,,,3,,      ,      
-1085,14,105S,,,3,,      ,      
 1086,14,107,,,3,,      ,      
 1087,14,108,,,3,,      ,      
-1089,14,108S,,,3,,      ,      
 1090,14,14,,,3,,      ,      
 1092,14,15,,,3,,      ,      
 1093,14,190,,,3,,      ,      
@@ -31,7 +29,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 1116,14,70X,,,3,,      ,      
 1117,14,71X,,,3,,      ,      
 1118,14,72X,,,3,,      ,      
-1120,14,80S,,,3,,      ,      
 1121,14,80X,,,3,,      ,      
 1122,14,90A,,,3,,      ,      
 1124,14,90B,,,3,,      ,      
