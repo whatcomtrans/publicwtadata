@@ -34,6 +34,4 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 1163,14,80S,,,3,,      ,      
 1164,14,80X,,,3,,      ,      
 1165,14,90A,,,3,,      ,      
-1166,14,90AH,,,3,,      ,      
 1167,14,90B,,,3,,      ,      
-1168,14,90BH,,,3,,      ,      
