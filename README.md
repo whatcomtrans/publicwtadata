@@ -10,8 +10,9 @@ Please contact the Whatcom Transportation Authority IT Helpdesk via helpdesk@rid
 GTFS
 ----
 
-The primary data availabl is the WTA GTFS transit feed.  It is currently used by:
+The primary data published is the WTA GTFS transit feed.  It is currently used by, among others,:
 
 1.  Google
 2.  Bing
 3.  Western Wheels (Android App)
+4.  Nokia Here
