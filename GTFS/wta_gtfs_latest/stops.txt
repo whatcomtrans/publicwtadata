@@ -1,5 +1,5 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
-208,2001,Bellingham Station,,48.750172,-122.47536,1,,,,,0
+208,2001,Bellingham Station,,48.750095,-122.47608,1,,,,,0
 209,3131,Eldridge Ave at Walnut St,,48.757977,-122.4921,1,,,,,0
 210,2966,Lindbergh Ave at Tech College,,48.764854,-122.51044,1,,,,,0
 211,5555,Bakerview Rd at Fred Meyer,,48.789631,-122.51099,1,,,,,0
@@ -29,7 +29,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 240,3236,Grover St at 4th St,,48.944298,-122.45219,1,,,,,0
 241,3234,Lynden Station,,48.938404,-122.48226,1,,,,,0
 242,7136,Guide Meridian at Pole Rd,,48.890789,-122.48573,1,,,,,0
-244,1001,SB 32nd St at WWU Admin Office,,48.731342,-122.47436,1,,,,,0
+244,1001,32nd St at WWU Admin Office,,48.731342,-122.47436,1,,,,,0
 246,3235,Grover St at 4th St,,48.943916,-122.4527,1,,,,,0
 247,7148,Guide Meridian at Stuart Rd,,48.801399,-122.48579,1,,,,,0
 248,9217,Main St at Double Ditch Rd,,48.946564,-122.476,1,,,,,0
@@ -439,7 +439,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5496,9921,Vista Dr at Washington St,,48.850025,-122.59483,1,,,,,0
 5497,4713,Vista Dr at Washington St,,48.850258,-122.59476,1,,,,,0
 5498,7714,Vista Dr at 4th Ave,,48.849072,-122.59352,1,,,,,0
-5499,9920,Vista Dr at 4th Ave,,48.848717,-122.59345,1,,,,,0
+5499,9920,4th Ave at Vista Dr,,48.848991,-122.59401,1,,,,,0
 5500,3258,Northwest Dr at 4500 Block,,48.804268,-122.51884,1,,,,,0
 5501,2317,Northwest Dr at Trout Lake Dr,,48.802174,-122.51724,1,,,,,0
 5502,2244,Northwest Dr at Larrabee Rd,,48.796509,-122.51272,1,,,,,0
@@ -829,7 +829,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6042,4721,1st Ave at Alder St,,48.845303,-122.59081,1,,,,,0
 6043,2510,1st Ave at Cherry St,,48.844059,-122.5919,1,,,,,0
 6044,2511,3rd Ave at Main St,,48.846581,-122.59272,1,,,,,0
-6045,2512,3rd Ave at Alder St,,48.846569,-122.59304,1,,,,,0
+6045,2512,3rd Ave at Alder St,,48.846336,-122.59325,1,,,,,0
 6046,2528,Cherry St at 1st Ave,,48.84383,-122.59219,1,,,,,0
 6047,2529,1st Ave at Main St,,48.845768,-122.59007,1,,,,,0
 6051,3386,Cottonwood Ave at Pinewood Ave,,48.776905,-122.50572,1,,,,,0
@@ -881,3 +881,4 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6136,7166,Cherry St at 1st St,,48.998566,-122.26482,1,,,,,0
 6137,7167,Cherry St at Vancouver St,,48.995178,-122.26482,1,,,,,0
 6146,3433,Alabama St at Grant St,,48.763046,-122.46961,1,,,,,0
+6148,3435,4th Ave at Main St,,48.847649,-122.59484,1,,,,,0
