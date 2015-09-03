@@ -33,43 +33,50 @@ FeedValidator extension used: extensions.googletransit
 <tr><th class="header">Stops:</th><td class="header">885</td></tr>
 <tr><th class="header">Trips:</th><td class="header">1823</td></tr>
 <tr><th class="header">Shapes:</th><td class="header">96</td></tr>
-<tr><th class="header">Effective:</th><td class="header">June 14, 2015 to September 19, 2015</td></tr>
+<tr><th class="header">Effective:</th><td class="header">September 20, 2015 to February 06, 2016</td></tr>
 </table>
 <br>
-During the upcoming service dates Thu Jul 09 to Sun Sep 06:
+During the upcoming service dates Sun Sep 20 to Sun Nov 01:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">751</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">894, on 42 service dates (Thu Jul 09, Fri Jul 10, Mon Jul 13, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">291, on 9 service dates (Sun Jul 12, Sun Jul 19, Sun Jul 26, ...)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">805</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">987, on 27 service dates (Thu Sep 24, Fri Sep 25, Mon Sep 28, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">291, on 7 service dates (Sun Sep 20, Sun Sep 27, Sun Oct 04, ...)</td></tr>
 </table>
 <br>
 <span class="fail">
 A new version 1.2.13 of transitfeed is available. Please visit http://code.google.com/p/googletransitdatafeed and download.</span><br><br><span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">50 warnings</span></td></tr>
+<tr><td><span class="fail">89 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>1</td><td><a href="#WarningOtherProblem">Other Problem</a></td></tr>
+<table><tr><td>1</td><td><a href="#WarningFutureService">Future Service</a></td></tr>
 <tr><td>1</td><td><a href="#WarningStopsTooClose">Stops Too Close</a></td></tr>
-<tr><td>47</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
+<tr><td>61</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
+<tr><td>25</td><td><a href="#WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Times</a></td></tr>
 <tr><td>1</td><td><a href="#WarningUnrecognizedColumn">Unrecognized Column</a></td></tr>
 </table>
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
-<li><div class="problem">Service period with service_id "2301" doesn't have service on any days of the week.</div>in line 5 of <code>calendar.txt</code><br>
-<br></li>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningFutureService">Future Service</a></h4><ul>
+<li><div class="problem">The earliest service date in calendar.txt in this feed is in the future, on September 20, 2015. Published feeds must always include the current date.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
 <li><div class="problem">The stops "Lincoln Creek P&R" (ID 307) and "Lincoln Creek P&R" (ID 6032) are 1.15m apart and probably represent the same location.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
-<li><div class="problem">High speed travel detected in trip 65141: Sunset Dr at Woburn St to Sunset Dr at 2500 block. 384 meters in 13 seconds. (106 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 65143: Sunset Dr at Woburn St to Sunset Dr at 2500 block. 384 meters in 13 seconds. (106 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 65142: Sunset Dr at Woburn St to Sunset Dr at 2500 block. 384 meters in 13 seconds. (106 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 64379: Levin Ln at Squalicum Pkwy to Ellis St at Plymouth Dr. 313 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 64378: Levin Ln at Squalicum Pkwy to Ellis St at Plymouth Dr. 313 meters in 0 seconds.</div><br></li>
-<li>and 42 more of this type.</ul>
+<li><div class="problem">High speed travel detected in trip 66249: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 66248: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 66247: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 66238: Guide Meridian at Wiser Lake Rd to Kok Rd at 19th St. 3082 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 66239: Guide Meridian at Wiser Lake Rd to Kok Rd at 19th St. 3082 meters in 0 seconds.</div><br></li>
+<li>and 56 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Time</a></h4><ul>
+<li><div class="problem">Trip 66239 has 9 consecutive stop times all with the same arrival/departure time: 13:24:00.</div><br></li>
+<li><div class="problem">Trip 66239 has 9 consecutive stop times all with the same arrival/departure time: 13:43:00.</div><br></li>
+<li><div class="problem">Trip 66239 has 11 consecutive stop times all with the same arrival/departure time: 13:47:00.</div><br></li>
+<li><div class="problem">Trip 66239 has 7 consecutive stop times all with the same arrival/departure time: 13:53:00.</div><br></li>
+<li><div class="problem">Trip 66238 has 9 consecutive stop times all with the same arrival/departure time: 14:54:00.</div><br></li>
+<li>and 20 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningUnrecognizedColumn">Unrecognized Column</a></h4><ul>
 <li><div class="problem">Unrecognized column <code>trip_short_name</code> in file <code>trips.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>trips.txt</code><br>
 <table class="dump"><tr><th>route_id</th><th>service_id</th><th>trip_id</th><th>trip_headsign</th><th class="problem">trip_short_name</th><th>direction_id</th><th>block_id</th><th>shape_id</th></tr>
@@ -79,7 +86,7 @@ A new version 1.2.13 of transitfeed is available. Please visit http://code.googl
 
 <div class="footer">
 Generated by <a href="http://code.google.com/p/googletransitdatafeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.12 on July 09, 2015 at 10:22 AM Pacific Daylight Time.
+FeedValidator</a> version 1.2.12 on September 03, 2015 at 10:44 AM Pacific Daylight Time.
 </div>
 </body>
 </html>
