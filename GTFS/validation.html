@@ -30,49 +30,53 @@ FeedValidator extension used: extensions.googletransit
 <table>
 <tr><th class="header">Agencies:</th><td class="header"><a href="http://www.ridewta.com/">Whatcom Transportation Authority</a></td></tr>
 <tr><th class="header">Routes:</th><td class="header">36</td></tr>
-<tr><th class="header">Stops:</th><td class="header">886</td></tr>
+<tr><th class="header">Stops:</th><td class="header">890</td></tr>
 <tr><th class="header">Trips:</th><td class="header">1721</td></tr>
 <tr><th class="header">Shapes:</th><td class="header">92</td></tr>
-<tr><th class="header">Effective:</th><td class="header">September 20, 2015 to February 06, 2016</td></tr>
+<tr><th class="header">Effective:</th><td class="header">February 07, 2016 to June 11, 2016</td></tr>
 </table>
 <br>
-During the upcoming service dates Mon Nov 30 to Thu Jan 28:
+During the upcoming service dates Sun Feb 07 to Sun Mar 27:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">739</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">941, on 27 service dates (Mon Nov 30, Tue Dec 01, Wed Dec 02, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">0, on 2 service dates (Fri Dec 25, Fri Jan 01)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">762</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">941, on 29 service dates (Mon Feb 08, Tue Feb 09, Wed Feb 10, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">267, on 8 service dates (Sun Feb 07, Sun Feb 14, Sun Feb 21, ...)</td></tr>
 </table>
 <br>
 <span class="fail">
 A new version 1.2.13 of transitfeed is available. Please visit http://code.google.com/p/googletransitdatafeed and download.</span><br><br><span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">88 warnings</span></td></tr>
+<tr><td><span class="fail">62 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>1</td><td><a href="#WarningStopsTooClose">Stops Too Close</a></td></tr>
-<tr><td>61</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
-<tr><td>25</td><td><a href="#WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Times</a></td></tr>
+<table><tr><td>1</td><td><a href="#WarningFutureService">Future Service</a></td></tr>
+<tr><td>1</td><td><a href="#WarningStopsTooClose">Stops Too Close</a></td></tr>
+<tr><td>50</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
+<tr><td>9</td><td><a href="#WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Times</a></td></tr>
 <tr><td>1</td><td><a href="#WarningUnrecognizedColumn">Unrecognized Column</a></td></tr>
 </table>
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningFutureService">Future Service</a></h4><ul>
+<li><div class="problem">The earliest service date in calendar.txt in this feed is in the future, on February 07, 2016. Published feeds must always include the current date.</div><br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
 <li><div class="problem">The stops "Lincoln Creek P&R" (ID 307) and "Lincoln Creek P&R" (ID 6032) are 1.15m apart and probably represent the same location.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
-<li><div class="problem">High speed travel detected in trip 66249: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 66248: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 66247: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 66236: Guide Meridian at Wiser Lake Rd to Kok Rd at 19th St. 3082 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 66238: Guide Meridian at Wiser Lake Rd to Kok Rd at 19th St. 3082 meters in 0 seconds.</div><br></li>
-<li>and 56 more of this type.</ul>
+<li><div class="problem">High speed travel detected in trip 68073: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 68074: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 68075: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 68073: Guide Meridian at Pole Rd to Guide Meridian at Ten Mile Rd. 2429 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 68074: Guide Meridian at Pole Rd to Guide Meridian at Ten Mile Rd. 2429 meters in 0 seconds.</div><br></li>
+<li>and 45 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Time</a></h4><ul>
-<li><div class="problem">Trip 66239 has 9 consecutive stop times all with the same arrival/departure time: 13:24:00.</div><br></li>
-<li><div class="problem">Trip 66239 has 9 consecutive stop times all with the same arrival/departure time: 13:43:00.</div><br></li>
-<li><div class="problem">Trip 66239 has 11 consecutive stop times all with the same arrival/departure time: 13:47:00.</div><br></li>
-<li><div class="problem">Trip 66239 has 7 consecutive stop times all with the same arrival/departure time: 13:53:00.</div><br></li>
-<li><div class="problem">Trip 66238 has 9 consecutive stop times all with the same arrival/departure time: 14:54:00.</div><br></li>
-<li>and 20 more of this type.</ul>
+<li><div class="problem">Trip 68073 has 6 consecutive stop times all with the same arrival/departure time: 09:34:00.</div><br></li>
+<li><div class="problem">Trip 68073 has 8 consecutive stop times all with the same arrival/departure time: 09:39:00.</div><br></li>
+<li><div class="problem">Trip 68073 has 9 consecutive stop times all with the same arrival/departure time: 09:53:00.</div><br></li>
+<li><div class="problem">Trip 68074 has 6 consecutive stop times all with the same arrival/departure time: 11:04:00.</div><br></li>
+<li><div class="problem">Trip 68074 has 8 consecutive stop times all with the same arrival/departure time: 11:09:00.</div><br></li>
+<li>and 4 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningUnrecognizedColumn">Unrecognized Column</a></h4><ul>
 <li><div class="problem">Unrecognized column <code>trip_short_name</code> in file <code>trips.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>trips.txt</code><br>
 <table class="dump"><tr><th>route_id</th><th>service_id</th><th>trip_id</th><th>trip_headsign</th><th class="problem">trip_short_name</th><th>direction_id</th><th>block_id</th><th>shape_id</th></tr>
@@ -82,7 +86,7 @@ A new version 1.2.13 of transitfeed is available. Please visit http://code.googl
 
 <div class="footer">
 Generated by <a href="http://code.google.com/p/googletransitdatafeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.12 on November 30, 2015 at 12:01 PM Pacific Standard Time.
+FeedValidator</a> version 1.2.12 on January 28, 2016 at 02:19 PM Pacific Standard Time.
 </div>
 </body>
 </html>
