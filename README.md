@@ -14,5 +14,5 @@ The primary data published is the WTA GTFS transit feed.  It is currently used b
 
 1.  Google
 2.  Bing
-3.  Western Wheels (Android App)
+3.  Western Wheels
 4.  Nokia Here
