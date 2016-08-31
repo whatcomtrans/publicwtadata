@@ -33,14 +33,14 @@ FeedValidator extension used: extensions.googletransit
 <tr><th class="header">Stops:</th><td class="header">895</td></tr>
 <tr><th class="header">Trips:</th><td class="header">1721</td></tr>
 <tr><th class="header">Shapes:</th><td class="header">92</td></tr>
-<tr><th class="header">Effective:</th><td class="header">June 12, 2016 to September 17, 2016</td></tr>
+<tr><th class="header">Effective:</th><td class="header">September 18, 2016 to February 04, 2017</td></tr>
 </table>
 <br>
-During the upcoming service dates Fri Jun 24 to Mon Aug 22:
+During the upcoming service dates Sun Sep 18 to Sat Oct 29:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">696</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">848, on 41 service dates (Fri Jun 24, Mon Jun 27, Tue Jun 28, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">0, on 1 service date (Mon Jul 04)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">779</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">941, on 28 service dates (Wed Sep 21, Thu Sep 22, Fri Sep 23, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">267, on 6 service dates (Sun Sep 18, Sun Sep 25, Sun Oct 02, ...)</td></tr>
 </table>
 <br>
 <span class="fail">
@@ -48,7 +48,7 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 <table class="count_outside">
 <tr><td><span class="fail">61 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>1</td><td><a href="#WarningOtherProblem">Other Problem</a></td></tr>
+<table><tr><td>1</td><td><a href="#WarningFutureService">Future Service</a></td></tr>
 <tr><td>1</td><td><a href="#WarningStopsTooClose">Stops Too Close</a></td></tr>
 <tr><td>49</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
 <tr><td>9</td><td><a href="#WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Times</a></td></tr>
@@ -57,26 +57,25 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
-<li><div class="problem">Service period with service_id "2301" doesn't have service on any days of the week.</div>in line 5 of <code>calendar.txt</code><br>
-<br></li>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningFutureService">Future Service</a></h4><ul>
+<li><div class="problem">The earliest service date in calendar.txt in this feed is in the future, on September 18, 2016. Published feeds must always include the current date.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
 <li><div class="problem">The stops "Lincoln Creek P&R" (ID 307) and "Lincoln Creek P&R" (ID 6032) are 1.15m apart and probably represent the same location.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
-<li><div class="problem">High speed travel detected in trip 69909: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 69908: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 69907: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 69909: Guide Meridian at Pole Rd to Guide Meridian at Ten Mile Rd. 2429 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 69908: Guide Meridian at Pole Rd to Guide Meridian at Ten Mile Rd. 2429 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 79526: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 79524: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 79525: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 79526: Guide Meridian at Pole Rd to Guide Meridian at Ten Mile Rd. 2429 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 79524: Guide Meridian at Pole Rd to Guide Meridian at Ten Mile Rd. 2429 meters in 0 seconds.</div><br></li>
 <li>and 44 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Time</a></h4><ul>
-<li><div class="problem">Trip 69909 has 6 consecutive stop times all with the same arrival/departure time: 09:34:00.</div><br></li>
-<li><div class="problem">Trip 69909 has 8 consecutive stop times all with the same arrival/departure time: 09:39:00.</div><br></li>
-<li><div class="problem">Trip 69909 has 9 consecutive stop times all with the same arrival/departure time: 09:53:00.</div><br></li>
-<li><div class="problem">Trip 69908 has 6 consecutive stop times all with the same arrival/departure time: 11:04:00.</div><br></li>
-<li><div class="problem">Trip 69908 has 8 consecutive stop times all with the same arrival/departure time: 11:09:00.</div><br></li>
+<li><div class="problem">Trip 79524 has 6 consecutive stop times all with the same arrival/departure time: 09:34:00.</div><br></li>
+<li><div class="problem">Trip 79524 has 8 consecutive stop times all with the same arrival/departure time: 09:39:00.</div><br></li>
+<li><div class="problem">Trip 79524 has 9 consecutive stop times all with the same arrival/departure time: 09:53:00.</div><br></li>
+<li><div class="problem">Trip 79525 has 6 consecutive stop times all with the same arrival/departure time: 11:04:00.</div><br></li>
+<li><div class="problem">Trip 79525 has 8 consecutive stop times all with the same arrival/departure time: 11:09:00.</div><br></li>
 <li>and 4 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningUnrecognizedColumn">Unrecognized Column</a></h4><ul>
 <li><div class="problem">Unrecognized column <code>trip_short_name</code> in file <code>trips.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>trips.txt</code><br>
@@ -87,7 +86,7 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 
 <div class="footer">
 Generated by <a href="http://code.google.com/p/googletransitdatafeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.12 on June 24, 2016 at 11:20 AM Pacific Daylight Time.
+FeedValidator</a> version 1.2.12 on August 31, 2016 at 02:13 PM Pacific Daylight Time.
 </div>
 </body>
 </html>
