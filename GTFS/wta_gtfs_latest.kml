@@ -444,15 +444,15 @@
         </Point>
       </Placemark><Placemark>
         <name>Alabama St at St Paul St</name>
-        <description>Stop id: 5592</description>
-        <Point>
-          <coordinates>-122.451060,48.762970</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Alabama St at St Paul St</name>
         <description>Stop id: 5599</description>
         <Point>
           <coordinates>-122.452510,48.763123</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Alabama St at St Paul St</name>
+        <description>Stop id: 5592</description>
+        <Point>
+          <coordinates>-122.451060,48.762970</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Alabama St at Undine St</name>
@@ -666,15 +666,15 @@
         </Point>
       </Placemark><Placemark>
         <name>Bakerview Rd at Palisade Way</name>
-        <description>Stop id: 5963</description>
-        <Point>
-          <coordinates>-122.503530,48.789780</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Bakerview Rd at Palisade Way</name>
         <description>Stop id: 5957</description>
         <Point>
           <coordinates>-122.503520,48.789577</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Bakerview Rd at Palisade Way</name>
+        <description>Stop id: 5963</description>
+        <Point>
+          <coordinates>-122.503530,48.789780</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Barkley Bvld at Pacific St</name>
@@ -792,15 +792,15 @@
         </Point>
       </Placemark><Placemark>
         <name>Bennett Dr at Marine Dr</name>
-        <description>Stop id: 6056</description>
-        <Point>
-          <coordinates>-122.520310,48.769230</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Bennett Dr at Marine Dr</name>
         <description>Stop id: 5381</description>
         <Point>
           <coordinates>-122.520100,48.769028</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Bennett Dr at Marine Dr</name>
+        <description>Stop id: 6056</description>
+        <Point>
+          <coordinates>-122.520310,48.769230</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Bennett Dr at McAlpine Rd</name>
@@ -984,15 +984,15 @@
         </Point>
       </Placemark><Placemark>
         <name>Birchwood Ave at Orchard Pl</name>
-        <description>Stop id: 5352</description>
-        <Point>
-          <coordinates>-122.479320,48.777081</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Birchwood Ave at Orchard Pl</name>
         <description>Stop id: 5349</description>
         <Point>
           <coordinates>-122.479490,48.777184</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Birchwood Ave at Orchard Pl</name>
+        <description>Stop id: 5352</description>
+        <Point>
+          <coordinates>-122.479320,48.777081</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Birchwood Ave at Squalicum Pkwy</name>
@@ -1944,15 +1944,15 @@
         </Point>
       </Placemark><Placemark>
         <name>Front St at British Columbia Ave</name>
-        <description>Stop id: 5884</description>
-        <Point>
-          <coordinates>-122.462630,48.939922</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Front St at British Columbia Ave</name>
         <description>Stop id: 5537</description>
         <Point>
           <coordinates>-122.462470,48.939831</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Front St at British Columbia Ave</name>
+        <description>Stop id: 5884</description>
+        <Point>
+          <coordinates>-122.462630,48.939922</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Front St at Fairgrounds (East)</name>
@@ -2321,22 +2321,16 @@
           <coordinates>-122.498260,48.720234</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Harris Ave at 16th St</name>
-        <description>Stop id: 5797</description>
-        <Point>
-          <coordinates>-122.496750,48.720131</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Harris Ave at 17th St</name>
         <description>Stop id: 5799</description>
         <Point>
           <coordinates>-122.495490,48.720245</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Harris Ave at 19th St</name>
+        <name>Harris Ave at 18th St</name>
         <description>Stop id: 5798</description>
         <Point>
-          <coordinates>-122.492770,48.720112</coordinates>
+          <coordinates>-122.494650,48.720085</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Harris Ave at 19th St</name>
@@ -3018,15 +3012,15 @@
         </Point>
       </Placemark><Placemark>
         <name>Lakeway Dr at Euclid Ave</name>
-        <description>Stop id: 5254</description>
-        <Point>
-          <coordinates>-122.409580,48.744675</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Lakeway Dr at Euclid Ave</name>
         <description>Stop id: 5953</description>
         <Point>
           <coordinates>-122.410610,48.744709</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Lakeway Dr at Euclid Ave</name>
+        <description>Stop id: 5254</description>
+        <Point>
+          <coordinates>-122.409580,48.744675</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Lakeway Dr at Franklin St</name>
@@ -3360,15 +3354,15 @@
         </Point>
       </Placemark><Placemark>
         <name>Main St at 1850 Block</name>
-        <description>Stop id: 6008</description>
-        <Point>
-          <coordinates>-122.583060,48.844570</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Main St at 1850 Block</name>
         <description>Stop id: 6007</description>
         <Point>
           <coordinates>-122.581890,48.844849</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Main St at 1850 Block</name>
+        <description>Stop id: 6008</description>
+        <Point>
+          <coordinates>-122.583060,48.844570</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Main St at Double Ditch Rd</name>
@@ -3462,15 +3456,15 @@
         </Point>
       </Placemark><Placemark>
         <name>Maplewood Ave at McLeod Rd</name>
-        <description>Stop id: 5893</description>
-        <Point>
-          <coordinates>-122.510980,48.782276</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Maplewood Ave at McLeod Rd</name>
         <description>Stop id: 5860</description>
         <Point>
           <coordinates>-122.511290,48.782619</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Maplewood Ave at McLeod Rd</name>
+        <description>Stop id: 5893</description>
+        <Point>
+          <coordinates>-122.510980,48.782276</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Maplewood Ave at Northwest Ave</name>
@@ -3564,15 +3558,15 @@
         </Point>
       </Placemark><Placemark>
         <name>Marine Dr at Wynn Rd</name>
-        <description>Stop id: 5447</description>
-        <Point>
-          <coordinates>-122.551590,48.783291</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Marine Dr at Wynn Rd</name>
         <description>Stop id: 5448</description>
         <Point>
           <coordinates>-122.551470,48.783409</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Marine Dr at Wynn Rd</name>
+        <description>Stop id: 5447</description>
+        <Point>
+          <coordinates>-122.551590,48.783291</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>McLeod Rd at Squalicum HS</name>
@@ -3798,27 +3792,27 @@
         </Point>
       </Placemark><Placemark>
         <name>Nooksack Rd at Columbia St</name>
-        <description>Stop id: 5186</description>
-        <Point>
-          <coordinates>-122.321770,48.921818</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Nooksack Rd at Columbia St</name>
         <description>Stop id: 5150</description>
         <Point>
           <coordinates>-122.322010,48.921612</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Nooksack Rd at Madison St</name>
-        <description>Stop id: 5187</description>
+        <name>Nooksack Rd at Columbia St</name>
+        <description>Stop id: 5186</description>
         <Point>
-          <coordinates>-122.321730,48.928192</coordinates>
+          <coordinates>-122.321770,48.921818</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Nooksack Rd at Madison St</name>
         <description>Stop id: 5149</description>
         <Point>
           <coordinates>-122.321980,48.927162</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Nooksack Rd at Madison St</name>
+        <description>Stop id: 5187</description>
+        <Point>
+          <coordinates>-122.321730,48.928192</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Nooksack Valley High School</name>
@@ -3966,15 +3960,15 @@
         </Point>
       </Placemark><Placemark>
         <name>Northwest Dr at Aldrich Rd</name>
-        <description>Stop id: 5325</description>
-        <Point>
-          <coordinates>-122.508520,48.790962</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Northwest Dr at Aldrich Rd</name>
         <description>Stop id: 6009</description>
         <Point>
           <coordinates>-122.508480,48.790627</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Northwest Dr at Aldrich Rd</name>
+        <description>Stop id: 5325</description>
+        <Point>
+          <coordinates>-122.508520,48.790962</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Northwest Dr at Larrabee Rd</name>
@@ -4464,15 +4458,15 @@
         </Point>
       </Placemark><Placemark>
         <name>Samish Way at Evergreen Motel</name>
-        <description>Stop id: 5665</description>
-        <Point>
-          <coordinates>-122.470660,48.722427</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Samish Way at Evergreen Motel</name>
         <description>Stop id: 5664</description>
         <Point>
           <coordinates>-122.470850,48.722286</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Samish Way at Evergreen Motel</name>
+        <description>Stop id: 5665</description>
+        <Point>
+          <coordinates>-122.470660,48.722427</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Samish Way at Governor Rd</name>
@@ -5385,7 +5379,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>4433 (trips: 24)</name>
-            <description>Trips using this shape (24 in total): 78726, 78727, 78728, 78729, 78753, 78754, 78755, 78756, 78757, 78785, 78771, 78772, 78773, 78774, 78775, 78776, 78777, 78778, 78779, 78780, 78781, 78782, 78783, 78784</description>
+            <description>Trips using this shape (24 in total): 78753, 78754, 78755, 78756, 78757, 78785, 78771, 78772, 78773, 78774, 78775, 78776, 78777, 78778, 78779, 78780, 78781, 78782, 78783, 78784, 78726, 78727, 78728, 78729</description>
             <styleUrl>#route_1693</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5394,7 +5388,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4431 (trips: 22)</name>
-            <description>Trips using this shape (22 in total): 78701, 78700, 78699, 78698, 78739, 78740, 78741, 78742, 78743, 78770, 78758, 78759, 78760, 78761, 78762, 78763, 78764, 78765, 78766, 78767, 78768, 78769</description>
+            <description>Trips using this shape (22 in total): 78739, 78740, 78741, 78742, 78743, 78770, 78758, 78759, 78760, 78761, 78762, 78763, 78764, 78765, 78766, 78767, 78768, 78769, 78701, 78700, 78699, 78698</description>
             <styleUrl>#route_1693</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5403,7 +5397,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4430 (trips: 21)</name>
-            <description>Trips using this shape (21 in total): 78713, 78712, 78711, 78710, 78709, 78708, 78707, 78706, 78705, 78704, 78703, 78702, 78730, 78731, 78732, 78733, 78734, 78735, 78736, 78737, 78738</description>
+            <description>Trips using this shape (21 in total): 78730, 78731, 78732, 78733, 78734, 78735, 78736, 78737, 78738, 78713, 78712, 78711, 78710, 78709, 78708, 78707, 78706, 78705, 78704, 78703, 78702</description>
             <styleUrl>#route_1693</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5412,7 +5406,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4432 (trips: 21)</name>
-            <description>Trips using this shape (21 in total): 78714, 78715, 78716, 78717, 78718, 78719, 78720, 78721, 78722, 78723, 78724, 78725, 78744, 78745, 78746, 78747, 78748, 78749, 78750, 78751, 78752</description>
+            <description>Trips using this shape (21 in total): 78744, 78745, 78746, 78747, 78748, 78749, 78750, 78751, 78752, 78714, 78715, 78716, 78717, 78718, 78719, 78720, 78721, 78722, 78723, 78724, 78725</description>
             <styleUrl>#route_1693</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5425,7 +5419,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 24)</name>
-            <description>Trips using this pattern (24 in total): 78726, 78727, 78728, 78729, 78753, 78754, 78755, 78756, 78757, 78785, 78771, 78772, 78773, 78774, 78775, 78776, 78777, 78778, 78779, 78780, 78781, 78782, 78783, 78784</description>
+            <description>Trips using this pattern (24 in total): 78753, 78754, 78755, 78756, 78757, 78785, 78771, 78772, 78773, 78774, 78775, 78776, 78777, 78778, 78779, 78780, 78781, 78782, 78783, 78784, 78726, 78727, 78728, 78729</description>
             <styleUrl>#route_1693</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5434,7 +5428,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 2 (trips: 22)</name>
-            <description>Trips using this pattern (22 in total): 78701, 78700, 78699, 78698, 78739, 78740, 78741, 78742, 78743, 78770, 78758, 78759, 78760, 78761, 78762, 78763, 78764, 78765, 78766, 78767, 78768, 78769</description>
+            <description>Trips using this pattern (22 in total): 78739, 78740, 78741, 78742, 78743, 78770, 78758, 78759, 78760, 78761, 78762, 78763, 78764, 78765, 78766, 78767, 78768, 78769, 78701, 78700, 78699, 78698</description>
             <styleUrl>#route_1693</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5443,7 +5437,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 3 (trips: 21)</name>
-            <description>Trips using this pattern (21 in total): 78714, 78715, 78716, 78717, 78718, 78719, 78720, 78721, 78722, 78723, 78724, 78725, 78744, 78745, 78746, 78747, 78748, 78749, 78750, 78751, 78752</description>
+            <description>Trips using this pattern (21 in total): 78744, 78745, 78746, 78747, 78748, 78749, 78750, 78751, 78752, 78714, 78715, 78716, 78717, 78718, 78719, 78720, 78721, 78722, 78723, 78724, 78725</description>
             <styleUrl>#route_1693</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5452,7 +5446,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 4 (trips: 21)</name>
-            <description>Trips using this pattern (21 in total): 78713, 78712, 78711, 78710, 78709, 78708, 78707, 78706, 78705, 78704, 78703, 78702, 78730, 78731, 78732, 78733, 78734, 78735, 78736, 78737, 78738</description>
+            <description>Trips using this pattern (21 in total): 78730, 78731, 78732, 78733, 78734, 78735, 78736, 78737, 78738, 78713, 78712, 78711, 78710, 78709, 78708, 78707, 78706, 78705, 78704, 78703, 78702</description>
             <styleUrl>#route_1693</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5490,21 +5484,21 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 3)</name>
-            <description>Trips using this pattern (3 in total): 78791, 78792, 78793</description>
-            <styleUrl>#route_1695</styleUrl>
-            <visibility>0</visibility>
-            <LineString>
-              <tessellate>1</tessellate>
-              <coordinates>-122.478070,48.715366 -122.475330,48.717682 -122.475300,48.719791 -122.475320,48.721764 -122.475290,48.724823 -122.475300,48.726971 -122.475270,48.728653 -122.474570,48.729969 -122.472520,48.729973 -122.470810,48.733749 -122.476670,48.731445 -122.480870,48.729687 -122.486900,48.726551 -122.490150,48.727673 -122.488730,48.730434 -122.490590,48.733578 -122.486570,48.737797</coordinates>
-            </LineString>
-          </Placemark><Placemark>
-            <name>Pattern 2 (trips: 3)</name>
             <description>Trips using this pattern (3 in total): 78794, 78795, 78796</description>
             <styleUrl>#route_1695</styleUrl>
             <visibility>0</visibility>
             <LineString>
               <tessellate>1</tessellate>
               <coordinates>-122.485490,48.738655 -122.490930,48.733696 -122.489110,48.730473 -122.490370,48.727058 -122.486770,48.726345 -122.480700,48.729507 -122.476170,48.731453 -122.471860,48.733223 -122.472470,48.730156 -122.475560,48.729126 -122.475530,48.726723 -122.475520,48.724937 -122.475570,48.721638 -122.475520,48.718941 -122.476580,48.717384 -122.478260,48.715313</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>Pattern 2 (trips: 3)</name>
+            <description>Trips using this pattern (3 in total): 78791, 78792, 78793</description>
+            <styleUrl>#route_1695</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.478070,48.715366 -122.475330,48.717682 -122.475300,48.719791 -122.475320,48.721764 -122.475290,48.724823 -122.475300,48.726971 -122.475270,48.728653 -122.474570,48.729969 -122.472520,48.729973 -122.470810,48.733749 -122.476670,48.731445 -122.480870,48.729687 -122.486900,48.726551 -122.490150,48.727673 -122.488730,48.730434 -122.490590,48.733578 -122.486570,48.737797</coordinates>
             </LineString>
           </Placemark>
         </Folder>
@@ -5515,7 +5509,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>4439 (trips: 31)</name>
-            <description>Trips using this shape (31 in total): 78797, 78798, 78799, 78800, 78801, 78802, 78803, 78804, 78805, 78806, 78807, 78808, 78809, 78810, 78811, 78812, 78813, 78814, 78815, 78816, 78817, 78818, 78819, 78820, 78821, 78822, 78823, 78824, 78825, 78826, 78827</description>
+            <description>Trips using this shape (31 in total): 78819, 78820, 78821, 78822, 78823, 78824, 78825, 78826, 78827, 78797, 78798, 78799, 78800, 78801, 78802, 78803, 78804, 78805, 78806, 78807, 78808, 78809, 78810, 78811, 78812, 78813, 78814, 78815, 78816, 78817, 78818</description>
             <styleUrl>#route_1696</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5528,7 +5522,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 31)</name>
-            <description>Trips using this pattern (31 in total): 78797, 78798, 78799, 78800, 78801, 78802, 78803, 78804, 78805, 78806, 78807, 78808, 78809, 78810, 78811, 78812, 78813, 78814, 78815, 78816, 78817, 78818, 78819, 78820, 78821, 78822, 78823, 78824, 78825, 78826, 78827</description>
+            <description>Trips using this pattern (31 in total): 78819, 78820, 78821, 78822, 78823, 78824, 78825, 78826, 78827, 78797, 78798, 78799, 78800, 78801, 78802, 78803, 78804, 78805, 78806, 78807, 78808, 78809, 78810, 78811, 78812, 78813, 78814, 78815, 78816, 78817, 78818</description>
             <styleUrl>#route_1696</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5544,7 +5538,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>4440 (trips: 21)</name>
-            <description>Trips using this shape (21 in total): 78828, 78829, 78830, 78831, 78832, 78833, 78834, 78835, 78836, 78837, 78838, 78839, 78840, 78841, 78842, 78843, 78844, 78845, 78846, 78847, 78848</description>
+            <description>Trips using this shape (21 in total): 78840, 78841, 78842, 78843, 78844, 78845, 78846, 78847, 78848, 78828, 78829, 78830, 78831, 78832, 78833, 78834, 78835, 78836, 78837, 78838, 78839</description>
             <styleUrl>#route_1697</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5557,7 +5551,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 21)</name>
-            <description>Trips using this pattern (21 in total): 78828, 78829, 78830, 78831, 78832, 78833, 78834, 78835, 78836, 78837, 78838, 78839, 78840, 78841, 78842, 78843, 78844, 78845, 78846, 78847, 78848</description>
+            <description>Trips using this pattern (21 in total): 78840, 78841, 78842, 78843, 78844, 78845, 78846, 78847, 78848, 78828, 78829, 78830, 78831, 78832, 78833, 78834, 78835, 78836, 78837, 78838, 78839</description>
             <styleUrl>#route_1697</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5602,7 +5596,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>4444 (trips: 70)</name>
-            <description>Trips using this shape (70 in total): 78880, 78857, 78858, 78859, 78860, 78861, 78862, 78863, 78864, 78865, 78866, 78867, 78868, 78869, 78870, 78871, 78872, 78873, 78874, 78875, 78876, 78877, 78878, 78879, 78881, 78882, 78883, 78884, 78885, 78886, 78926, 78917, 78927, 78918, 78928, 78919, 78929, 78920, 78930, 78921, 78931, 78922, 78932, 78923, 78933, 78924, 78934, 78925, 78935, 78936, 78937, 78938, 78939, 78940, 78979, 78965, 78966, 78967, 78968, 78969, 78970, 78971, 78972, 78973, 78974, 78975, 78976, 78977, 78978, 78980</description>
+            <description>Trips using this shape (70 in total): 78926, 78917, 78927, 78918, 78928, 78919, 78929, 78920, 78930, 78921, 78931, 78922, 78932, 78923, 78933, 78924, 78934, 78925, 78935, 78936, 78937, 78938, 78939, 78940, 78979, 78965, 78966, 78967, 78968, 78969, 78970, 78971, 78972, 78973, 78974, 78975, 78976, 78977, 78978, 78980, 78880, 78857, 78858, 78859, 78860, 78861, 78862, 78863, 78864, 78865, 78866, 78867, 78868, 78869, 78870, 78871, 78872, 78873, 78874, 78875, 78876, 78877, 78878, 78879, 78881, 78882, 78883, 78884, 78885, 78886</description>
             <styleUrl>#route_1700</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5611,7 +5605,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4445 (trips: 70)</name>
-            <description>Trips using this shape (70 in total): 78887, 78888, 78889, 78890, 78891, 78892, 78893, 78894, 78895, 78896, 78897, 78898, 78899, 78900, 78901, 78902, 78903, 78904, 78905, 78906, 78907, 78908, 78909, 78910, 78911, 78912, 78913, 78914, 78915, 78916, 78950, 78941, 78951, 78942, 78952, 78943, 78953, 78944, 78954, 78945, 78955, 78946, 78956, 78947, 78957, 78948, 78958, 78949, 78959, 78960, 78961, 78962, 78963, 78964, 78995, 78981, 78982, 78983, 78984, 78985, 78986, 78987, 78988, 78989, 78990, 78991, 78992, 78993, 78994, 78996</description>
+            <description>Trips using this shape (70 in total): 78950, 78941, 78951, 78942, 78952, 78943, 78953, 78944, 78954, 78945, 78955, 78946, 78956, 78947, 78957, 78948, 78958, 78949, 78959, 78960, 78961, 78962, 78963, 78964, 78995, 78981, 78982, 78983, 78984, 78985, 78986, 78987, 78988, 78989, 78990, 78991, 78992, 78993, 78994, 78996, 78887, 78888, 78889, 78890, 78891, 78892, 78893, 78894, 78895, 78896, 78897, 78898, 78899, 78900, 78901, 78902, 78903, 78904, 78905, 78906, 78907, 78908, 78909, 78910, 78911, 78912, 78913, 78914, 78915, 78916</description>
             <styleUrl>#route_1700</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5624,21 +5618,21 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 70)</name>
-            <description>Trips using this pattern (70 in total): 78887, 78888, 78889, 78890, 78891, 78892, 78893, 78894, 78895, 78896, 78897, 78898, 78899, 78900, 78901, 78902, 78903, 78904, 78905, 78906, 78907, 78908, 78909, 78910, 78911, 78912, 78913, 78914, 78915, 78916, 78950, 78941, 78951, 78942, 78952, 78943, 78953, 78944, 78954, 78945, 78955, 78946, 78956, 78947, 78957, 78948, 78958, 78949, 78959, 78960, 78961, 78962, 78963, 78964, 78995, 78981, 78982, 78983, 78984, 78985, 78986, 78987, 78988, 78989, 78990, 78991, 78992, 78993, 78994, 78996</description>
-            <styleUrl>#route_1700</styleUrl>
-            <visibility>0</visibility>
-            <LineString>
-              <tessellate>1</tessellate>
-              <coordinates>-122.502100,48.719112 -122.499230,48.720108 -122.496750,48.720131 -122.492770,48.720112 -122.490460,48.719913 -122.489960,48.717587 -122.486150,48.717834 -122.486150,48.719563 -122.486110,48.720959 -122.486110,48.722851 -122.485760,48.723801 -122.485180,48.726261 -122.486900,48.726551 -122.490150,48.727673 -122.488730,48.730434 -122.490590,48.733578 -122.486570,48.737797 -122.483570,48.739876 -122.477170,48.742817 -122.474080,48.744873 -122.473070,48.745964 -122.475720,48.747669 -122.476080,48.750095</coordinates>
-            </LineString>
-          </Placemark><Placemark>
-            <name>Pattern 2 (trips: 70)</name>
-            <description>Trips using this pattern (70 in total): 78880, 78857, 78858, 78859, 78860, 78861, 78862, 78863, 78864, 78865, 78866, 78867, 78868, 78869, 78870, 78871, 78872, 78873, 78874, 78875, 78876, 78877, 78878, 78879, 78881, 78882, 78883, 78884, 78885, 78886, 78926, 78917, 78927, 78918, 78928, 78919, 78929, 78920, 78930, 78921, 78931, 78922, 78932, 78923, 78933, 78924, 78934, 78925, 78935, 78936, 78937, 78938, 78939, 78940, 78979, 78965, 78966, 78967, 78968, 78969, 78970, 78971, 78972, 78973, 78974, 78975, 78976, 78977, 78978, 78980</description>
+            <description>Trips using this pattern (70 in total): 78926, 78917, 78927, 78918, 78928, 78919, 78929, 78920, 78930, 78921, 78931, 78922, 78932, 78923, 78933, 78924, 78934, 78925, 78935, 78936, 78937, 78938, 78939, 78940, 78979, 78965, 78966, 78967, 78968, 78969, 78970, 78971, 78972, 78973, 78974, 78975, 78976, 78977, 78978, 78980, 78880, 78857, 78858, 78859, 78860, 78861, 78862, 78863, 78864, 78865, 78866, 78867, 78868, 78869, 78870, 78871, 78872, 78873, 78874, 78875, 78876, 78877, 78878, 78879, 78881, 78882, 78883, 78884, 78885, 78886</description>
             <styleUrl>#route_1700</styleUrl>
             <visibility>0</visibility>
             <LineString>
               <tessellate>1</tessellate>
               <coordinates>-122.476080,48.750095 -122.472860,48.747581 -122.472800,48.745861 -122.474960,48.744518 -122.477970,48.742462 -122.483810,48.739925 -122.485490,48.738655 -122.490930,48.733696 -122.489110,48.730473 -122.490370,48.727058 -122.490480,48.725197 -122.490520,48.722725 -122.491040,48.720242 -122.493420,48.720245 -122.495490,48.720245 -122.498260,48.720234 -122.500400,48.717766 -122.502100,48.719112</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>Pattern 2 (trips: 70)</name>
+            <description>Trips using this pattern (70 in total): 78950, 78941, 78951, 78942, 78952, 78943, 78953, 78944, 78954, 78945, 78955, 78946, 78956, 78947, 78957, 78948, 78958, 78949, 78959, 78960, 78961, 78962, 78963, 78964, 78995, 78981, 78982, 78983, 78984, 78985, 78986, 78987, 78988, 78989, 78990, 78991, 78992, 78993, 78994, 78996, 78887, 78888, 78889, 78890, 78891, 78892, 78893, 78894, 78895, 78896, 78897, 78898, 78899, 78900, 78901, 78902, 78903, 78904, 78905, 78906, 78907, 78908, 78909, 78910, 78911, 78912, 78913, 78914, 78915, 78916</description>
+            <styleUrl>#route_1700</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.502100,48.719112 -122.499230,48.720108 -122.494650,48.720085 -122.490460,48.719913 -122.489960,48.717587 -122.486150,48.717834 -122.486150,48.719563 -122.486110,48.720959 -122.486110,48.722851 -122.485760,48.723801 -122.485180,48.726261 -122.486900,48.726551 -122.490150,48.727673 -122.488730,48.730434 -122.490590,48.733578 -122.486570,48.737797 -122.483570,48.739876 -122.477170,48.742817 -122.474080,48.744873 -122.473070,48.745964 -122.475720,48.747669 -122.476080,48.750095</coordinates>
             </LineString>
           </Placemark>
         </Folder>
@@ -5678,7 +5672,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>4450 (trips: 41)</name>
-            <description>Trips using this shape (41 in total): 79006, 79008, 79010, 79012, 79014, 79016, 79018, 79020, 79022, 79024, 79026, 79028, 79030, 79031, 79032, 79033, 79061, 79062, 79063, 79064, 79065, 79066, 79067, 79068, 79069, 79070, 79071, 79072, 79073, 79109, 79110, 79111, 79112, 79113, 79115, 79114, 79104, 79105, 79106, 79107, 79108</description>
+            <description>Trips using this shape (41 in total): 79061, 79062, 79063, 79064, 79065, 79066, 79067, 79068, 79069, 79070, 79071, 79072, 79073, 79109, 79110, 79111, 79112, 79113, 79115, 79114, 79104, 79105, 79106, 79107, 79108, 79006, 79008, 79010, 79012, 79014, 79016, 79018, 79020, 79022, 79024, 79026, 79028, 79030, 79031, 79032, 79033</description>
             <styleUrl>#route_1703</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5696,7 +5690,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4453 (trips: 21)</name>
-            <description>Trips using this shape (21 in total): 79034, 79036, 79038, 79040, 79042, 79044, 79046, 79048, 79050, 79052, 79054, 79056, 79095, 79096, 79097, 79098, 79099, 79100, 79101, 79102, 79103</description>
+            <description>Trips using this shape (21 in total): 79036, 79038, 79040, 79042, 79044, 79046, 79048, 79050, 79052, 79054, 79056, 79095, 79096, 79097, 79098, 79099, 79100, 79101, 79102, 79103, 79034</description>
             <styleUrl>#route_1703</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5705,7 +5699,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4451 (trips: 21)</name>
-            <description>Trips using this shape (21 in total): 79007, 79009, 79011, 79013, 79015, 79017, 79019, 79021, 79023, 79025, 79027, 79029, 79074, 79075, 79076, 79077, 79078, 79079, 79080, 79081, 79082</description>
+            <description>Trips using this shape (21 in total): 79074, 79075, 79076, 79077, 79078, 79079, 79080, 79081, 79082, 79007, 79009, 79011, 79013, 79015, 79017, 79019, 79021, 79023, 79025, 79027, 79029</description>
             <styleUrl>#route_1703</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5718,7 +5712,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 41)</name>
-            <description>Trips using this pattern (41 in total): 79006, 79008, 79010, 79012, 79014, 79016, 79018, 79020, 79022, 79024, 79026, 79028, 79030, 79031, 79032, 79033, 79061, 79062, 79063, 79064, 79065, 79066, 79067, 79068, 79069, 79070, 79071, 79072, 79073, 79109, 79110, 79111, 79112, 79113, 79115, 79114, 79104, 79105, 79106, 79107, 79108</description>
+            <description>Trips using this pattern (41 in total): 79061, 79062, 79063, 79064, 79065, 79066, 79067, 79068, 79069, 79070, 79071, 79072, 79073, 79109, 79110, 79111, 79112, 79113, 79115, 79114, 79104, 79105, 79106, 79107, 79108, 79006, 79008, 79010, 79012, 79014, 79016, 79018, 79020, 79022, 79024, 79026, 79028, 79030, 79031, 79032, 79033</description>
             <styleUrl>#route_1703</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5736,7 +5730,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 3 (trips: 21)</name>
-            <description>Trips using this pattern (21 in total): 79007, 79009, 79011, 79013, 79015, 79017, 79019, 79021, 79023, 79025, 79027, 79029, 79074, 79075, 79076, 79077, 79078, 79079, 79080, 79081, 79082</description>
+            <description>Trips using this pattern (21 in total): 79074, 79075, 79076, 79077, 79078, 79079, 79080, 79081, 79082, 79007, 79009, 79011, 79013, 79015, 79017, 79019, 79021, 79023, 79025, 79027, 79029</description>
             <styleUrl>#route_1703</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5745,7 +5739,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 4 (trips: 21)</name>
-            <description>Trips using this pattern (21 in total): 79034, 79036, 79038, 79040, 79042, 79044, 79046, 79048, 79050, 79052, 79054, 79056, 79095, 79096, 79097, 79098, 79099, 79100, 79101, 79102, 79103</description>
+            <description>Trips using this pattern (21 in total): 79036, 79038, 79040, 79042, 79044, 79046, 79048, 79050, 79052, 79054, 79056, 79095, 79096, 79097, 79098, 79099, 79100, 79101, 79102, 79103, 79034</description>
             <styleUrl>#route_1703</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5866,7 +5860,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>4461 (trips: 98)</name>
-            <description>Trips using this shape (98 in total): 79313, 79314, 79315, 79316, 79317, 79318, 79319, 79320, 79321, 79322, 79323, 79324, 79325, 79326, 79327, 79328, 79329, 79330, 79331, 79332, 79333, 79334, 79335, 79336, 79337, 79338, 79339, 79340, 79341, 79342, 79343, 79344, 79345, 79346, 79347, 79348, 79349, 79350, 79351, 79352, 79353, 79354, 79355, 79356, 79357, 79358, 79359, 79360, 79361, 79362, 79363, 79364, 79392, 79393, 79394, 79395, 79396, 79397, 79398, 79399, 79400, 79401, 79402, 79403, 79404, 79405, 79406, 79407, 79408, 79409, 79388, 79389, 79390, 79391, 79454, 79455, 79434, 79435, 79436, 79437, 79438, 79439, 79440, 79441, 79442, 79443, 79444, 79445, 79446, 79447, 79448, 79449, 79450, 79451, 79452, 79453, 79456, 79457</description>
+            <description>Trips using this shape (98 in total): 79313, 79314, 79315, 79316, 79317, 79318, 79319, 79320, 79321, 79322, 79323, 79324, 79325, 79326, 79327, 79328, 79329, 79330, 79331, 79332, 79333, 79334, 79335, 79336, 79337, 79338, 79339, 79340, 79341, 79342, 79343, 79392, 79393, 79394, 79395, 79396, 79397, 79398, 79399, 79400, 79401, 79402, 79403, 79404, 79405, 79406, 79407, 79408, 79409, 79388, 79389, 79390, 79391, 79454, 79455, 79434, 79435, 79436, 79437, 79438, 79439, 79440, 79441, 79442, 79443, 79444, 79445, 79446, 79447, 79448, 79449, 79450, 79451, 79452, 79453, 79456, 79457, 79344, 79345, 79346, 79347, 79348, 79349, 79350, 79351, 79352, 79353, 79354, 79355, 79356, 79357, 79358, 79359, 79360, 79361, 79362, 79363, 79364</description>
             <styleUrl>#route_1708</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5888,7 +5882,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 98)</name>
-            <description>Trips using this pattern (98 in total): 79313, 79314, 79315, 79316, 79317, 79318, 79319, 79320, 79321, 79322, 79323, 79324, 79325, 79326, 79327, 79328, 79329, 79330, 79331, 79332, 79333, 79334, 79335, 79336, 79337, 79338, 79339, 79340, 79341, 79342, 79343, 79344, 79345, 79346, 79347, 79348, 79349, 79350, 79351, 79352, 79353, 79354, 79355, 79356, 79357, 79358, 79359, 79360, 79361, 79362, 79363, 79364, 79392, 79393, 79394, 79395, 79396, 79397, 79398, 79399, 79400, 79401, 79402, 79403, 79404, 79405, 79406, 79407, 79408, 79409, 79388, 79389, 79390, 79391, 79454, 79455, 79434, 79435, 79436, 79437, 79438, 79439, 79440, 79441, 79442, 79443, 79444, 79445, 79446, 79447, 79448, 79449, 79450, 79451, 79452, 79453, 79456, 79457</description>
+            <description>Trips using this pattern (98 in total): 79313, 79314, 79315, 79316, 79317, 79318, 79319, 79320, 79321, 79322, 79323, 79324, 79325, 79326, 79327, 79328, 79329, 79330, 79331, 79332, 79333, 79334, 79335, 79336, 79337, 79338, 79339, 79340, 79341, 79342, 79343, 79392, 79393, 79394, 79395, 79396, 79397, 79398, 79399, 79400, 79401, 79402, 79403, 79404, 79405, 79406, 79407, 79408, 79409, 79388, 79389, 79390, 79391, 79454, 79455, 79434, 79435, 79436, 79437, 79438, 79439, 79440, 79441, 79442, 79443, 79444, 79445, 79446, 79447, 79448, 79449, 79450, 79451, 79452, 79453, 79456, 79457, 79344, 79345, 79346, 79347, 79348, 79349, 79350, 79351, 79352, 79353, 79354, 79355, 79356, 79357, 79358, 79359, 79360, 79361, 79362, 79363, 79364</description>
             <styleUrl>#route_1708</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5913,7 +5907,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>4462 (trips: 39)</name>
-            <description>Trips using this shape (39 in total): 79458, 79459, 79460, 79461, 79462, 79463, 79464, 79465, 79466, 79467, 79468, 79469, 79470, 79471, 79472, 79473, 79474, 79475, 79476, 79477, 79478, 79479, 79480, 79481, 79482, 79483, 79484, 79495, 79485, 79486, 79487, 79488, 79489, 79490, 79491, 79492, 79493, 79494, 79496</description>
+            <description>Trips using this shape (39 in total): 79473, 79474, 79475, 79476, 79477, 79478, 79479, 79480, 79481, 79482, 79483, 79484, 79495, 79485, 79486, 79487, 79488, 79489, 79490, 79491, 79492, 79493, 79494, 79496, 79458, 79459, 79460, 79461, 79462, 79463, 79464, 79465, 79466, 79467, 79468, 79469, 79470, 79471, 79472</description>
             <styleUrl>#route_1709</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5926,7 +5920,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 39)</name>
-            <description>Trips using this pattern (39 in total): 79458, 79459, 79460, 79461, 79462, 79463, 79464, 79465, 79466, 79467, 79468, 79469, 79470, 79471, 79472, 79473, 79474, 79475, 79476, 79477, 79478, 79479, 79480, 79481, 79482, 79483, 79484, 79495, 79485, 79486, 79487, 79488, 79489, 79490, 79491, 79492, 79493, 79494, 79496</description>
+            <description>Trips using this pattern (39 in total): 79473, 79474, 79475, 79476, 79477, 79478, 79479, 79480, 79481, 79482, 79483, 79484, 79495, 79485, 79486, 79487, 79488, 79489, 79490, 79491, 79492, 79493, 79494, 79496, 79458, 79459, 79460, 79461, 79462, 79463, 79464, 79465, 79466, 79467, 79468, 79469, 79470, 79471, 79472</description>
             <styleUrl>#route_1709</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5989,7 +5983,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>4466 (trips: 9)</name>
-            <description>Trips using this shape (9 in total): 79503, 79504, 79505, 79506, 79507, 79520, 79521, 79522, 79523</description>
+            <description>Trips using this shape (9 in total): 79520, 79521, 79522, 79523, 79503, 79504, 79505, 79506, 79507</description>
             <styleUrl>#route_1711</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -5998,7 +5992,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4468 (trips: 8)</name>
-            <description>Trips using this shape (8 in total): 79512, 79513, 79514, 79515, 79527, 79528, 79529, 79530</description>
+            <description>Trips using this shape (8 in total): 79527, 79528, 79529, 79530, 79512, 79513, 79514, 79515</description>
             <styleUrl>#route_1711</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6007,7 +6001,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4467 (trips: 7)</name>
-            <description>Trips using this shape (7 in total): 79508, 79509, 79510, 79511, 79524, 79525, 79526</description>
+            <description>Trips using this shape (7 in total): 79524, 79525, 79526, 79508, 79509, 79510, 79511</description>
             <styleUrl>#route_1711</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6016,7 +6010,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4465 (trips: 7)</name>
-            <description>Trips using this shape (7 in total): 79499, 79500, 79501, 79502, 79517, 79518, 79519</description>
+            <description>Trips using this shape (7 in total): 79517, 79518, 79519, 79499, 79500, 79501, 79502</description>
             <styleUrl>#route_1711</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6038,7 +6032,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 9)</name>
-            <description>Trips using this pattern (9 in total): 79503, 79504, 79505, 79506, 79507, 79520, 79521, 79522, 79523</description>
+            <description>Trips using this pattern (9 in total): 79520, 79521, 79522, 79523, 79503, 79504, 79505, 79506, 79507</description>
             <styleUrl>#route_1711</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6047,7 +6041,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 2 (trips: 8)</name>
-            <description>Trips using this pattern (8 in total): 79512, 79513, 79514, 79515, 79527, 79528, 79529, 79530</description>
+            <description>Trips using this pattern (8 in total): 79527, 79528, 79529, 79530, 79512, 79513, 79514, 79515</description>
             <styleUrl>#route_1711</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6056,7 +6050,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 3 (trips: 7)</name>
-            <description>Trips using this pattern (7 in total): 79508, 79509, 79510, 79511, 79524, 79525, 79526</description>
+            <description>Trips using this pattern (7 in total): 79524, 79525, 79526, 79508, 79509, 79510, 79511</description>
             <styleUrl>#route_1711</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6065,7 +6059,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 4 (trips: 7)</name>
-            <description>Trips using this pattern (7 in total): 79499, 79500, 79501, 79502, 79517, 79518, 79519</description>
+            <description>Trips using this pattern (7 in total): 79517, 79518, 79519, 79499, 79500, 79501, 79502</description>
             <styleUrl>#route_1711</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6137,7 +6131,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>4474 (trips: 98)</name>
-            <description>Trips using this shape (98 in total): 79624, 79623, 79622, 79621, 79620, 79637, 79638, 79639, 79640, 79641, 79642, 79643, 79644, 79645, 79646, 79647, 79648, 79649, 79650, 79651, 79652, 79653, 79654, 79655, 79656, 79657, 79658, 79636, 79635, 79634, 79633, 79632, 79631, 79630, 79629, 79628, 79627, 79626, 79625, 79659, 79660, 79661, 79662, 79663, 79664, 79665, 79666, 79667, 79668, 79669, 79787, 79788, 79767, 79768, 79769, 79770, 79771, 79772, 79773, 79774, 79775, 79776, 79777, 79778, 79779, 79780, 79781, 79782, 79783, 79784, 79785, 79786, 79789, 79790, 79725, 79726, 79727, 79728, 79729, 79730, 79731, 79732, 79733, 79734, 79735, 79736, 79737, 79738, 79739, 79740, 79741, 79742, 79743, 79744, 79721, 79722, 79723, 79724</description>
+            <description>Trips using this shape (98 in total): 79787, 79788, 79767, 79768, 79769, 79770, 79771, 79772, 79773, 79774, 79775, 79776, 79777, 79778, 79779, 79780, 79781, 79782, 79783, 79784, 79785, 79786, 79789, 79790, 79624, 79623, 79622, 79621, 79620, 79637, 79638, 79639, 79640, 79641, 79642, 79643, 79644, 79645, 79646, 79647, 79648, 79649, 79650, 79651, 79652, 79653, 79654, 79655, 79656, 79657, 79658, 79636, 79635, 79634, 79633, 79632, 79631, 79630, 79629, 79628, 79627, 79626, 79625, 79659, 79660, 79661, 79662, 79663, 79664, 79665, 79666, 79667, 79668, 79669, 79725, 79726, 79727, 79728, 79729, 79730, 79731, 79732, 79733, 79734, 79735, 79736, 79737, 79738, 79739, 79740, 79741, 79742, 79743, 79744, 79721, 79722, 79723, 79724</description>
             <styleUrl>#route_1714</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6146,7 +6140,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4476 (trips: 96)</name>
-            <description>Trips using this shape (96 in total): 79682, 79683, 79684, 79685, 79686, 79687, 79688, 79689, 79690, 79691, 79692, 79693, 79694, 79695, 79696, 79697, 79698, 79699, 79700, 79701, 79702, 79703, 79704, 79705, 79706, 79707, 79708, 79709, 79710, 79711, 79712, 79713, 79714, 79715, 79716, 79717, 79718, 79719, 79720, 79670, 79671, 79672, 79673, 79674, 79675, 79676, 79677, 79678, 79679, 79680, 79681, 79810, 79811, 79791, 79792, 79793, 79794, 79795, 79796, 79797, 79798, 79799, 79800, 79801, 79802, 79803, 79804, 79805, 79806, 79807, 79808, 79809, 79812, 79813, 79745, 79746, 79747, 79748, 79749, 79750, 79751, 79752, 79753, 79754, 79755, 79756, 79757, 79758, 79759, 79760, 79761, 79762, 79763, 79764, 79765, 79766</description>
+            <description>Trips using this shape (96 in total): 79682, 79683, 79684, 79685, 79686, 79687, 79688, 79689, 79690, 79691, 79692, 79693, 79694, 79695, 79696, 79697, 79698, 79699, 79700, 79701, 79702, 79703, 79704, 79705, 79706, 79707, 79708, 79709, 79710, 79711, 79712, 79713, 79714, 79715, 79716, 79717, 79718, 79719, 79720, 79810, 79811, 79791, 79792, 79793, 79794, 79795, 79796, 79797, 79798, 79799, 79800, 79801, 79802, 79803, 79804, 79805, 79806, 79807, 79808, 79809, 79812, 79813, 79670, 79671, 79672, 79673, 79674, 79675, 79676, 79677, 79678, 79679, 79680, 79681, 79745, 79746, 79747, 79748, 79749, 79750, 79751, 79752, 79753, 79754, 79755, 79756, 79757, 79758, 79759, 79760, 79761, 79762, 79763, 79764, 79765, 79766</description>
             <styleUrl>#route_1714</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6159,7 +6153,7 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 98)</name>
-            <description>Trips using this pattern (98 in total): 79624, 79623, 79622, 79621, 79620, 79637, 79638, 79639, 79640, 79641, 79642, 79643, 79644, 79645, 79646, 79647, 79648, 79649, 79650, 79651, 79652, 79653, 79654, 79655, 79656, 79657, 79658, 79636, 79635, 79634, 79633, 79632, 79631, 79630, 79629, 79628, 79627, 79626, 79625, 79659, 79660, 79661, 79662, 79663, 79664, 79665, 79666, 79667, 79668, 79669, 79787, 79788, 79767, 79768, 79769, 79770, 79771, 79772, 79773, 79774, 79775, 79776, 79777, 79778, 79779, 79780, 79781, 79782, 79783, 79784, 79785, 79786, 79789, 79790, 79725, 79726, 79727, 79728, 79729, 79730, 79731, 79732, 79733, 79734, 79735, 79736, 79737, 79738, 79739, 79740, 79741, 79742, 79743, 79744, 79721, 79722, 79723, 79724</description>
+            <description>Trips using this pattern (98 in total): 79787, 79788, 79767, 79768, 79769, 79770, 79771, 79772, 79773, 79774, 79775, 79776, 79777, 79778, 79779, 79780, 79781, 79782, 79783, 79784, 79785, 79786, 79789, 79790, 79624, 79623, 79622, 79621, 79620, 79637, 79638, 79639, 79640, 79641, 79642, 79643, 79644, 79645, 79646, 79647, 79648, 79649, 79650, 79651, 79652, 79653, 79654, 79655, 79656, 79657, 79658, 79636, 79635, 79634, 79633, 79632, 79631, 79630, 79629, 79628, 79627, 79626, 79625, 79659, 79660, 79661, 79662, 79663, 79664, 79665, 79666, 79667, 79668, 79669, 79725, 79726, 79727, 79728, 79729, 79730, 79731, 79732, 79733, 79734, 79735, 79736, 79737, 79738, 79739, 79740, 79741, 79742, 79743, 79744, 79721, 79722, 79723, 79724</description>
             <styleUrl>#route_1714</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6168,7 +6162,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 2 (trips: 96)</name>
-            <description>Trips using this pattern (96 in total): 79682, 79683, 79684, 79685, 79686, 79687, 79688, 79689, 79690, 79691, 79692, 79693, 79694, 79695, 79696, 79697, 79698, 79699, 79700, 79701, 79702, 79703, 79704, 79705, 79706, 79707, 79708, 79709, 79710, 79711, 79712, 79713, 79714, 79715, 79716, 79717, 79718, 79719, 79720, 79670, 79671, 79672, 79673, 79674, 79675, 79676, 79677, 79678, 79679, 79680, 79681, 79810, 79811, 79791, 79792, 79793, 79794, 79795, 79796, 79797, 79798, 79799, 79800, 79801, 79802, 79803, 79804, 79805, 79806, 79807, 79808, 79809, 79812, 79813, 79745, 79746, 79747, 79748, 79749, 79750, 79751, 79752, 79753, 79754, 79755, 79756, 79757, 79758, 79759, 79760, 79761, 79762, 79763, 79764, 79765, 79766</description>
+            <description>Trips using this pattern (96 in total): 79682, 79683, 79684, 79685, 79686, 79687, 79688, 79689, 79690, 79691, 79692, 79693, 79694, 79695, 79696, 79697, 79698, 79699, 79700, 79701, 79702, 79703, 79704, 79705, 79706, 79707, 79708, 79709, 79710, 79711, 79712, 79713, 79714, 79715, 79716, 79717, 79718, 79719, 79720, 79810, 79811, 79791, 79792, 79793, 79794, 79795, 79796, 79797, 79798, 79799, 79800, 79801, 79802, 79803, 79804, 79805, 79806, 79807, 79808, 79809, 79812, 79813, 79670, 79671, 79672, 79673, 79674, 79675, 79676, 79677, 79678, 79679, 79680, 79681, 79745, 79746, 79747, 79748, 79749, 79750, 79751, 79752, 79753, 79754, 79755, 79756, 79757, 79758, 79759, 79760, 79761, 79762, 79763, 79764, 79765, 79766</description>
             <styleUrl>#route_1714</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6240,7 +6234,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4480 (trips: 94)</name>
-            <description>Trips using this shape (94 in total): 79935, 79936, 79937, 79938, 79939, 79940, 79941, 79942, 79943, 79944, 79945, 79946, 79947, 79948, 79949, 79950, 79951, 79952, 79953, 79954, 79955, 79956, 79957, 79958, 79959, 79960, 79961, 79962, 79934, 79933, 79932, 79931, 79930, 79929, 79928, 79927, 79926, 79925, 79924, 79923, 79922, 79921, 79920, 79919, 79918, 79917, 79916, 79912, 79915, 79911, 79914, 79963, 79913, 79964, 80045, 80034, 79992, 79993, 79994, 79995, 79996, 79997, 79998, 79999, 80000, 80001, 80002, 80003, 80004, 80005, 80006, 80007, 80008, 80009, 80010, 80011, 80015, 80012, 80016, 80013, 80017, 80014, 80018, 80035, 80036, 80037, 80038, 80039, 80040, 80041, 80042, 80043, 80044, 80046</description>
+            <description>Trips using this shape (94 in total): 79935, 79936, 79937, 79938, 79939, 79940, 79941, 79942, 79943, 79944, 79945, 79946, 79947, 79948, 79949, 79950, 79951, 79952, 79953, 79954, 79955, 79956, 79957, 79958, 79959, 79960, 79961, 79962, 79934, 79933, 79932, 79931, 79930, 79929, 79928, 79927, 79926, 79925, 79924, 79923, 79922, 79921, 79920, 79919, 79918, 79917, 79916, 79912, 79915, 79911, 79914, 79963, 79913, 79964, 80045, 80034, 80035, 80036, 80037, 80038, 80039, 80040, 80041, 80042, 80043, 80044, 80046, 79992, 79993, 79994, 79995, 79996, 79997, 79998, 79999, 80000, 80001, 80002, 80003, 80004, 80005, 80006, 80007, 80008, 80009, 80010, 80011, 80015, 80012, 80016, 80013, 80017, 80014, 80018</description>
             <styleUrl>#route_1716</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6262,7 +6256,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 2 (trips: 94)</name>
-            <description>Trips using this pattern (94 in total): 79935, 79936, 79937, 79938, 79939, 79940, 79941, 79942, 79943, 79944, 79945, 79946, 79947, 79948, 79949, 79950, 79951, 79952, 79953, 79954, 79955, 79956, 79957, 79958, 79959, 79960, 79961, 79962, 79934, 79933, 79932, 79931, 79930, 79929, 79928, 79927, 79926, 79925, 79924, 79923, 79922, 79921, 79920, 79919, 79918, 79917, 79916, 79912, 79915, 79911, 79914, 79963, 79913, 79964, 80045, 80034, 79992, 79993, 79994, 79995, 79996, 79997, 79998, 79999, 80000, 80001, 80002, 80003, 80004, 80005, 80006, 80007, 80008, 80009, 80010, 80011, 80015, 80012, 80016, 80013, 80017, 80014, 80018, 80035, 80036, 80037, 80038, 80039, 80040, 80041, 80042, 80043, 80044, 80046</description>
+            <description>Trips using this pattern (94 in total): 79935, 79936, 79937, 79938, 79939, 79940, 79941, 79942, 79943, 79944, 79945, 79946, 79947, 79948, 79949, 79950, 79951, 79952, 79953, 79954, 79955, 79956, 79957, 79958, 79959, 79960, 79961, 79962, 79934, 79933, 79932, 79931, 79930, 79929, 79928, 79927, 79926, 79925, 79924, 79923, 79922, 79921, 79920, 79919, 79918, 79917, 79916, 79912, 79915, 79911, 79914, 79963, 79913, 79964, 80045, 80034, 80035, 80036, 80037, 80038, 80039, 80040, 80041, 80042, 80043, 80044, 80046, 79992, 79993, 79994, 79995, 79996, 79997, 79998, 79999, 80000, 80001, 80002, 80003, 80004, 80005, 80006, 80007, 80008, 80009, 80010, 80011, 80015, 80012, 80016, 80013, 80017, 80014, 80018</description>
             <styleUrl>#route_1716</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6499,21 +6493,21 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 14)</name>
-            <description>Trips using this pattern (14 in total): 80105, 80106, 80107, 80108, 80109, 80110, 80111, 80112, 80119, 80120, 80121, 80122, 80123, 80124</description>
-            <styleUrl>#route_1721</styleUrl>
-            <visibility>0</visibility>
-            <LineString>
-              <tessellate>1</tessellate>
-              <coordinates>-122.670460,48.732670 -122.672170,48.735123 -122.670320,48.738747 -122.666470,48.743477 -122.663480,48.747116 -122.660450,48.750725 -122.657660,48.754105 -122.654440,48.758045 -122.646290,48.769005 -122.643930,48.776630 -122.633230,48.793667 -122.627330,48.793751 -122.624000,48.793770 -122.620880,48.793770 -122.617370,48.793770 -122.614650,48.793785 -122.581060,48.790291 -122.573620,48.789314 -122.573620,48.787209 -122.573730,48.783421 -122.565610,48.783009 -122.560490,48.783108 -122.555600,48.783226 -122.551590,48.783291 -122.542530,48.781021 -122.538120,48.779762 -122.532230,48.781086 -122.525300,48.785652 -122.521360,48.785923 -122.518750,48.783337 -122.520130,48.780743 -122.520160,48.778767 -122.517750,48.776791 -122.512550,48.776802 -122.510600,48.776802 -122.507040,48.776821 -122.503120,48.777004 -122.499530,48.775978 -122.497020,48.775299 -122.494420,48.772099 -122.491650,48.768639 -122.489580,48.766121 -122.488480,48.762779 -122.488490,48.760433 -122.487950,48.759396 -122.485910,48.758068 -122.482650,48.755947 -122.481130,48.754128 -122.480670,48.751846 -122.476080,48.750095</coordinates>
-            </LineString>
-          </Placemark><Placemark>
-            <name>Pattern 2 (trips: 14)</name>
             <description>Trips using this pattern (14 in total): 80097, 80098, 80099, 80100, 80101, 80102, 80103, 80104, 80113, 80114, 80115, 80116, 80117, 80118</description>
             <styleUrl>#route_1721</styleUrl>
             <visibility>0</visibility>
             <LineString>
               <tessellate>1</tessellate>
               <coordinates>-122.476080,48.750095 -122.477060,48.751987 -122.479150,48.751953 -122.480930,48.753223 -122.482510,48.756054 -122.485460,48.757961 -122.488280,48.760342 -122.488260,48.763401 -122.489080,48.765800 -122.491420,48.768700 -122.493450,48.771198 -122.496390,48.774864 -122.498570,48.775913 -122.505720,48.776905 -122.509530,48.776901 -122.511880,48.776897 -122.517790,48.776886 -122.519970,48.778500 -122.519930,48.780773 -122.518570,48.783447 -122.521020,48.786098 -122.525180,48.785885 -122.531440,48.781841 -122.538380,48.779819 -122.542750,48.781250 -122.551470,48.783409 -122.556350,48.783302 -122.560920,48.783230 -122.565830,48.783119 -122.573040,48.783108 -122.573520,48.787258 -122.573490,48.789314 -122.581060,48.790455 -122.614680,48.793911 -122.617360,48.793903 -122.620930,48.793915 -122.624160,48.793884 -122.627590,48.793884 -122.633400,48.793877 -122.644170,48.775913 -122.647000,48.768402 -122.655190,48.757339 -122.658170,48.753723 -122.660660,48.750740 -122.663800,48.746964 -122.667070,48.743004 -122.670450,48.737732 -122.668000,48.735687 -122.664700,48.734112 -122.662480,48.731689 -122.670460,48.732670</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>Pattern 2 (trips: 14)</name>
+            <description>Trips using this pattern (14 in total): 80105, 80106, 80107, 80108, 80109, 80110, 80111, 80112, 80119, 80120, 80121, 80122, 80123, 80124</description>
+            <styleUrl>#route_1721</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.670460,48.732670 -122.672170,48.735123 -122.670320,48.738747 -122.666470,48.743477 -122.663480,48.747116 -122.660450,48.750725 -122.657660,48.754105 -122.654440,48.758045 -122.646290,48.769005 -122.643930,48.776630 -122.633230,48.793667 -122.627330,48.793751 -122.624000,48.793770 -122.620880,48.793770 -122.617370,48.793770 -122.614650,48.793785 -122.581060,48.790291 -122.573620,48.789314 -122.573620,48.787209 -122.573730,48.783421 -122.565610,48.783009 -122.560490,48.783108 -122.555600,48.783226 -122.551590,48.783291 -122.542530,48.781021 -122.538120,48.779762 -122.532230,48.781086 -122.525300,48.785652 -122.521360,48.785923 -122.518750,48.783337 -122.520130,48.780743 -122.520160,48.778767 -122.517750,48.776791 -122.512550,48.776802 -122.510600,48.776802 -122.507040,48.776821 -122.503120,48.777004 -122.499530,48.775978 -122.497020,48.775299 -122.494420,48.772099 -122.491650,48.768639 -122.489580,48.766121 -122.488480,48.762779 -122.488490,48.760433 -122.487950,48.759396 -122.485910,48.758068 -122.482650,48.755947 -122.481130,48.754128 -122.480670,48.751846 -122.476080,48.750095</coordinates>
             </LineString>
           </Placemark>
         </Folder>
@@ -6607,7 +6601,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4496 (trips: 18)</name>
-            <description>Trips using this shape (18 in total): 80186, 80187, 80188, 80223, 80224, 80225, 80248, 80238, 80239, 80240, 80241, 80242, 80243, 80244, 80245, 80246, 80247, 80249</description>
+            <description>Trips using this shape (18 in total): 80186, 80187, 80188, 80248, 80238, 80239, 80240, 80241, 80242, 80243, 80244, 80245, 80246, 80247, 80249, 80223, 80224, 80225</description>
             <styleUrl>#route_1723</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6616,7 +6610,7 @@
             </LineString>
           </Placemark><Placemark>
             <name>4493 (trips: 18)</name>
-            <description>Trips using this shape (18 in total): 80182, 80183, 80184, 80211, 80212, 80213, 80236, 80226, 80227, 80228, 80229, 80230, 80231, 80232, 80233, 80234, 80235, 80237</description>
+            <description>Trips using this shape (18 in total): 80182, 80183, 80184, 80236, 80226, 80227, 80228, 80229, 80230, 80231, 80232, 80233, 80234, 80235, 80237, 80211, 80212, 80213</description>
             <styleUrl>#route_1723</styleUrl>
             <visibility>0</visibility>
             <LineString>
@@ -6656,21 +6650,21 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 3 (trips: 18)</name>
-            <description>Trips using this pattern (18 in total): 80182, 80183, 80184, 80211, 80212, 80213, 80236, 80226, 80227, 80228, 80229, 80230, 80231, 80232, 80233, 80234, 80235, 80237</description>
-            <styleUrl>#route_1723</styleUrl>
-            <visibility>0</visibility>
-            <LineString>
-              <tessellate>1</tessellate>
-              <coordinates>-122.476080,48.750095 -122.472860,48.747581 -122.468310,48.744926 -122.464490,48.744881 -122.461030,48.744846 -122.457570,48.744816 -122.453770,48.745106 -122.451190,48.745335 -122.448580,48.745388 -122.442020,48.745571 -122.440500,48.747101 -122.437010,48.747471 -122.434080,48.747334 -122.431440,48.747974 -122.427500,48.748402 -122.426690,48.749374</coordinates>
-            </LineString>
-          </Placemark><Placemark>
-            <name>Pattern 4 (trips: 18)</name>
-            <description>Trips using this pattern (18 in total): 80186, 80187, 80188, 80223, 80224, 80225, 80248, 80238, 80239, 80240, 80241, 80242, 80243, 80244, 80245, 80246, 80247, 80249</description>
+            <description>Trips using this pattern (18 in total): 80186, 80187, 80188, 80248, 80238, 80239, 80240, 80241, 80242, 80243, 80244, 80245, 80246, 80247, 80249, 80223, 80224, 80225</description>
             <styleUrl>#route_1723</styleUrl>
             <visibility>0</visibility>
             <LineString>
               <tessellate>1</tessellate>
               <coordinates>-122.426690,48.749374 -122.430840,48.748287 -122.435980,48.747566 -122.438510,48.747658 -122.441430,48.746445 -122.449200,48.745575 -122.451270,48.745533 -122.454190,48.745232 -122.456560,48.745014 -122.458790,48.745041 -122.461950,48.745090 -122.468120,48.745098 -122.469550,48.745129 -122.473070,48.745964 -122.475720,48.747669 -122.476080,48.750095</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>Pattern 4 (trips: 18)</name>
+            <description>Trips using this pattern (18 in total): 80182, 80183, 80184, 80236, 80226, 80227, 80228, 80229, 80230, 80231, 80232, 80233, 80234, 80235, 80237, 80211, 80212, 80213</description>
+            <styleUrl>#route_1723</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.476080,48.750095 -122.472860,48.747581 -122.468310,48.744926 -122.464490,48.744881 -122.461030,48.744846 -122.457570,48.744816 -122.453770,48.745106 -122.451190,48.745335 -122.448580,48.745388 -122.442020,48.745571 -122.440500,48.747101 -122.437010,48.747471 -122.434080,48.747334 -122.431440,48.747974 -122.427500,48.748402 -122.426690,48.749374</coordinates>
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 5 (trips: 1)</name>
@@ -6822,21 +6816,21 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 4)</name>
-            <description>Trips using this pattern (4 in total): 80294, 80295, 80308, 80309</description>
-            <styleUrl>#route_1725</styleUrl>
-            <visibility>0</visibility>
-            <LineString>
-              <tessellate>1</tessellate>
-              <coordinates>-122.729070,48.993412 -122.736910,48.994087 -122.739300,48.994087 -122.741120,48.994095 -122.743740,48.994091 -122.749430,48.994125 -122.751640,48.992111 -122.747920,48.986248 -122.743340,48.984890 -122.729030,48.976093 -122.732130,48.962269 -122.747890,48.957390 -122.748030,48.933250 -122.745220,48.925598 -122.744190,48.917702 -122.736720,48.917637 -122.722460,48.935673 -122.668790,48.936729 -122.584370,48.891644 -122.583930,48.886948 -122.584310,48.877159 -122.584570,48.870571 -122.584590,48.868206 -122.584930,48.859810 -122.571550,48.847279 -122.572820,48.848221 -122.510990,48.789631 -122.503520,48.789577 -122.498600,48.789600 -122.493230,48.789597 -122.491040,48.792805</coordinates>
-            </LineString>
-          </Placemark><Placemark>
-            <name>Pattern 2 (trips: 4)</name>
             <description>Trips using this pattern (4 in total): 80301, 80304, 80310, 80311</description>
             <styleUrl>#route_1725</styleUrl>
             <visibility>0</visibility>
             <LineString>
               <tessellate>1</tessellate>
               <coordinates>-122.491040,48.792805 -122.491810,48.794540 -122.491560,48.791412 -122.498310,48.789825 -122.503530,48.789780 -122.511980,48.789833 -122.571550,48.847279 -122.572820,48.848221 -122.584580,48.859921 -122.584360,48.868385 -122.584260,48.872086 -122.584020,48.877399 -122.583730,48.887012 -122.584360,48.891769 -122.668790,48.936729 -122.721440,48.935848 -122.737000,48.917763 -122.744340,48.917805 -122.745010,48.925606 -122.747740,48.933495 -122.747980,48.956635 -122.730390,48.962147 -122.729320,48.976475 -122.740940,48.984184 -122.748270,48.986637 -122.751420,48.991993 -122.748250,48.993942 -122.739860,48.993938 -122.729070,48.993412</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>Pattern 2 (trips: 4)</name>
+            <description>Trips using this pattern (4 in total): 80294, 80295, 80308, 80309</description>
+            <styleUrl>#route_1725</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.729070,48.993412 -122.736910,48.994087 -122.739300,48.994087 -122.741120,48.994095 -122.743740,48.994091 -122.749430,48.994125 -122.751640,48.992111 -122.747920,48.986248 -122.743340,48.984890 -122.729030,48.976093 -122.732130,48.962269 -122.747890,48.957390 -122.748030,48.933250 -122.745220,48.925598 -122.744190,48.917702 -122.736720,48.917637 -122.722460,48.935673 -122.668790,48.936729 -122.584370,48.891644 -122.583930,48.886948 -122.584310,48.877159 -122.584570,48.870571 -122.584590,48.868206 -122.584930,48.859810 -122.571550,48.847279 -122.572820,48.848221 -122.510990,48.789631 -122.503520,48.789577 -122.498600,48.789600 -122.493230,48.789597 -122.491040,48.792805</coordinates>
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 3 (trips: 3)</name>
@@ -6849,21 +6843,21 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 4 (trips: 2)</name>
-            <description>Trips using this pattern (2 in total): 80306, 80307</description>
-            <styleUrl>#route_1725</styleUrl>
-            <visibility>0</visibility>
-            <LineString>
-              <tessellate>1</tessellate>
-              <coordinates>-122.668790,48.936729 -122.729070,48.993412</coordinates>
-            </LineString>
-          </Placemark><Placemark>
-            <name>Pattern 5 (trips: 2)</name>
             <description>Trips using this pattern (2 in total): 80302, 80303</description>
             <styleUrl>#route_1725</styleUrl>
             <visibility>0</visibility>
             <LineString>
               <tessellate>1</tessellate>
               <coordinates>-122.668790,48.936729 -122.721440,48.935848 -122.737000,48.917763 -122.744340,48.917805 -122.745010,48.925606 -122.747740,48.933495 -122.747980,48.956635 -122.730390,48.962147 -122.729320,48.976475 -122.740940,48.984184 -122.748270,48.986637 -122.751420,48.991993 -122.748250,48.993942 -122.739860,48.993938 -122.729070,48.993412</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>Pattern 5 (trips: 2)</name>
+            <description>Trips using this pattern (2 in total): 80306, 80307</description>
+            <styleUrl>#route_1725</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.668790,48.936729 -122.729070,48.993412</coordinates>
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 6 (trips: 2)</name>
@@ -6950,15 +6944,6 @@
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 2 (trips: 2)</name>
-            <description>Trips using this pattern (2 in total): 80316, 80314</description>
-            <styleUrl>#route_1726</styleUrl>
-            <visibility>0</visibility>
-            <LineString>
-              <tessellate>1</tessellate>
-              <coordinates>-122.470810,48.733749 -122.476670,48.731445 -122.480870,48.729687 -122.486900,48.726551 -122.490150,48.727673 -122.488730,48.730434 -122.490590,48.733578 -122.486570,48.737797 -122.476080,48.750095 -122.472180,48.750286 -122.469380,48.753464 -122.464770,48.758068 -122.464760,48.760651 -122.464770,48.762348 -122.464810,48.766438 -122.464790,48.768669 -122.571370,48.847416 -122.571370,48.847416 -122.572820,48.848221 -122.584580,48.859921 -122.584360,48.868385 -122.584260,48.872086 -122.584020,48.877399 -122.583730,48.887012 -122.584360,48.891769 -122.668790,48.936729 -122.736910,48.994087 -122.739300,48.994087 -122.741120,48.994095 -122.743740,48.994091 -122.749430,48.994125</coordinates>
-            </LineString>
-          </Placemark><Placemark>
-            <name>Pattern 3 (trips: 2)</name>
             <description>Trips using this pattern (2 in total): 80317, 80318</description>
             <styleUrl>#route_1726</styleUrl>
             <visibility>0</visibility>
@@ -6967,13 +6952,22 @@
               <coordinates>-122.749430,48.994125 -122.751760,48.995823 -122.668790,48.936729 -122.584370,48.891644 -122.583930,48.886948 -122.584310,48.877159 -122.584570,48.870571 -122.584590,48.868206 -122.584930,48.859810 -122.571550,48.847279 -122.571550,48.847279 -122.572820,48.848221 -122.465040,48.768585 -122.465050,48.765396 -122.465070,48.762249 -122.465060,48.760620 -122.465030,48.757961 -122.466100,48.755939 -122.469050,48.753986 -122.471470,48.752335 -122.476080,48.750095 -122.472860,48.747581 -122.472800,48.745861 -122.474960,48.744518 -122.477970,48.742462 -122.483810,48.739925 -122.485490,48.738655 -122.490930,48.733696 -122.489110,48.730473 -122.490370,48.727058 -122.486770,48.726345 -122.480700,48.729507 -122.476170,48.731453 -122.471860,48.733223</coordinates>
             </LineString>
           </Placemark><Placemark>
-            <name>Pattern 4 (trips: 2)</name>
+            <name>Pattern 3 (trips: 2)</name>
             <description>Trips using this pattern (2 in total): 80319, 80320</description>
             <styleUrl>#route_1726</styleUrl>
             <visibility>0</visibility>
             <LineString>
               <tessellate>1</tessellate>
               <coordinates>-122.749430,48.994125 -122.751760,48.995823 -122.668790,48.936729 -122.600880,48.891972 -122.608920,48.893772 -122.614400,48.892204 -122.600980,48.891811 -122.584370,48.891644 -122.583930,48.886948 -122.584310,48.877159 -122.584570,48.870571 -122.584590,48.868206 -122.584930,48.859810 -122.571550,48.847279 -122.571550,48.847279 -122.572820,48.848221 -122.465040,48.768585 -122.465050,48.765396 -122.465070,48.762249 -122.465060,48.760620 -122.465030,48.757961 -122.466100,48.755939 -122.469050,48.753986 -122.471470,48.752335 -122.476080,48.750095</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>Pattern 4 (trips: 2)</name>
+            <description>Trips using this pattern (2 in total): 80316, 80314</description>
+            <styleUrl>#route_1726</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.470810,48.733749 -122.476670,48.731445 -122.480870,48.729687 -122.486900,48.726551 -122.490150,48.727673 -122.488730,48.730434 -122.490590,48.733578 -122.486570,48.737797 -122.476080,48.750095 -122.472180,48.750286 -122.469380,48.753464 -122.464770,48.758068 -122.464760,48.760651 -122.464770,48.762348 -122.464810,48.766438 -122.464790,48.768669 -122.571370,48.847416 -122.571370,48.847416 -122.572820,48.848221 -122.584580,48.859921 -122.584360,48.868385 -122.584260,48.872086 -122.584020,48.877399 -122.583730,48.887012 -122.584360,48.891769 -122.668790,48.936729 -122.736910,48.994087 -122.739300,48.994087 -122.741120,48.994095 -122.743740,48.994091 -122.749430,48.994125</coordinates>
             </LineString>
           </Placemark><Placemark>
             <name>Pattern 5 (trips: 1)</name>
@@ -7244,21 +7238,21 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 2)</name>
-            <description>Trips using this pattern (2 in total): 80375, 80376</description>
-            <styleUrl>#route_1731</styleUrl>
-            <visibility>0</visibility>
-            <LineString>
-              <tessellate>1</tessellate>
-              <coordinates>-122.466020,48.734558 -122.470810,48.733749 -122.476670,48.731445 -122.480870,48.729687 -122.486900,48.726551 -122.490150,48.727673 -122.488730,48.730434 -122.490590,48.733578 -122.486570,48.737797</coordinates>
-            </LineString>
-          </Placemark><Placemark>
-            <name>Pattern 2 (trips: 2)</name>
             <description>Trips using this pattern (2 in total): 80377, 80378</description>
             <styleUrl>#route_1731</styleUrl>
             <visibility>0</visibility>
             <LineString>
               <tessellate>1</tessellate>
               <coordinates>-122.485490,48.738655 -122.490930,48.733696 -122.489110,48.730473 -122.490370,48.727058 -122.486770,48.726345 -122.480700,48.729507 -122.476170,48.731453 -122.471860,48.733223 -122.466020,48.734558</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>Pattern 2 (trips: 2)</name>
+            <description>Trips using this pattern (2 in total): 80375, 80376</description>
+            <styleUrl>#route_1731</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.466020,48.734558 -122.470810,48.733749 -122.476670,48.731445 -122.480870,48.729687 -122.486900,48.726551 -122.490150,48.727673 -122.488730,48.730434 -122.490590,48.733578 -122.486570,48.737797</coordinates>
             </LineString>
           </Placemark>
         </Folder>
@@ -7291,21 +7285,21 @@
           <visibility>0</visibility>
           <Placemark>
             <name>Pattern 1 (trips: 6)</name>
-            <description>Trips using this pattern (6 in total): 80379, 80380, 80381, 80382, 80387, 80388</description>
-            <styleUrl>#route_1732</styleUrl>
-            <visibility>0</visibility>
-            <LineString>
-              <tessellate>1</tessellate>
-              <coordinates>-122.476080,48.750095 -122.466020,48.734558 -122.354960,48.619778 -122.336820,48.482388 -122.334130,48.418167</coordinates>
-            </LineString>
-          </Placemark><Placemark>
-            <name>Pattern 2 (trips: 6)</name>
             <description>Trips using this pattern (6 in total): 80383, 80384, 80385, 80386, 80389, 80390</description>
             <styleUrl>#route_1732</styleUrl>
             <visibility>0</visibility>
             <LineString>
               <tessellate>1</tessellate>
               <coordinates>-122.334130,48.418167 -122.336820,48.482388 -122.354960,48.619778 -122.466020,48.734558 -122.476080,48.750095</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>Pattern 2 (trips: 6)</name>
+            <description>Trips using this pattern (6 in total): 80379, 80380, 80381, 80382, 80387, 80388</description>
+            <styleUrl>#route_1732</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.476080,48.750095 -122.466020,48.734558 -122.354960,48.619778 -122.336820,48.482388 -122.334130,48.418167</coordinates>
             </LineString>
           </Placemark>
         </Folder>
