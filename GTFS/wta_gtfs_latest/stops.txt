@@ -7,12 +7,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 214,3145,Cornwall Ave at E St,,48.762272,-122.4752,1,,,,,0
 215,2267,Northwest Ave at Birchwood Ave,,48.774864,-122.49639,1,,,,,0
 216,3149,Cornwall Ave at Texas St,,48.761543,-122.47495,1,,,,,0
-217,5503,Bakerview Rd at Fred Meyer,,48.789833,-122.51198,1,,,,,0
+217,5503,Bakerview Rd at Arctic Ave,,48.789852,-122.51254,1,,,,,0
 218,2037,Northwest Ave at Birchwood Ave,,48.775299,-122.49702,1,,,,,0
 219,3056,Holly St at J St,,48.757061,-122.49049,1,,,,,0
 220,7230,James St at Alabama St,,48.762348,-122.46477,1,,,,,0
 221,7258,James St at Alabama St,,48.762249,-122.46507,1,,,,,0
-222,2981,Cottonwood Ave at Greenwood Ave,,48.776791,-122.51775,1,,,,,0
 224,2052,High St at WWU Viking Union,,48.738655,-122.48549,1,,,,,0
 225,2122,Harris Ave at 21st St,,48.720242,-122.49104,1,,,,,0
 226,3069,12th St at McKenzie Ave,,48.719112,-122.5021,1,,,,,0
@@ -21,10 +20,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 229,9912,Meridian St at Illinois St,,48.767822,-122.48592,1,,,,,0
 232,3092,Meridian St at Illinois St,,48.767124,-122.48618,1,,,,,0
 233,7147,Kellogg Rd at Meridian St,,48.795078,-122.48828,1,,,,,0
-236,1321,Cordata Pkwy at Stuart Rd,,48.799866,-122.4959,1,,,,,0
 237,1308,Meadowbrook Ct at Tremont Ave,,48.809673,-122.50008,1,,,,,0
 238,1307,Horton Rd at Pacific Rim Way,,48.804253,-122.50066,1,,,,,0
-239,2657,Stuart Rd at Columbine Dr,,48.798859,-122.49712,1,,,,,0
 240,3236,Grover St at 4th St,,48.944221,-122.45215,1,,,,,0
 241,3234,Lynden Station,,48.938404,-122.48226,1,,,,,0
 242,7136,Guide Meridian at Pole Rd,,48.890789,-122.48573,1,,,,,0
@@ -70,10 +67,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 287,9432,Orleans St at Sunset Dr,,48.772034,-122.45754,1,,,,,0
 288,3351,McLeod Rd at Squalicum HS,,48.782322,-122.42288,1,,,,,0
 291,3342,Alabama St at Yew St,,48.762962,-122.44312,1,,,,,0
+292,2708,Silverbeach Ave at Peters St,,48.765862,-122.41859,1,,,,,0
 293,2517,McLeod Rd at Squalicum HS,,48.78236,-122.42401,1,,,,,0
 295,3032,Woburn St at Texas St,,48.761322,-122.44541,1,,,,,0
 296,2834,Woburn St at Barkley Village,,48.769039,-122.44548,1,,,,,0
 297,3001,Electric Ave at Birch St,,48.749542,-122.42588,1,,,,,0
+298,2167,Northshore Dr at Poplar Dr,,48.766186,-122.41227,1,,,,,0
+301,3339,Northshore Dr a Poplar Dr,,48.766331,-122.41212,1,,,,,0
 302,3341,Electric Ave at Birch St,,48.749374,-122.42669,1,,,,,0
 303,2082,Bill McDonald Pkwy at Samish Way,,48.733749,-122.47081,1,,,,,0
 304,5516,Birch Bay Square,,48.936729,-122.66879,1,,,,,0
@@ -87,7 +87,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 313,8181,Bill McDonald Pkwy at WWU Rec Center,,48.730473,-122.48911,1,,,,,0
 314,2058,Bill McDonald Pkwy at Birnam Wood,,48.731453,-122.47617,1,,,,,0
 315,3076,Bill McDonald Pkwy at Rec Center,,48.730434,-122.48873,1,,,,,0
-316,2160,Potter St at Humboldt St,,48.746803,-122.46851,1,,,,,0
 318,2690,30th St at Cowgill Ave,,48.715313,-122.47826,1,,,,,0
 319,2028,Chuckanut Dr at Robin Ln,,48.7113,-122.49974,1,,,,,0
 320,9393,Fairhaven Transportation Center,,48.720356,-122.51069,1,,,,,0
@@ -116,424 +115,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5012,2695,Old Fairhaven Pkwy at 24th St,,48.714687,-122.4855,1,,,,,0
 5013,2696,Old Fairhaven Pkwy at 30th St,,48.714565,-122.4797,1,,,,,0
 5015,2700,Austin St at Fir Tree Way,,48.744499,-122.39902,1,,,,,0
-5175,7138,Guide Meridian at Ten Mile Rd,,48.868973,-122.48609,1,,,,,0
-5176,7139,Guide Meridian at Laurel Rd,,48.85714,-122.48614,1,,,,,0
-5177,7140,Guide Meridian at Axton Rd,,48.847378,-122.48618,1,,,,,0
-5178,7141,Guide Meridian at Smith Rd,,48.832916,-122.48618,1,,,,,0
-5179,7142,Guide Meridian at Kline Rd,,48.814613,-122.48616,1,,,,,0
-5180,7143,Guide Meridian at Horton Rd,,48.807461,-122.48622,1,,,,,0
-5182,3095,Grand Ave at Lottie St,,48.755116,-122.47964,1,,,,,0
-5183,2204,Champion St at Grand Ave,,48.751953,-122.47915,1,,,,,0
-5184,3193,Grand Ave at Central Ave,,48.753757,-122.47944,1,,,,,0
-5185,3044,Cordata Pkwy at WCC,,48.79454,-122.49181,1,,,,,0
-5186,7112,Nooksack Rd at Columbia St,,48.921818,-122.32177,1,,,,,0
-5187,7113,Nooksack Rd at Madison St,,48.928192,-122.32173,1,,,,,0
-5188,7119,Nooksack Valley Middle School,,48.920269,-122.32879,1,,,,,0
-5189,7111,Nooksack Valley Middle School,,48.920143,-122.32845,1,,,,,0
-5190,2223,Meridian St at Baker St,,48.780983,-122.48598,1,,,,,0
-5191,3141,Meridian St at Orchard Dr,,48.778885,-122.48625,1,,,,,0
-5192,2659,Kellogg Rd at WCC,,48.795086,-122.49387,1,,,,,0
-5194,5558,Bakerview Rd at Cordata Pkwy,,48.789597,-122.49323,1,,,,,0
-5197,5534,Peace Portal Dr at 4th St,,48.986248,-122.74792,1,,,,,0
-5198,5523,Peace Portal Dr at 4th St,,48.986637,-122.74827,1,,,,,0
-5200,5513,Grandview Rd at Enterprise Rd,,48.891769,-122.58436,1,,,,,0
-5203,5510,Portal Way at 6300 Block,,48.872086,-122.58426,1,,,,,0
-5205,5508,Portal Way at 6000 Block,,48.859921,-122.58458,1,,,,,0
-5208,5543,Grandview Rd at Enterprise Rd,,48.891644,-122.58437,1,,,,,0
-5209,5544,Enterprise Rd at Matz Rd,,48.886948,-122.58393,1,,,,,0
-5211,5546,Portal Way at 6300 Block,,48.870571,-122.58457,1,,,,,0
-5212,5547,Portal Way at 6200 Block,,48.868206,-122.58459,1,,,,,0
-5214,5554,Axton Rd at Barrett Rd,,48.848221,-122.57282,1,,,,,0
-5223,5517,Birch Bay-Lynden Rd at James Tree Ln,,48.935848,-122.72144,1,,,,,0
-5225,5519,Harborview Rd at Drayton Harbor Rd,,48.956635,-122.74798,1,,,,,0
-5226,5520,Drayton Harbor Rd at Blaine Rd,,48.962147,-122.73039,1,,,,,0
-5227,5521,Peace Portal Dr at Bell Rd,,48.976475,-122.72932,1,,,,,0
-5228,5522,Peace Portal Dr at Mitchell Ave,,48.984184,-122.74094,1,,,,,0
-5229,5524,Peace Portal Dr at Clark St,,48.991993,-122.75142,1,,,,,0
-5230,5533,Peace Portal Dr at Clark St,,48.992111,-122.75164,1,,,,,0
-5231,5535,Peace Portal Dr at Garfield Ave,,48.98489,-122.74334,1,,,,,0
-5232,5536,Peace Portal Dr at Bell Rd,,48.976093,-122.72903,1,,,,,0
-5233,5537,Drayton Harbor Rd at Blaine Rd,,48.962269,-122.73213,1,,,,,0
-5234,5538,Drayton Harbor Rd at Harborview Rd,,48.95739,-122.74789,1,,,,,0
-5236,5540,Birch Bay-Lynden Rd at Anchor Pkwy,,48.935673,-122.72246,1,,,,,0
-5246,2365,Cable St at Lake Whatcom Blvd,,48.746147,-122.39553,1,,,,,0
-5247,3118,Lakeway Dr at Oriental Ave,,48.746239,-122.41469,1,,,,,0
-5248,3119,Lakeway Dr at Lowell Ave,,48.747326,-122.41798,1,,,,,0
-5254,3117,Lakeway Dr at Euclid Ave,,48.744675,-122.40958,1,,,,,0
-5258,2536,Lake Louise Rd at Gate 5,,48.709911,-122.34097,1,,,,,0
-5259,3107,Lake Whatcom Blvd at Gate 2,,48.710194,-122.33024,1,,,,,0
-5261,3109,Lake Whatcom Blvd at S Lakewood,,48.727413,-122.34029,1,,,,,0
-5262,3110,Lake Whatcom Blvd at N Lakewood,,48.728867,-122.34245,1,,,,,0
-5263,2360,Lake Whatcom Blvd at Woodcliff Ln,,48.732651,-122.3486,1,,,,,0
-5264,2361,Lake Whatcom Blvd at 2600 Block,,48.735847,-122.35691,1,,,,,0
-5265,3111,Lake Whatcom Blvd at E Strawberry Pt,,48.739071,-122.36703,1,,,,,0
-5266,3112,Lake Whatcom Blvd at W Strawberry Pt,,48.738491,-122.3707,1,,,,,0
-5267,3113,Lake Whatcom Blvd at Eagle Point,,48.738319,-122.37579,1,,,,,0
-5268,3114,Lake Whatcom Blvd at Cherry Ln,,48.739189,-122.37939,1,,,,,0
-5269,2363,Lake Whatcom Blvd at Grand Blvd,,48.74049,-122.38194,1,,,,,0
-5270,2016,Lake Whatcom Blvd at 2800 Block,,48.742668,-122.39084,1,,,,,0
-5271,3115,Lake Whatcom Blvd at Coronado Ave,,48.745037,-122.39339,1,,,,,0
-5272,3116,Cable St at Lakeview St,,48.746216,-122.40699,1,,,,,0
-5276,2698,Eliza Ave at Darby Dr,,48.792961,-122.49686,1,,,,,0
-5278,2715,Bakerview Rd at Deemer Rd,,48.789825,-122.48167,1,,,,,0
-5279,2716,Bakerview Rd at Deemer Rd,,48.789608,-122.48128,1,,,,,0
-5290,2967,Midway Ln at Bakerview Spur,,48.785954,-122.4512,1,,,,,0
-5291,2968,Midway Ln at Irongate Rd,,48.785786,-122.45033,1,,,,,0
-5292,2969,Irongate Rd at Alpine Way,,48.78421,-122.45351,1,,,,,0
-5293,2970,Irongate Rd at Alpine Way,,48.783688,-122.45331,1,,,,,0
-5294,2971,Division St at Bakerview Spur,,48.782322,-122.44922,1,,,,,0
-5295,2972,Division St at Bakerview Spur,,48.782188,-122.44949,1,,,,,0
-5300,2977,Bennett Dr at Cherrywood Ave,,48.780773,-122.51993,1,,,,,0
-5301,2978,Bennett Dr at McLeod Rd,,48.783447,-122.51857,1,,,,,0
-5302,2979,Bennett Dr at McLeod Rd,,48.783337,-122.51875,1,,,,,0
-5303,2980,Bennett Dr at Cherrywood Ave,,48.780743,-122.52013,1,,,,,0
-5304,2982,Cottonwood Ave at 3100 Block,,48.776802,-122.51255,1,,,,,0
-5305,2983,Cottonwood Ave at Pinewood Ave,,48.776821,-122.50704,1,,,,,0
-5306,2161,Potter St at Franklin St,,48.746822,-122.47057,1,,,,,0
-5308,3128,Lakeway Dr at Humboldt St,,48.745098,-122.46812,1,,,,,0
-5309,3129,Lakeway Dr at Franklin St,,48.745129,-122.46955,1,,,,,0
-5310,2123,Lakeway Dr at James St,,48.744881,-122.46449,1,,,,,0
-5312,2413,Samish Way at Lincoln St,,48.73098,-122.46854,1,,,,,0
-5313,2531,Ellis St at Holly St,,48.74408,-122.47198,1,,,,,0
-5314,3218,Elm St at Jefferson St,,48.762779,-122.48848,1,,,,,0
-5315,3217,Northwest Ave at Connecticut St,,48.766121,-122.48958,1,,,,,0
-5318,3214,Northwest Ave at Lynn St,,48.772099,-122.49442,1,,,,,0
-5321,2162,Northwest Ave at 3400 Block,,48.777699,-122.49883,1,,,,,0
-5322,3212,Northwest Ave at McLeod Rd,,48.781712,-122.50182,1,,,,,0
-5323,3211,Northwest Ave at Sterling Dr,,48.785667,-122.50476,1,,,,,0
-5325,9960,Northwest Dr at Aldrich Rd,,48.790962,-122.50852,1,,,,,0
-5327,2225,Bellis Fair Pkwy at Target,,48.785412,-122.49427,1,,,,,0
-5328,2330,Westerly Rd at Meridian St,,48.791908,-122.48742,1,,,,,0
-5330,2262,Cordata Pkwy at Sea Mar,,48.801792,-122.4957,1,,,,,0
-5331,1305,Cordata Pkwy at Horton Rd,,48.804798,-122.49559,1,,,,,0
-5333,1310,Cordata Pkwy at El Dorado Way,,48.808144,-122.49796,1,,,,,0
-5335,3226,Cordata Pkwy at Horton Rd,,48.80484,-122.49602,1,,,,,0
-5336,3227,Cordata Pkwy at Sea Mar,,48.801559,-122.49614,1,,,,,0
-5340,3089,Cordata Pkwy at Westerly Rd,,48.791412,-122.49156,1,,,,,0
-5342,2271,Northwest Ave at Sterling Dr,,48.785934,-122.50473,1,,,,,0
-5343,2085,Northwest Ave at McLeod Rd,,48.78157,-122.50145,1,,,,,0
-5345,2172,Northwest Ave at Alderwood Ave,,48.779179,-122.49992,1,,,,,0
-5346,3210,Northwest Ave at 3400 Block,,48.777935,-122.49876,1,,,,,0
-5348,3151,Birchwood Ave at Meridian St,,48.777233,-122.48492,1,,,,,0
-5349,2040,Birchwood Ave at Orchard Pl,,48.777184,-122.47949,1,,,,,0
-5350,3053,Birchwood Ave at Squalicum Pkwy,,48.777157,-122.47664,1,,,,,0
 5016,2701,Austin St at Fremont St,,48.742764,-122.39902,1,,,,,0
-5018,2704,Lake Louise Rd at Gate 9,,48.71909,-122.35484,1,,,,,0
-5020,2990,Cottonwood Ave at Carter Dr,,48.776802,-122.5106,1,,,,,0
-5022,7239,Mitchell Rd at Mt Baker Hwy,,48.828064,-122.22308,1,,,,,0
-5023,7243,Mitchell Rd at Mt Baker Hwy,,48.827965,-122.22291,1,,,,,0
-5025,3002,Electric Ave at Fraser St,,48.751736,-122.42384,1,,,,,0
-5026,3003,Electric Ave at Kansas St,,48.753578,-122.42302,1,,,,,0
-5027,3004,Electric Ave at Flynn ST,,48.756432,-122.42171,1,,,,,0
-5028,3005,Electric Ave at 2100 Block,,48.757881,-122.42106,1,,,,,0
-5029,3006,Electric Ave at Bloedel Donovan,,48.76046,-122.42068,1,,,,,0
-5045,3023,Electric Ave at Bloedel Donovan,,48.760166,-122.42085,1,,,,,0
-5046,3024,Electric Ave at 2100 Block,,48.75774,-122.42136,1,,,,,0
-5047,3025,Electric Ave at Flynn St,,48.756012,-122.42216,1,,,,,0
-5048,3026,Electric Ave at Kansas St,,48.753635,-122.42319,1,,,,,0
-5049,3027,Electric Ave at Fraser St,,48.751427,-122.42421,1,,,,,0
-5050,3028,Yew St at Lakeway Dr,,48.74593,-122.44284,1,,,,,0
-5051,3029,Woburn St at Fraser St,,48.751549,-122.44509,1,,,,,0
-5052,3030,Woburn St at Kentucky St,,48.75882,-122.44521,1,,,,,0
-5055,3033,Woburn St at Kentucky St,,48.758694,-122.44543,1,,,,,0
-5056,3034,Woburn St at Fraser St,,48.752148,-122.44538,1,,,,,0
-5057,3035,Old Woburn St at Sweet Bay Dr,,48.746342,-122.44537,1,,,,,0
-5058,3120,Lakeway Dr at Birch St,,48.748581,-122.42754,1,,,,,0
-5059,3168,Bennett Dr at McAlpine Rd,,48.775616,-122.52003,1,,,,,0
-5060,3171,Donovan Ave at 31st St,,48.717384,-122.47658,1,,,,,0
-5062,7242,Hwy 9 at Rutsatz Rd,,48.806995,-122.1979,1,,,,,0
-5065,3364,Woburn St at Old Woburn St,,48.74852,-122.44508,1,,,,,0
-5067,7222,Mt Baker Hwy at Smith Rd,,48.831379,-122.30649,1,,,,,0
-5068,7777,Lake Louise Rd at Nature Reserve,,48.732346,-122.37813,1,,,,,0
-5070,7200,Mt Baker Hwy at Noon Rd,,48.803104,-122.39898,1,,,,,0
-5072,7202,Mt Baker Hwy at Nugents Corner,,48.843494,-122.28697,1,,,,,0
-5073,7221,Mt Baker Hwy at Nugents Corner,,48.843658,-122.28595,1,,,,,0
-5074,7203,Deming Rd at Mt Baker HS,,48.824623,-122.22083,1,,,,,0
-5075,7220,Deming Rd at Mt Baker HS,,48.824787,-122.22112,1,,,,,0
-5076,7204,Deming Rd at Nooksack River Casino,,48.823143,-122.21414,1,,,,,0
-5077,7219,Deming Rd at Nooksack River Casino,,48.823235,-122.21418,1,,,,,0
-5078,7216,Kendall Rd at Kendall Elementary School,,48.917068,-122.14099,1,,,,,0
-5079,7209,Shamrock Rd at Azure Way,,48.950138,-122.15239,1,,,,,0
-5081,7211,Golden Valley Dr at Cimarron Way,,48.95013,-122.14488,1,,,,,0
-5082,7212,Chestnut Dr at Holly Ln,,48.945713,-122.14787,1,,,,,0
-5084,7259,James St at Carolina St,,48.76062,-122.46506,1,,,,,0
-5085,7260,James St at Kentucky St,,48.757961,-122.46503,1,,,,,0
-5087,7262,State St at Grant St,,48.753986,-122.46905,1,,,,,0
-5091,7228,James St at Kentucky St,,48.758068,-122.46477,1,,,,,0
-5092,7229,James St at Carolina St,,48.760651,-122.46476,1,,,,,0
-5095,7252,Sunset Dr at 2500 block,,48.777885,-122.44061,1,,,,,0
-5096,7253,Sunset Dr at Woburn St,,48.77673,-122.44621,1,,,,,0
-5099,7257,James St at Connecticut St,,48.765396,-122.46505,1,,,,,0
-5100,7234,Sunset Dr at Racine St,,48.774906,-122.45271,1,,,,,0
-5101,7235,Sunset Dr at Woburn St,,48.776775,-122.44431,1,,,,,0
-5107,7223,Mt Baker Hwy at Noon Rd,,48.803562,-122.39842,1,,,,,0
-5108,7208,Oregon Trail at Kendall Rd,,48.931301,-122.14316,1,,,,,0
-5109,7215,Peaceful Valley Dr at Clear Valley Dr,,48.939308,-122.14436,1,,,,,0
-5110,7213,Deep Valley Dr at Red Valley Ln,,48.941612,-122.14178,1,,,,,0
-5111,7214,King Valley Dr at Green Valley Ct,,48.938957,-122.14056,1,,,,,0
-5114,7241,Hwy 9 at Van Zandt Community Hall,,48.789528,-122.19041,1,,,,,0
-5116,7294,Golden Valley Dr at Chestnut Dr,,48.946613,-122.14423,1,,,,,0
-5117,7206,Kendall Rd at Mt Baker Hwy,,48.916985,-122.13878,1,,,,,0
-5125,7145,Kellogg Rd at Meridian St,,48.795303,-122.48797,1,,,,,0
-5126,2121,Champion St at Unity St,,48.751987,-122.47706,1,,,,,0
-5127,3195,Grand Ave at Girard St,,48.756359,-122.4795,1,,,,,0
-5128,3196,Girard St at C St,,48.757626,-122.48031,1,,,,,0
-5129,3197,Girard St at G St,,48.759262,-122.48282,1,,,,,0
-5130,3198,Girard St at J St,,48.760761,-122.48512,1,,,,,0
-5131,3199,Meridian St at Broadway,,48.761719,-122.48598,1,,,,,0
-5132,2219,Meridian St at North St,,48.764759,-122.48598,1,,,,,0
-5133,2221,Meridian St at Oregon St,,48.771191,-122.48595,1,,,,,0
-5134,3200,Meridian St at Victor St,,48.77396,-122.48594,1,,,,,0
-5135,2222,Meridian St at Orchard Dr,,48.779175,-122.48596,1,,,,,0
-5136,2305,Meridian St at McLeod Rd,,48.781891,-122.48633,1,,,,,0
-5137,3090,Meridian St at Victor St,,48.773632,-122.48617,1,,,,,0
-5138,3091,Meridian St at Oregon St,,48.770798,-122.48616,1,,,,,0
-5140,3093,Meridian St at North St,,48.764626,-122.48619,1,,,,,0
-5141,3201,Meridian St at Monroe St,,48.762417,-122.48619,1,,,,,0
-5142,3094,Girard St at J St,,48.760612,-122.48522,1,,,,,0
-5143,3202,Girard St at H St,,48.75959,-122.48363,1,,,,,0
-5144,2238,Girard St at D St,,48.757584,-122.48054,1,,,,,0
-5145,3194,Grand Ave at Lottie St,,48.755089,-122.47939,1,,,,,0
-5146,3203,Grand Ave at Flora St,,48.752697,-122.47968,1,,,,,0
-5148,7114,Nooksack Valley High School,,48.964268,-122.30846,1,,,,,0
-5149,7117,Nooksack Rd at Madison St,,48.927162,-122.32198,1,,,,,0
-5150,7118,Nooksack Rd at Columbia St,,48.921612,-122.32201,1,,,,,0
-5151,7120,Main St at Kirsch Rd,,48.920231,-122.34151,1,,,,,0
-5152,7110,Main St at Kirsch Dr,,48.920071,-122.34155,1,,,,,0
-5153,7121,Everson Rd at Kale Rd,,48.915993,-122.35239,1,,,,,0
-5154,7109,Everson Rd at Kale Rd,,48.915852,-122.3522,1,,,,,0
-5155,7122,Everson Rd at Roeder St,,48.911747,-122.35513,1,,,,,0
-5156,7108,Everson Rd at Strandell St,,48.91135,-122.35503,1,,,,,0
-5157,7123,Mission Rd at Chestnut St,,48.906185,-122.3559,1,,,,,0
-5158,7107,Mission Rd at Chestnut St,,48.906208,-122.35576,1,,,,,0
-5159,7124,Mission Rd at Suchanon Dr,,48.898445,-122.35312,1,,,,,0
-5161,7149,Guide Meridian at Horton Rd,,48.808338,-122.4858,1,,,,,0
-5162,7150,Guide Meridian at Kline Rd,,48.815556,-122.48576,1,,,,,0
-5163,7151,Guide Meridian at Smith Rd,,48.833839,-122.48577,1,,,,,0
-5165,7153,Guide Meridian at Laurel Rd,,48.855583,-122.48575,1,,,,,0
-5168,7104,Everson-Goshen Rd at Pole Rd,,48.891415,-122.37547,1,,,,,0
-5169,7132,Pole Rd at Everson-Goshen Rd,,48.891201,-122.3749,1,,,,,0
-5170,7105,Mission Rd at Silves Ct,,48.892445,-122.35297,1,,,,,0
-5171,7125,Mission Rd at Silves Ct,,48.892403,-122.35313,1,,,,,0
-5172,7106,Mission Rd at Suchanon Dr,,48.897453,-122.35294,1,,,,,0
-5830,3086,State St at 200 Block,,48.734406,-122.49721,1,,,,,0
-5831,2005,State St at 200 Block,,48.7351,-122.49701,1,,,,,0
-5832,3285,Forest St at Rose St,,48.744236,-122.48115,1,,,,,0
-5833,2026,Forest St at Maple St,,48.745533,-122.47917,1,,,,,0
-5834,3271,State St at Chestnut St,,48.746983,-122.47945,1,,,,,0
-5835,3272,State St at Laurel St,,48.745304,-122.48195,1,,,,,0
-5836,3273,State St at Berry St,,48.743946,-122.48397,1,,,,,0
-5837,2002,Boulevard St at Wharf St,,48.743382,-122.48543,1,,,,,0
-5838,2003,Boulevard St at 500 Blcok,,48.741341,-122.48956,1,,,,,0
-5839,2025,State St at Forest St,,48.742935,-122.48512,1,,,,,0
-5840,3284,State St at Pine St,,48.741657,-122.48695,1,,,,,0
-5842,2024,State St at S Hill Apts,,48.738167,-122.49211,1,,,,,0
-5843,9444,Donovan Ave at 12th St,,48.717762,-122.50312,1,,,,,0
-5849,2549,Hoff Rd at Marine Dr,,48.783421,-122.57373,1,,,,,0
-5850,2442,Marine Dr at Hoff Rd,,48.783108,-122.57304,1,,,,,0
-5852,3287,Lincoln St at Potter St,,48.747021,-122.46237,1,,,,,0
-5859,3138,Maplewood Ave at Alderwood Ave,,48.779068,-122.50601,1,,,,,0
-5860,2911,Maplewood Ave at McLeod Rd,,48.782619,-122.51129,1,,,,,0
-5861,3139,Maplewood Ave at  Bradley Ln,,48.784973,-122.51472,1,,,,,0
-5862,4002,Maplewood Ave at Bakerview Rd,,48.786652,-122.51714,1,,,,,0
-5863,3143,Sunset Dr at Coolidge Dr,,48.768711,-122.47503,1,,,,,0
-5864,3144,Cornwall Ave at Broadway St,,48.766533,-122.47647,1,,,,,0
-5873,2916,Stuart Rd at Festival Blvd,,48.798019,-122.49939,1,,,,,0
-5874,2658,Kellogg Rd at Village Dr,,48.795502,-122.50002,1,,,,,0
-5875,2507,19th St at Kok Rd,,48.936245,-122.4817,1,,,,,0
-5876,2730,19th St at Front St,,48.940456,-122.48083,1,,,,,0
-5877,2731,19th St at Forest Ln,,48.944103,-122.4808,1,,,,,0
-5878,2736,19th St at 19th St Ct,,48.94751,-122.48064,1,,,,,0
-5879,2732,Pine St at Fern Dr,,48.948967,-122.47697,1,,,,,0
-5880,9801,Front St at Fairgrounds (East),,48.939217,-122.47437,1,,,,,0
-5881,2725,Front St at 9th St,,48.941498,-122.45731,1,,,,,0
-5882,2724,7th St at Grover St,,48.94228,-122.4556,1,,,,,0
-5883,2726,Front St at 11th St,,48.940605,-122.46009,1,,,,,0
-5884,2964,Front St at British Columbia Ave,,48.939922,-122.46263,1,,,,,0
-5885,2727,Front St at 15th St,,48.939659,-122.46583,1,,,,,0
-5886,2728,Front St at 17th St,,48.939632,-122.46859,1,,,,,0
-5887,2729,Front St at Fairside Dr,,48.939377,-122.47449,1,,,,,0
-5888,8911,Guide Meridian at Birch Bay-Lynden Rd,,48.934704,-122.48563,1,,,,,0
-5889,2752,Cornwall Ave at North St,,48.764183,-122.47494,1,,,,,0
-5890,2956,Westerly Rd at Meridian St,,48.792042,-122.48799,1,,,,,0
-5891,4001,Maplewood Ave at Bakerview Rd,,48.78643,-122.51715,1,,,,,0
-5892,3153,Maplewood Ave at Bradley Ln,,48.784557,-122.51434,1,,,,,0
-5893,2912,Maplewood Ave at McLeod Rd,,48.782276,-122.51098,1,,,,,0
-5894,3154,Maplewood Ave at Alderwood Ave,,48.778996,-122.50615,1,,,,,0
-5895,3155,Maplewood Ave at Cottonwood Ave,,48.77726,-122.50349,1,,,,,0
-5896,3156,Maplewood Ave at Partridge Ln,,48.775978,-122.49953,1,,,,,0
-5901,7878,Yew St at S Hills Dr,,48.71027,-122.44238,1,,,,,0
-5902,3307,Yew St at S Hills Dr,,48.710728,-122.4413,1,,,,,0
-5905,2421,Yew St at Tacoma Ave,,48.716736,-122.4403,1,,,,,0
-5906,2721,Division St at Hannegan Rd,,48.782188,-122.44426,1,,,,,0
-5907,2720,Division St at Hannegan Rd,,48.782059,-122.44498,1,,,,,0
-5910,7232,James St at Illinois St,,48.768669,-122.46479,1,,,,,0
-5911,2665,Airport Dr at Bennett Dr,,48.786098,-122.52102,1,,,,,0
-5913,4000,Airport Dr at Williamson Way,,48.781841,-122.53144,1,,,,,0
-5914,2667,Alderwood Ave at Marine Dr,,48.779819,-122.53838,1,,,,,0
-5915,2598,Kwina Rd at Chief Martin Rd,,48.793884,-122.62759,1,,,,,0
-5916,3325,Kwina Rd at Chief Martin Rd,,48.793751,-122.62733,1,,,,,0
-5917,2668,Alderwood Ave at Marine Dr,,48.779762,-122.53812,1,,,,,0
-5922,3237,19th St at Kok Rd,,48.936684,-122.48173,1,,,,,0
-5924,2965,3rd St at Main St,,48.945923,-122.45248,1,,,,,0
-5925,9753,Salashan Pkwy at Salashan Loop,,48.893772,-122.60892,1,,,,,0
-5926,9754,Salashan Loop at Grandview Rd,,48.892204,-122.6144,1,,,,,0
-5927,9875,Woburn St at Rimland Dr,,48.772877,-122.4455,1,,,,,0
-5928,9876,Woburn St at Sunset Dr,,48.776218,-122.44548,1,,,,,0
-5930,2705,Alabama St at Dean Ave,,48.762981,-122.47318,1,,,,,0
-5934,2711,Alabama St at Fir St,,48.763088,-122.42399,1,,,,,0
-5935,2712,Alabama St at Vista Dr,,48.763088,-122.42736,1,,,,,0
-5936,2841,Peace Portal Dr at F St,,48.995823,-122.75176,1,,,,,0
-5937,2955,Dupont St at G St,,48.757961,-122.48546,1,,,,,0
-5938,2986,Eldridge Ave at Gilligan Way,,48.763996,-122.51218,1,,,,,0
-5940,8269,Cordata Pkwy at Sequoia Rd,,48.809238,-122.4972,1,,,,,0
-5941,2985,Tremont Ave at Corona Ct,,48.812347,-122.50014,1,,,,,0
-5942,2984,Cordata Pkwy at Tremont Ave,,48.811817,-122.49757,1,,,,,0
-5948,1062,York St at James St,,48.750568,-122.46537,1,,,,,0
-5949,3291,York St at James St,,48.75066,-122.46559,1,,,,,0
-5950,1101,Lakeway Dr at Portal Dr,,48.748089,-122.42355,1,,,,,0
-5951,1199,Lakeway Dr at Lowell Ave,,48.747204,-122.41816,1,,,,,0
-5952,1198,Lakeway Dr at Oriental Ave,,48.74612,-122.41563,1,,,,,0
-5953,1196,Lakeway Dr at Euclid Ave,,48.744709,-122.41061,1,,,,,0
-5954,1194,Cable St at Lakeview St,,48.746098,-122.40586,1,,,,,0
-5955,1192,Cable St at Geneva St,,48.746254,-122.40119,1,,,,,0
-5956,2127,Lakeway Dr at Portal Dr,,48.748409,-122.42316,1,,,,,0
-5957,5556,Bakerview Rd at Palisade Way,,48.789577,-122.50352,1,,,,,0
-5958,5557,Bakerview Rd at Eliza Ave,,48.7896,-122.4986,1,,,,,0
-5959,2963,Westerly Rd at Cordata Pkwy,,48.792038,-122.49284,1,,,,,0
-5960,2962,Maplewood Ave at Northwest Ave,,48.775913,-122.49857,1,,,,,0
-5961,2699,Eliza Ave at Darby Dr,,48.792458,-122.49707,1,,,,,0
-5962,5501,Bakerview Rd at Eliza Ave,,48.789825,-122.49831,1,,,,,0
-5963,5502,Bakerview Rd at Palisade Way,,48.78978,-122.50353,1,,,,,0
-5964,7225,Forest St at Ellis St,,48.750286,-122.47218,1,,,,,0
-5965,7226,State St at Meador Ave,,48.753464,-122.46938,1,,,,,0
-5967,7231,James St at Maryland St,,48.766438,-122.46481,1,,,,,0
-5968,7261,State St at Iron St,,48.755939,-122.4661,1,,,,,0
-5969,7263,State St at Ellis St,,48.752335,-122.47147,1,,,,,0
-5970,7127,Pole Rd at Hannegan Rd,,48.891884,-122.44417,1,,,,,0
-5971,7152,Guide Meridian at Axton Rd,,48.848251,-122.4858,1,,,,,0
-5972,7154,Guide Meridian at Ten Mile Rd,,48.870419,-122.48566,1,,,,,0
-5974,7103,Pole Rd at Hannegan Rd,,48.891705,-122.44184,1,,,,,0
-5975,7236,Sunset Dr at 2500 block,,48.777962,-122.43939,1,,,,,0
-5976,7237,Sunset Dr at Idell Dr,,48.779984,-122.4353,1,,,,,0
-5977,7244,Squalicum Lake Rd at Mt Baker Hwy,,48.806553,-122.34386,1,,,,,0
-5978,7210,Shamrock Rd at Golden Valley Dr,,48.952049,-122.15026,1,,,,,0
-5979,7251,Sunset Dr at Idell Dr,,48.780479,-122.43446,1,,,,,0
-5980,7254,Sunset Dr at Racine,,48.774651,-122.45372,1,,,,,0
-5981,7256,James St at Illinois St,,48.768585,-122.46504,1,,,,,0
-5982,5509,Portal Way at 6200 Block,,48.868385,-122.58436,1,,,,,0
-5983,5511,Portal Way at Trigg Rd,,48.877399,-122.58402,1,,,,,0
-5984,5512,Enterprise Rd at Matz Rd,,48.887012,-122.58373,1,,,,,0
-5985,5514,Grandview Rd at Portal Way,,48.891972,-122.60088,1,,,,,0
-5986,5542,Grandview Rd at Portal Way,,48.891811,-122.60098,1,,,,,0
-5987,5545,Portal Way at Trigg Rd,,48.877159,-122.58431,1,,,,,0
-5988,5548,Portal Way at 6000 Block,,48.85981,-122.58493,1,,,,,0
-5989,2000,Cordata Station,,48.792805,-122.49104,1,,,,,0
-6007,5504,Main St at 1850 Block,,48.844849,-122.58189,1,,,,,0
-6008,5552,Main St at 1850 Block,,48.84457,-122.58306,1,,,,,0
-6009,2255,Northwest Dr at Aldrich Rd,,48.790627,-122.50848,1,,,,,0
-6010,2394,Yew St at Democrat St,,48.72974,-122.44297,1,,,,,0
-6011,3031,Woburn St at Texas St,,48.76123,-122.44521,1,,,,,0
-6012,7238,Sunset Dr at Vining St,,48.781406,-122.43211,1,,,,,0
-6015,5527,Blaine Cost Cutter,,48.993412,-122.72907,1,,,,,0
-6020,5525,H St at 4th St,,48.993942,-122.74825,1,,,,,0
-6021,5526,H St at 8th St,,48.993938,-122.73986,1,,,,,0
-6023,3371,Westerly Rd at Eliza Ave,,48.793262,-122.49614,1,,,,,0
-6024,3373,Westerly Rd at Cordata Pkwy,,48.79192,-122.49242,1,,,,,0
-6025,3372,Westerly Rd at Eliza Ave,,48.793404,-122.49611,1,,,,,0
-6026,3374,Cordata Pkwy at 4350,,48.798237,-122.49459,1,,,,,0
-6027,7158,Guide Meridian at Kelly Rd,,48.818283,-122.48618,1,,,,,0
-6028,7157,Guide Meridian at Kelly Rd,,48.819248,-122.48574,1,,,,,0
-6029,7159,Pole Rd at 1060,,48.891811,-122.43306,1,,,,,0
-6031,2260,Kellogg Rd at WCC,,48.795231,-122.49421,1,,,,,0
-6032,9998,Lincoln Creek P&R,,48.734566,-122.46601,1,,,,,0
-6033,7295,Sunset Dr at Vining St,,48.781788,-122.43158,1,,,,,0
-6034,3378,Yew St at Wade King Elementary,,48.719948,-122.44274,1,,,,,0
-6035,3379,Yew St at Wade King Elementary,,48.719967,-122.44254,1,,,,,0
-6037,7161,Guide Meridian at Hemmi Rd,,48.862896,-122.48573,1,,,,,0
-6038,7162,Guide Meridian at Pole Rd,,48.890709,-122.48529,1,,,,,0
-6039,7160,Guide Meridian at Hemmi Rd,,48.861958,-122.48611,1,,,,,0
-6040,3381,Lakeway Dr at Grant St,,48.744926,-122.46831,1,,,,,0
-6041,3382,Lake Louise Rd at 1800 Block,,48.735268,-122.38934,1,,,,,0
-6042,4721,1st Ave at Alder St,,48.845303,-122.59081,1,,,,,0
-6043,2510,1st Ave at Cherry St,,48.844059,-122.5919,1,,,,,0
-6044,2511,3rd Ave at Alder St,,48.846581,-122.59272,1,,,,,0
-6045,2512,3rd Ave at Alder St,,48.846336,-122.59325,1,,,,,0
-6046,2528,Cherry St at 2nd Ave,,48.844093,-122.59286,1,,,,,0
-6047,2529,1st Ave at Main St,,48.845768,-122.59007,1,,,,,0
-6051,3386,Cottonwood Ave at Pinewood Ave,,48.776905,-122.50572,1,,,,,0
-6052,3387,Cottonwood Ave at Carter Dr,,48.776897,-122.51188,1,,,,,0
-6053,3388,Cottonwood Ave at Greenwood Ave,,48.776886,-122.51779,1,,,,,0
-6054,3389,Bennett Dr at McAlpine Rd,,48.775051,-122.52021,1,,,,,0
-6055,3390,Bennett Dr at Cedarwood Ave,,48.771095,-122.52027,1,,,,,0
-6056,3391,Bennett Dr at Marine Dr,,48.76923,-122.52031,1,,,,,0
-6057,3392,Marine Dr at Bennett Dr,,48.767925,-122.51903,1,,,,,0
-6058,3393,Lindbergh Ave at Eldridge Ave,,48.766006,-122.51511,1,,,,,0
-6059,3394,Welling Rd at MaGrath Rd,,48.781387,-122.41962,1,,,,,0
-6060,3395,Welling Rd at Del Bonita Way,,48.781467,-122.41609,1,,,,,0
-6061,3396,Del Bonita Ave at Levitt St,,48.779015,-122.41623,1,,,,,0
-6062,3397,Del Bonita Ave at Spring Coulee Rd,,48.777878,-122.41651,1,,,,,0
-6078,5561,Alderson Rd at Birch Bay Dr,,48.917702,-122.74419,1,,,,,0
-6079,5562,Alderson Rd at Birch Bay Dr,,48.917805,-122.74434,1,,,,,0
-6080,5563,Birch Bay Dr at Beachcomber Dr,,48.925598,-122.74522,1,,,,,0
-6081,5564,Alderson Rd at Loft Ln,,48.917637,-122.73672,1,,,,,0
-6082,5565,Alderson Rd at Loft Ln,,48.917763,-122.737,1,,,,,0
-6083,5566,Birch Bay Dr at Beachcomber Dr,,48.925606,-122.74501,1,,,,,0
-6084,3400,Hoff Rd at Country Ln,,48.789314,-122.57349,1,,,,,0
-6085,3401,Marine Dr at Rural Ave,,48.790455,-122.58106,1,,,,,0
-6086,3402,Hoff Rd at Country Ln,,48.789314,-122.57362,1,,,,,0
-6087,3403,Chuckanut P&R,,48.482388,-122.33682,2,,,,,0
-6094,3404,Cottonwood Ave at Cherrywood Ave,,48.776901,-122.50953,1,,,,,0
-6095,7296,East Whatcom Resource Center,,48.940533,-122.15028,1,,,,,0
-6097,3405,Nequalicum Ave at Eldridge Ave,,48.763332,-122.50838,1,,,,,0
-6103,3411,Bennett Dr at Alderwood Ave,,48.7785,-122.51997,1,,,,,0
-6104,3412,Bennett Dr at Alderwood Ave,,48.778767,-122.52016,1,,,,,0
-6105,3413,Electric Ave at Alabama St,,48.762619,-122.42066,1,,,,,0
-6106,3414,Electric Ave at Alabama St,,48.762691,-122.4209,1,,,,,0
-6109,7163,Easterbrook Rd at Bowen Rd,,48.988209,-122.26611,1,,,,,0
-6111,3416,Cottonwood Ave at Maplewood Ave,,48.777004,-122.50312,1,,,,,0
-6114,5568,Birch Bay Dr at Harborview Rd,,48.93325,-122.74803,1,,,,,0
-6115,5567,Birch Bay Dr at Harborview Rd,,48.933495,-122.74774,1,,,,,0
-6116,3418,Alabama St at Orleans St,,48.76302,-122.45779,1,,,,,0
-6117,3417,Alabama St at Yew St,,48.762974,-122.44291,1,,,,,0
-6118,3419,Levin Ln at N Squalicum Pkwy,,48.773479,-122.4695,1,,,,,0
-6126,3427,Telegraph Rd at McLeod Rd W,,48.784195,-122.48392,1,,,,,0
-6127,3428,Bellis Fair Pkwy at WinCo Foods,,48.787899,-122.48093,1,,,,,0
-6128,3429,Bellis Fair Pkwy at Value Village,,48.787155,-122.48468,1,,,,,0
-6129,3430,Bellis Fair Pkwy at Value Village,,48.787186,-122.48445,1,,,,,0
-6130,3431,Bellis Fair Pkwy at WinCo Foods,,48.787682,-122.48058,1,,,,,0
-6131,3432,Telegraph Rd at McLeod Rd,,48.784359,-122.48383,1,,,,,0
-6133,7298,Shamrock Rd at Bellwood Dr,,48.954494,-122.14464,1,,,,,0
-6134,7164,Sumas Ave at Morton St,,48.993538,-122.26257,1,,,,,0
-6135,7165,Sumas Ave at Columbia St,,48.996807,-122.26262,1,,,,,0
-6136,7166,Cherry St at 1st St,,48.998585,-122.26511,1,,,,,0
-6137,7167,Cherry St at Vancouver St,,48.995171,-122.2651,1,,,,,0
-6146,3433,Alabama St at Grant St,,48.763046,-122.46961,1,,,,,0
-6148,3435,4th Ave at Main St,,48.847649,-122.59484,1,,,,,0
-6149,3436,Bakerview Rd at Kramer Ln,,48.789497,-122.45591,1,,,,,0
-6150,3437,Bakerview Rd at Kramer Ln,,48.789333,-122.45536,1,,,,,0
-6151,3438,Bellis Fair Pkwy at Macy's,,48.787693,-122.48925,1,,,,,0
-6152,3439,Bellis Fair Pkwy at Macy's,,48.787838,-122.4892,1,,,,,0
-6153,7270,Santa Fe Trail at Apache Dr N,,48.931141,-122.13945,1,,,,,0
-6154,7271,Santa Fe Trail at Apache Dr S,,48.928768,-122.13602,1,,,,,0
-6155,7272,Santa Fe Trail at 7800 blk,,48.927521,-122.13589,1,,,,,0
-6156,7273,Little Big Horn at Oregon Trail,,48.925201,-122.13606,1,,,,,0
-6161,7201,Oregon Trail at Chisholm Trail,,48.927017,-122.13786,1,,,,,0
-6162,7205,Oregon Trail at Kiowa Cut,,48.92971,-122.14005,1,,,,,0
-6165,3440,Telegraph Rd at McLeod Rd E,,48.784218,-122.4827,1,,,,,0
-6166,3441,Deemer Rd at Telegraph Rd,,48.785336,-122.47832,1,,,,,0
-6167,3442,Deemer Rd at Telegraph Rd,,48.785187,-122.47856,1,,,,,0
-6168,7299,Santa Fe Trl at Santa Fe Trl,,48.930557,-122.13738,1,,,,,0
-6170,3443,Alabama St at Vining St,,48.763103,-122.43246,1,,,,,0
-6171,3444,Alabama St at Erie Terrace,,48.762882,-122.43324,1,,,,,0
-6197,5569,Birch Bay Dr at Club House Dr,,48.928677,-122.74525,1,,,,,0
-6202,5574,Birch Bay Dr at Club House Dr,,48.928947,-122.74557,1,,,,,0
-5351,9369,Birchwood Ave at Squalicum Pkwy,,48.777054,-122.47682,1,,,,,0
-5352,3046,Birchwood Ave at Orchard Pl,,48.777081,-122.47932,1,,,,,0
-5353,3045,Birchwood Ave at Meridian St,,48.777084,-122.4843,1,,,,,0
-5354,2266,Northwest Ave at Lynn St,,48.771198,-122.49345,1,,,,,0
-5356,2263,Northwest Ave at Connecticut St,,48.7658,-122.48908,1,,,,,0
-5357,3209,Elm St at Jefferson St,,48.763401,-122.48826,1,,,,,0
 5358,3207,Elm St at Broadway,,48.760342,-122.48828,1,,,,,0
 5359,3206,Dupont St at C St,,48.756054,-122.48251,1,,,,,0
 5361,3204,Prospect St at Flora St,,48.753223,-122.48093,1,,,,,0
@@ -655,6 +237,206 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5503,5528,H St at 11th St,,48.994087,-122.73691,1,,,,,0
 5504,5529,H St at 9th St,,48.994087,-122.7393,1,,,,,0
 5505,5530,H St at Mitchell Ave,,48.994095,-122.74112,1,,,,,0
+5018,2704,Lake Louise Rd at Gate 9,,48.71909,-122.35484,1,,,,,0
+5022,7239,Mitchell Rd at Mt Baker Hwy,,48.828064,-122.22308,1,,,,,0
+5023,7243,Mitchell Rd at Mt Baker Hwy,,48.827965,-122.22291,1,,,,,0
+5025,3002,Electric Ave at Fraser St,,48.751736,-122.42384,1,,,,,0
+5026,3003,Electric Ave at Kansas St,,48.753578,-122.42302,1,,,,,0
+5027,3004,Electric Ave at Flynn St,,48.756432,-122.42171,1,,,,,0
+5028,3005,Electric Ave at 2100 Block,,48.757881,-122.42106,1,,,,,0
+5029,3006,Electric Ave at Bloedel Donovan,,48.76046,-122.42068,1,,,,,0
+5031,3008,Britton Rd at Barkley Blvd,,48.772514,-122.40977,1,,,,,0
+5045,3023,Electric Ave at Bloedel Donovan,,48.760166,-122.42085,1,,,,,0
+5046,3024,Electric Ave at 2100 Block,,48.75774,-122.42136,1,,,,,0
+5047,3025,Electric Ave at Flynn St,,48.756012,-122.42216,1,,,,,0
+5048,3026,Electric Ave at Kansas St,,48.753635,-122.42319,1,,,,,0
+5049,3027,Electric Ave at Fraser St,,48.751427,-122.42421,1,,,,,0
+5050,3028,Yew St at Lakeway Dr,,48.74593,-122.44284,1,,,,,0
+5051,3029,Woburn St at Fraser St,,48.751549,-122.44509,1,,,,,0
+5052,3030,Woburn St at Kentucky St,,48.75882,-122.44521,1,,,,,0
+5055,3033,Woburn St at Kentucky St,,48.758694,-122.44543,1,,,,,0
+5056,3034,Woburn St at Fraser St,,48.752148,-122.44538,1,,,,,0
+5057,3035,Old Woburn St at Sweet Bay Dr,,48.746342,-122.44537,1,,,,,0
+5058,3120,Lakeway Dr at Birch St,,48.748581,-122.42754,1,,,,,0
+5059,3168,Bennett Dr at McAlpine Rd,,48.775616,-122.52003,1,,,,,0
+5060,3171,Donovan Ave at 31st St,,48.717384,-122.47658,1,,,,,0
+5061,3355,Britton Rd at Barkley Blvd,,48.772778,-122.40995,1,,,,,0
+5062,7242,Hwy 9 at Rutsatz Rd,,48.806995,-122.1979,1,,,,,0
+5065,3364,Woburn St at Old Woburn St,,48.74852,-122.44508,1,,,,,0
+5067,7222,Mt Baker Hwy at Smith Rd,,48.831379,-122.30649,1,,,,,0
+5068,7777,Lake Louise Rd at Nature Reserve,,48.732346,-122.37813,1,,,,,0
+5070,7200,Mt Baker Hwy at Noon Rd,,48.803104,-122.39898,1,,,,,0
+5072,7202,Mt Baker Hwy at Nugents Corner,,48.843494,-122.28697,1,,,,,0
+5073,7221,Mt Baker Hwy at Nugents Corner,,48.843658,-122.28595,1,,,,,0
+5074,7203,Deming Rd at Mt Baker HS,,48.824623,-122.22083,1,,,,,0
+5075,7220,Deming Rd at Mt Baker HS,,48.824787,-122.22112,1,,,,,0
+5076,7204,Deming Rd at Nooksack River Casino,,48.823143,-122.21414,1,,,,,0
+5077,7219,Deming Rd at Nooksack River Casino,,48.823235,-122.21418,1,,,,,0
+5078,7216,Kendall Rd at Kendall Elementary School,,48.917068,-122.14099,1,,,,,0
+5079,7209,Shamrock Rd at Azure Way,,48.950138,-122.15239,1,,,,,0
+5081,7211,Golden Valley Dr at Cimarron Way,,48.95013,-122.14488,1,,,,,0
+5082,7212,Chestnut Dr at Holly Ln,,48.945713,-122.14787,1,,,,,0
+5084,7259,James St at Carolina St,,48.76062,-122.46506,1,,,,,0
+5085,7260,James St at Kentucky St,,48.757961,-122.46503,1,,,,,0
+5087,7262,State St at Grant St,,48.753986,-122.46905,1,,,,,0
+5091,7228,James St at Kentucky St,,48.758068,-122.46477,1,,,,,0
+5092,7229,James St at Carolina St,,48.760651,-122.46476,1,,,,,0
+5095,7252,Sunset Dr at 2500 block,,48.777885,-122.44061,1,,,,,0
+5096,7253,Sunset Dr at Woburn St,,48.77673,-122.44621,1,,,,,0
+5099,7257,James St at Connecticut St,,48.765396,-122.46505,1,,,,,0
+5100,7234,Sunset Dr at Racine St,,48.774906,-122.45271,1,,,,,0
+5101,7235,Sunset Dr at Woburn St,,48.776775,-122.44431,1,,,,,0
+5107,7223,Mt Baker Hwy at Noon Rd,,48.803562,-122.39842,1,,,,,0
+5108,7208,Oregon Trail at Kendall Rd,,48.931301,-122.14316,1,,,,,0
+5109,7215,Peaceful Valley Dr at Clear Valley Dr,,48.939308,-122.14436,1,,,,,0
+5110,7213,Deep Valley Dr at Red Valley Ln,,48.941612,-122.14178,1,,,,,0
+5111,7214,King Valley Dr at Green Valley Ct,,48.938957,-122.14056,1,,,,,0
+5114,7241,Hwy 9 at Van Zandt Community Hall,,48.789528,-122.19041,1,,,,,0
+5116,7294,Golden Valley Dr at Chestnut Dr,,48.946613,-122.14423,1,,,,,0
+5117,7206,Kendall Rd at Mt Baker Hwy,,48.916985,-122.13878,1,,,,,0
+5125,7145,Kellogg Rd at Meridian St,,48.795303,-122.48797,1,,,,,0
+5126,2121,Champion St at Unity St,,48.751987,-122.47706,1,,,,,0
+5127,3195,Grand Ave at Girard St,,48.756359,-122.4795,1,,,,,0
+5128,3196,Girard St at C St,,48.757626,-122.48031,1,,,,,0
+5129,3197,Girard St at G St,,48.759262,-122.48282,1,,,,,0
+5130,3198,Girard St at J St,,48.760761,-122.48512,1,,,,,0
+5131,3199,Meridian St at Broadway,,48.761719,-122.48598,1,,,,,0
+5132,2219,Meridian St at North St,,48.764759,-122.48598,1,,,,,0
+5133,2221,Meridian St at Oregon St,,48.771191,-122.48595,1,,,,,0
+5134,3200,Meridian St at Victor St,,48.77396,-122.48594,1,,,,,0
+5135,2222,Meridian St at Orchard Dr,,48.779175,-122.48596,1,,,,,0
+5136,2305,Meridian St at McLeod Rd,,48.781891,-122.48633,1,,,,,0
+5137,3090,Meridian St at Victor St,,48.773632,-122.48617,1,,,,,0
+5138,3091,Meridian St at Oregon St,,48.770798,-122.48616,1,,,,,0
+5140,3093,Meridian St at North St,,48.764626,-122.48619,1,,,,,0
+5141,3201,Meridian St at Monroe St,,48.762417,-122.48619,1,,,,,0
+5142,3094,Girard St at J St,,48.760612,-122.48522,1,,,,,0
+5143,3202,Girard St at H St,,48.75959,-122.48363,1,,,,,0
+5144,2238,Girard St at D St,,48.757584,-122.48054,1,,,,,0
+5145,3194,Grand Ave at Lottie St,,48.755089,-122.47939,1,,,,,0
+5146,3203,Grand Ave at Flora St,,48.752697,-122.47968,1,,,,,0
+5148,7114,Nooksack Valley High School,,48.964268,-122.30846,1,,,,,0
+5149,7117,Nooksack Rd at Madison St,,48.927162,-122.32198,1,,,,,0
+5150,7118,Nooksack Rd at Columbia St,,48.921612,-122.32201,1,,,,,0
+5151,7120,Main St at Kirsch Rd,,48.920231,-122.34151,1,,,,,0
+5152,7110,Main St at Kirsch Dr,,48.920071,-122.34155,1,,,,,0
+5153,7121,Everson Rd at Kale Rd,,48.915993,-122.35239,1,,,,,0
+5154,7109,Everson Rd at Kale Rd,,48.915852,-122.3522,1,,,,,0
+5155,7122,Everson Rd at Roeder St,,48.911747,-122.35513,1,,,,,0
+5156,7108,Everson Rd at Strandell St,,48.91135,-122.35503,1,,,,,0
+5157,7123,Mission Rd at Chestnut St,,48.906185,-122.3559,1,,,,,0
+5158,7107,Mission Rd at Chestnut St,,48.906208,-122.35576,1,,,,,0
+5159,7124,Mission Rd at Suchanon Dr,,48.898445,-122.35312,1,,,,,0
+5161,7149,Guide Meridian at Horton Rd,,48.808338,-122.4858,1,,,,,0
+5162,7150,Guide Meridian at Kline Rd,,48.815556,-122.48576,1,,,,,0
+5163,7151,Guide Meridian at Smith Rd,,48.833839,-122.48577,1,,,,,0
+5165,7153,Guide Meridian at Laurel Rd,,48.855583,-122.48575,1,,,,,0
+5168,7104,Everson-Goshen Rd at Pole Rd,,48.891415,-122.37547,1,,,,,0
+5169,7132,Pole Rd at Everson-Goshen Rd,,48.891201,-122.3749,1,,,,,0
+5170,7105,Mission Rd at Silves Ct,,48.892445,-122.35297,1,,,,,0
+5171,7125,Mission Rd at Silves Ct,,48.892403,-122.35313,1,,,,,0
+5172,7106,Mission Rd at Suchanon Dr,,48.897453,-122.35294,1,,,,,0
+5175,7138,Guide Meridian at Ten Mile Rd,,48.868973,-122.48609,1,,,,,0
+5176,7139,Guide Meridian at Laurel Rd,,48.85714,-122.48614,1,,,,,0
+5177,7140,Guide Meridian at Axton Rd,,48.847378,-122.48618,1,,,,,0
+5178,7141,Guide Meridian at Smith Rd,,48.832916,-122.48618,1,,,,,0
+5179,7142,Guide Meridian at Kline Rd,,48.814613,-122.48616,1,,,,,0
+5180,7143,Guide Meridian at Horton Rd,,48.807461,-122.48622,1,,,,,0
+5182,3095,Grand Ave at Lottie St,,48.755116,-122.47964,1,,,,,0
+5183,2204,Champion St at Grand Ave,,48.751953,-122.47915,1,,,,,0
+5184,3193,Grand Ave at Central Ave,,48.753757,-122.47944,1,,,,,0
+5185,3044,Cordata Pkwy at WCC,,48.79454,-122.49181,1,,,,,0
+5186,7112,Nooksack Rd at Columbia St,,48.921818,-122.32177,1,,,,,0
+5187,7113,Nooksack Rd at Madison St,,48.928192,-122.32173,1,,,,,0
+5188,7119,Nooksack Valley Middle School,,48.920269,-122.32879,1,,,,,0
+5189,7111,Nooksack Valley Middle School,,48.920143,-122.32845,1,,,,,0
+5190,2223,Meridian St at Baker St,,48.780983,-122.48598,1,,,,,0
+5191,3141,Meridian St at Orchard Dr,,48.778885,-122.48625,1,,,,,0
+5192,2659,Kellogg Rd at WCC,,48.795086,-122.49387,1,,,,,0
+5194,5558,Bakerview Rd at Cordata Pkwy,,48.789597,-122.49323,1,,,,,0
+5197,5534,Peace Portal Dr at 4th St,,48.986248,-122.74792,1,,,,,0
+5198,5523,Peace Portal Dr at 4th St,,48.986637,-122.74827,1,,,,,0
+5200,5513,Grandview Rd at Enterprise Rd,,48.891769,-122.58436,1,,,,,0
+5203,5510,Portal Way at 6300 Block,,48.872086,-122.58426,1,,,,,0
+5205,5508,Portal Way at 6000 Block,,48.859921,-122.58458,1,,,,,0
+5208,5543,Grandview Rd at Enterprise Rd,,48.891644,-122.58437,1,,,,,0
+5209,5544,Enterprise Rd at Matz Rd,,48.886948,-122.58393,1,,,,,0
+5211,5546,Portal Way at 6300 Block,,48.870571,-122.58457,1,,,,,0
+5212,5547,Portal Way at 6200 Block,,48.868206,-122.58459,1,,,,,0
+5214,5554,Axton Rd at Barrett Rd,,48.848221,-122.57282,1,,,,,0
+5223,5517,Birch Bay-Lynden Rd at James Tree Ln,,48.935848,-122.72144,1,,,,,0
+5225,5519,Harborview Rd at Drayton Harbor Rd,,48.956635,-122.74798,1,,,,,0
+5226,5520,Drayton Harbor Rd at Blaine Rd,,48.962147,-122.73039,1,,,,,0
+5227,5521,Peace Portal Dr at Bell Rd,,48.976475,-122.72932,1,,,,,0
+5228,5522,Peace Portal Dr at Mitchell Ave,,48.984184,-122.74094,1,,,,,0
+5229,5524,Peace Portal Dr at Clark St,,48.991993,-122.75142,1,,,,,0
+5230,5533,Peace Portal Dr at Clark St,,48.992111,-122.75164,1,,,,,0
+5231,5535,Peace Portal Dr at Garfield Ave,,48.98489,-122.74334,1,,,,,0
+5232,5536,Peace Portal Dr at Bell Rd,,48.976093,-122.72903,1,,,,,0
+5233,5537,Drayton Harbor Rd at Blaine Rd,,48.962269,-122.73213,1,,,,,0
+5234,5538,Drayton Harbor Rd at Harborview Rd,,48.95739,-122.74789,1,,,,,0
+5236,5540,Birch Bay-Lynden Rd at Anchor Pkwy,,48.935673,-122.72246,1,,,,,0
+5246,2365,Cable St at Lake Whatcom Blvd,,48.746147,-122.39553,1,,,,,0
+5247,3118,Lakeway Dr at Oriental Ave,,48.746239,-122.41469,1,,,,,0
+5248,3119,Lakeway Dr at Lowell Ave,,48.747326,-122.41798,1,,,,,0
+5254,3117,Lakeway Dr at Euclid Ave,,48.744675,-122.40958,1,,,,,0
+5258,2536,Lake Louise Rd at Gate 5,,48.709911,-122.34097,1,,,,,0
+5259,3107,Lake Whatcom Blvd at Gate 2,,48.710194,-122.33024,1,,,,,0
+5261,3109,Lake Whatcom Blvd at S Lakewood,,48.727413,-122.34029,1,,,,,0
+5262,3110,Lake Whatcom Blvd at N Lakewood,,48.728867,-122.34245,1,,,,,0
+5263,2360,Lake Whatcom Blvd at Woodcliff Ln,,48.732651,-122.3486,1,,,,,0
+5264,2361,Lake Whatcom Blvd at 2600 Block,,48.735847,-122.35691,1,,,,,0
+5265,3111,Lake Whatcom Blvd at E Strawberry Pt,,48.739071,-122.36703,1,,,,,0
+5266,3112,Lake Whatcom Blvd at W Strawberry Pt,,48.738491,-122.3707,1,,,,,0
+5267,3113,Lake Whatcom Blvd at Eagle Point,,48.738319,-122.37579,1,,,,,0
+5268,3114,Lake Whatcom Blvd at Cherry Ln,,48.739189,-122.37939,1,,,,,0
+5269,2363,Lake Whatcom Blvd at Grand Blvd,,48.74049,-122.38194,1,,,,,0
+5270,2016,Lake Whatcom Blvd at 2800 Block,,48.742668,-122.39084,1,,,,,0
+5271,3115,Lake Whatcom Blvd at Coronado Ave,,48.745037,-122.39339,1,,,,,0
+5272,3116,Cable St at Lakeview St,,48.746216,-122.40699,1,,,,,0
+5276,2698,Eliza Ave at Darby Dr,,48.792961,-122.49686,1,,,,,0
+5278,2715,Bakerview Rd at Deemer Rd,,48.789825,-122.48167,1,,,,,0
+5279,2716,Bakerview Rd at Deemer Rd,,48.789608,-122.48128,1,,,,,0
+5290,2967,Midway Ln at Bakerview Spur,,48.785954,-122.4512,1,,,,,0
+5291,2968,Midway Ln at Irongate Rd,,48.785786,-122.45033,1,,,,,0
+5292,2969,Irongate Rd at Alpine Way,,48.78421,-122.45351,1,,,,,0
+5293,2970,Irongate Rd at Alpine Way,,48.783688,-122.45331,1,,,,,0
+5294,2971,Division St at Bakerview Spur,,48.782322,-122.44922,1,,,,,0
+5295,2972,Division St at Bakerview Spur,,48.782188,-122.44949,1,,,,,0
+5300,2977,Bennett Dr at Cherrywood Ave,,48.780773,-122.51993,1,,,,,0
+5301,2978,Bennett Dr at McLeod Rd,,48.783447,-122.51857,1,,,,,0
+5302,2979,Bennett Dr at McLeod Rd,,48.783337,-122.51875,1,,,,,0
+5303,2980,Bennett Dr at Cherrywood Ave,,48.780743,-122.52013,1,,,,,0
+5308,3128,Lakeway Dr at Humboldt St,,48.745098,-122.46812,1,,,,,0
+5309,3129,Lakeway Dr at Franklin St,,48.745129,-122.46955,1,,,,,0
+5310,2123,Lakeway Dr at James St,,48.744881,-122.46449,1,,,,,0
+5312,2413,Samish Way at Lincoln St,,48.73098,-122.46854,1,,,,,0
+5313,2531,Ellis St at Holly St,,48.74408,-122.47198,1,,,,,0
+5314,3218,Elm St at Jefferson St,,48.762779,-122.48848,1,,,,,0
+5315,3217,Northwest Ave at Connecticut St,,48.766121,-122.48958,1,,,,,0
+5318,3214,Northwest Ave at Lynn St,,48.772099,-122.49442,1,,,,,0
+5321,2162,Northwest Ave at 3400 Block,,48.777699,-122.49883,1,,,,,0
+5322,3212,Northwest Ave at McLeod Rd,,48.781712,-122.50182,1,,,,,0
+5323,3211,Northwest Ave at Sterling Dr,,48.785667,-122.50476,1,,,,,0
+5325,9960,Northwest Dr at Aldrich Rd,,48.790962,-122.50852,1,,,,,0
+5328,2330,Westerly Rd at Meridian St,,48.791908,-122.48742,1,,,,,0
+5333,1310,Cordata Pkwy at El Dorado Way,,48.808144,-122.49796,1,,,,,0
+5335,3226,Cordata Pkwy at Horton Rd,,48.80484,-122.49602,1,,,,,0
+5336,3227,Cordata Pkwy at Sea Mar,,48.801559,-122.49614,1,,,,,0
+5340,3089,Cordata Pkwy at Westerly Rd,,48.791412,-122.49156,1,,,,,0
+5342,2271,Northwest Ave at Sterling Dr,,48.785934,-122.50473,1,,,,,0
+5343,2085,Northwest Ave at McLeod Rd,,48.78157,-122.50145,1,,,,,0
+5345,2172,Northwest Ave at Alderwood Ave,,48.779179,-122.49992,1,,,,,0
+5346,3210,Northwest Ave at 3400 Block,,48.777935,-122.49876,1,,,,,0
+5348,3151,Birchwood Ave at Meridian St,,48.777233,-122.48492,1,,,,,0
+5349,2040,Birchwood Ave at Orchard Pl,,48.777184,-122.47949,1,,,,,0
+5350,3053,Birchwood Ave at Squalicum Pkwy,,48.777157,-122.47664,1,,,,,0
+5351,9369,Birchwood Ave at Squalicum Pkwy,,48.777054,-122.47682,1,,,,,0
+5352,3046,Birchwood Ave at Orchard Pl,,48.777081,-122.47932,1,,,,,0
+5353,3045,Birchwood Ave at Meridian St,,48.777084,-122.4843,1,,,,,0
+5354,2266,Northwest Ave at Lynn St,,48.771198,-122.49345,1,,,,,0
+5356,2263,Northwest Ave at Connecticut St,,48.7658,-122.48908,1,,,,,0
+5357,3209,Elm St at Jefferson St,,48.763401,-122.48826,1,,,,,0
 5506,5531,H St at 6th St,,48.994091,-122.74374,1,,,,,0
 5507,9200,Front St at Fairgrounds (West),,48.939091,-122.47673,1,,,,,0
 5508,2488,Grover St at 3rd St,,48.944637,-122.45039,1,,,,,0
@@ -726,7 +508,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5586,2753,Cornwall Ave at Broadway,,48.766869,-122.47657,1,,,,,0
 5587,3051,Sunset Dr at Illinois St,,48.76786,-122.47603,1,,,,,0
 5588,2107,Alabama St at Humboldt St,,48.762939,-122.46707,1,,,,,0
-5590,3261,Alabama St at Neveda St,,48.762959,-122.45869,1,,,,,0
+5590,3261,Alabama St at Nevada St,,48.762959,-122.45869,1,,,,,0
 5591,2108,Alabama St at Queen St,,48.762959,-122.45411,1,,,,,0
 5592,2109,Alabama St at St Paul St,,48.76297,-122.45106,1,,,,,0
 5593,8896,Alabama St at Undine St,,48.762962,-122.44877,1,,,,,0
@@ -737,6 +519,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5607,2120,Cornwall Ave at New St,,48.756233,-122.4752,1,,,,,0
 5608,3049,Cornwall Ave at Halleck St,,48.754787,-122.47521,1,,,,,0
 5609,3050,Cornwall Ave at Flora St,,48.753071,-122.47527,1,,,,,0
+5610,3338,Northshore Dr at Martin St,,48.766193,-122.41463,1,,,,,0
+5613,2334,Northshore Rd at Britton Rd,,48.769039,-122.41029,1,,,,,0
+5614,2348,Britton Rd at Alice St,,48.770145,-122.40973,1,,,,,0
+5615,2483,Lahti Dr at Britton Rd,,48.774807,-122.4101,1,,,,,0
+5616,2282,Lahti Dr a D'Linda St,,48.775295,-122.41245,1,,,,,0
+5617,3347,Lahti Dr at Spring Coulee Rd,,48.775711,-122.41402,1,,,,,0
+5618,3348,Spring Coulee Rd at Del Bonita Way,,48.777779,-122.41655,1,,,,,0
 5619,2291,Spring Coulee Rd at MaGrath Rd,,48.778812,-122.42029,1,,,,,0
 5620,8980,MaGrath Rd at McLeod Rd,,48.781918,-122.42082,1,,,,,0
 5622,2278,McLeod Rd at Sunset Dr,,48.782303,-122.42885,1,,,,,0
@@ -754,7 +543,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5645,2621,Barkley Bvld at Woburn St,,48.771172,-122.44633,1,,,,,0
 5646,2622,Barkley Bvld at St Paul St,,48.771194,-122.45051,1,,,,,0
 5647,2623,Barkley Bvld at Pacific St,,48.771221,-122.45516,1,,,,,0
-5650,3350,McLeod Rd at Sunset Dr,,48.782146,-122.42809,1,,,,,0
+5652,3500,Magrath Rd at Welling Rd,,48.781265,-122.42058,1,,,,,0
+5653,3352,Spring Coulee Rd at Pincher St,,48.778522,-122.41894,1,,,,,0
+5654,3353,Spring Coulee Rd at Del Bonita Way,,48.777641,-122.41636,1,,,,,0
+5656,2318,Lahti Dr at Britton Rd,,48.774727,-122.40992,1,,,,,0
+5657,2320,Britton Rd at Alice St,,48.769894,-122.40999,1,,,,,0
+5658,2321,Northshore Dr at Britton Rd,,48.769165,-122.4109,1,,,,,0
+5660,3340,Northshore Dr at Martin St,,48.766293,-122.41503,1,,,,,0
 5661,3297,Samish Way at Lincoln St,,48.730984,-122.46886,1,,,,,0
 5662,3298,Samish Way at Taylor Ave,,48.724422,-122.47158,1,,,,,0
 5663,1038,Samish Way at Taylor Ave,,48.724693,-122.47147,1,,,,,0
@@ -800,6 +595,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5707,2390,Yew St at Princeton Ct,,48.739742,-122.44238,1,,,,,0
 5710,3344,Alabama St at Crestline Dr,,48.76292,-122.42834,1,,,,,0
 5711,3345,Alabama St at Fir St,,48.762936,-122.42402,1,,,,,0
+5712,3346,Sylvan St at Connecticut St,,48.765179,-122.42247,1,,,,,0
 5715,3296,Lincoln St at Maple St,,48.737194,-122.46552,1,,,,,0
 5717,2414,Lincoln St at Maple St,,48.73727,-122.46518,1,,,,,0
 5718,2415,Lincoln St at S Mobile Estates,,48.738705,-122.46469,1,,,,,0
@@ -866,6 +662,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5792,9446,10th St at McKenzie Ave,,48.719025,-122.50467,1,,,,,0
 5795,2071,Harris Ave at 14th St,,48.720108,-122.49923,1,,,,,0
 5796,3188,Harris Ave at 15th St,,48.720234,-122.49826,1,,,,,0
+5797,2072,Harris Ave at 16th St,,48.720131,-122.49675,1,,,,,0
 5798,2073,Harris Ave at 18th St,,48.720085,-122.49465,1,,,,,0
 5799,3187,Harris Ave at 17th St,,48.720245,-122.49549,1,,,,,0
 5800,3180,Highland Dr at College Way,,48.733578,-122.49059,1,,,,,0
@@ -895,3 +692,221 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5827,3275,State St at 13th St,,48.730324,-122.50189,1,,,,,0
 5828,3085,State St at 14th St,,48.732101,-122.4995,1,,,,,0
 5829,3274,State St at 14th St,,48.732166,-122.49987,1,,,,,0
+5830,3086,State St at 200 Block,,48.734406,-122.49721,1,,,,,0
+5831,2005,State St at 200 Block,,48.7351,-122.49701,1,,,,,0
+5832,3285,Forest St at Rose St,,48.744236,-122.48115,1,,,,,0
+5833,2026,Forest St at Maple St,,48.745533,-122.47917,1,,,,,0
+5834,3271,State St at Chestnut St,,48.746983,-122.47945,1,,,,,0
+5835,3272,State St at Laurel St,,48.745304,-122.48195,1,,,,,0
+5836,3273,State St at Berry St,,48.743946,-122.48397,1,,,,,0
+5837,2002,Boulevard St at Wharf St,,48.743382,-122.48543,1,,,,,0
+5838,2003,Boulevard St at 500 Blcok,,48.741341,-122.48956,1,,,,,0
+5839,2025,State St at Forest St,,48.742935,-122.48512,1,,,,,0
+5840,3284,State St at Pine St,,48.741657,-122.48695,1,,,,,0
+5842,2024,State St at S Hill Apts,,48.738167,-122.49211,1,,,,,0
+5843,9444,Donovan Ave at 12th St,,48.717762,-122.50312,1,,,,,0
+5849,2549,Hoff Rd at Marine Dr,,48.783421,-122.57373,1,,,,,0
+5850,2442,Marine Dr at Hoff Rd,,48.783108,-122.57304,1,,,,,0
+5852,3287,Lincoln St at Potter St,,48.747021,-122.46237,1,,,,,0
+5859,3138,Maplewood Ave at Alderwood Ave,,48.779068,-122.50601,1,,,,,0
+5860,2911,Maplewood Ave at McLeod Rd,,48.782619,-122.51129,1,,,,,0
+5861,3139,Maplewood Ave at  Bradley Ln,,48.784973,-122.51472,1,,,,,0
+5862,4002,Maplewood Ave at Bakerview Rd,,48.786652,-122.51714,1,,,,,0
+5863,3143,Sunset Dr at Coolidge Dr,,48.768711,-122.47503,1,,,,,0
+5864,3144,Cornwall Ave at Broadway St,,48.766533,-122.47647,1,,,,,0
+5875,2507,19th St at Kok Rd,,48.936245,-122.4817,1,,,,,0
+5876,2730,19th St at Front St,,48.940456,-122.48083,1,,,,,0
+5877,2731,19th St at Forest Ln,,48.944103,-122.4808,1,,,,,0
+5878,2736,19th St at 19th St Ct,,48.94751,-122.48064,1,,,,,0
+5879,2732,Pine St at Fern Dr,,48.948967,-122.47697,1,,,,,0
+5880,9801,Front St at Fairgrounds (East),,48.939217,-122.47437,1,,,,,0
+5881,2725,Front St at 9th St,,48.941498,-122.45731,1,,,,,0
+5882,2724,7th St at Grover St,,48.94228,-122.4556,1,,,,,0
+5883,2726,Front St at 11th St,,48.940605,-122.46009,1,,,,,0
+5884,2964,Front St at British Columbia Ave,,48.939922,-122.46263,1,,,,,0
+5885,2727,Front St at 15th St,,48.939659,-122.46583,1,,,,,0
+5886,2728,Front St at 17th St,,48.939632,-122.46859,1,,,,,0
+5887,2729,Front St at Fairside Dr,,48.939377,-122.47449,1,,,,,0
+5888,8911,Guide Meridian at Birch Bay-Lynden Rd,,48.934704,-122.48563,1,,,,,0
+5889,2752,Cornwall Ave at North St,,48.764183,-122.47494,1,,,,,0
+5890,2956,Westerly Rd at Meridian St,,48.792042,-122.48799,1,,,,,0
+5891,4001,Maplewood Ave at Bakerview Rd,,48.78643,-122.51715,1,,,,,0
+5892,3153,Maplewood Ave at Bradley Ln,,48.784557,-122.51434,1,,,,,0
+5893,2912,Maplewood Ave at McLeod Rd,,48.782276,-122.51098,1,,,,,0
+5894,3154,Maplewood Ave at Alderwood Ave,,48.778996,-122.50615,1,,,,,0
+5895,3155,Maplewood Ave at Cottonwood Ave,,48.77726,-122.50349,1,,,,,0
+5896,3156,Maplewood Ave at Partridge Ln,,48.775978,-122.49953,1,,,,,0
+5901,7878,Yew St at S Hills Dr,,48.71027,-122.44238,1,,,,,0
+5902,3307,Yew St at S Hills Dr,,48.710728,-122.4413,1,,,,,0
+5905,2421,Yew St at Tacoma Ave,,48.716736,-122.4403,1,,,,,0
+5906,2721,Division St at Hannegan Rd,,48.782188,-122.44426,1,,,,,0
+5907,2720,Division St at Hannegan Rd,,48.782059,-122.44498,1,,,,,0
+5910,7232,James St at Illinois St,,48.768669,-122.46479,1,,,,,0
+5911,2665,Airport Dr at Bennett Dr,,48.786098,-122.52102,1,,,,,0
+5913,4000,Airport Dr at Williamson Way,,48.781841,-122.53144,1,,,,,0
+5914,2667,Alderwood Ave at Marine Dr,,48.779819,-122.53838,1,,,,,0
+5915,2598,Kwina Rd at Chief Martin Rd,,48.793884,-122.62759,1,,,,,0
+5916,3325,Kwina Rd at Chief Martin Rd,,48.793751,-122.62733,1,,,,,0
+5917,2668,Alderwood Ave at Marine Dr,,48.779762,-122.53812,1,,,,,0
+5922,3237,19th St at Kok Rd,,48.936684,-122.48173,1,,,,,0
+5924,2965,3rd St at Main St,,48.945923,-122.45248,1,,,,,0
+5927,9875,Woburn St at Rimland Dr,,48.772877,-122.4455,1,,,,,0
+5928,9876,Woburn St at Sunset Dr,,48.776218,-122.44548,1,,,,,0
+5930,2705,Alabama St at Dean Ave,,48.762981,-122.47318,1,,,,,0
+5934,2711,Alabama St at Fir St,,48.763088,-122.42399,1,,,,,0
+5935,2712,Alabama St at Vista Dr,,48.763088,-122.42736,1,,,,,0
+5937,2955,Dupont St at G St,,48.757961,-122.48546,1,,,,,0
+5938,2986,Eldridge Ave at Gilligan Way,,48.763996,-122.51218,1,,,,,0
+5940,8269,Cordata Pkwy at Sequoia Rd,,48.809238,-122.4972,1,,,,,0
+5941,2985,Tremont Ave at Corona Ct,,48.812347,-122.50014,1,,,,,0
+5942,2984,Cordata Pkwy at Tremont Ave,,48.811817,-122.49757,1,,,,,0
+5948,1062,York St at James St,,48.750568,-122.46537,1,,,,,0
+5949,3291,York St at James St,,48.75066,-122.46559,1,,,,,0
+5950,1101,Lakeway Dr at Portal Dr,,48.748089,-122.42355,1,,,,,0
+5951,1199,Lakeway Dr at Lowell Ave,,48.747204,-122.41816,1,,,,,0
+5952,1198,Lakeway Dr at Oriental Ave,,48.74612,-122.41563,1,,,,,0
+5953,1196,Lakeway Dr at Euclid Ave,,48.744709,-122.41061,1,,,,,0
+5954,1194,Cable St at Lakeview St,,48.746098,-122.40586,1,,,,,0
+5955,1192,Cable St at Geneva St,,48.746254,-122.40119,1,,,,,0
+5956,2127,Lakeway Dr at Portal Dr,,48.748409,-122.42316,1,,,,,0
+5957,5556,Bakerview Rd at Palisade Way,,48.789577,-122.50352,1,,,,,0
+5958,5557,Bakerview Rd at Eliza Ave,,48.7896,-122.4986,1,,,,,0
+5959,2963,Westerly Rd at Cordata Pkwy,,48.792038,-122.49284,1,,,,,0
+5960,2962,Maplewood Ave at Northwest Ave,,48.775913,-122.49857,1,,,,,0
+5961,2699,Eliza Ave at Darby Dr,,48.792458,-122.49707,1,,,,,0
+5962,5501,Bakerview Rd at Eliza Ave,,48.789825,-122.49831,1,,,,,0
+5963,5502,Bakerview Rd at Palisade Way,,48.78978,-122.50353,1,,,,,0
+5964,7225,Forest St at Ellis St,,48.750286,-122.47218,1,,,,,0
+5965,7226,State St at Meador Ave,,48.753464,-122.46938,1,,,,,0
+5967,7231,James St at Maryland St,,48.766438,-122.46481,1,,,,,0
+5968,7261,State St at Iron St,,48.755939,-122.4661,1,,,,,0
+5969,7263,State St at Ellis St,,48.752335,-122.47147,1,,,,,0
+5970,7127,Pole Rd at Hannegan Rd,,48.891884,-122.44417,1,,,,,0
+5971,7152,Guide Meridian at Axton Rd,,48.848251,-122.4858,1,,,,,0
+5972,7154,Guide Meridian at Ten Mile Rd,,48.870419,-122.48566,1,,,,,0
+5974,7103,Pole Rd at Hannegan Rd,,48.891705,-122.44184,1,,,,,0
+5975,7236,Sunset Dr at 2500 block,,48.777962,-122.43939,1,,,,,0
+5976,7237,Sunset Dr at Idell Dr,,48.779984,-122.4353,1,,,,,0
+5977,7244,Squalicum Lake Rd at Mt Baker Hwy,,48.806553,-122.34386,1,,,,,0
+5978,7210,Shamrock Rd at Golden Valley Dr,,48.952049,-122.15026,1,,,,,0
+5979,7251,Sunset Dr at Idell Dr,,48.780479,-122.43446,1,,,,,0
+5980,7254,Sunset Dr at Racine,,48.774651,-122.45372,1,,,,,0
+5981,7256,James St at Illinois St,,48.768585,-122.46504,1,,,,,0
+5982,5509,Portal Way at 6200 Block,,48.868385,-122.58436,1,,,,,0
+5983,5511,Portal Way at Trigg Rd,,48.877399,-122.58402,1,,,,,0
+5984,5512,Enterprise Rd at Matz Rd,,48.887012,-122.58373,1,,,,,0
+5987,5545,Portal Way at Trigg Rd,,48.877159,-122.58431,1,,,,,0
+5988,5548,Portal Way at 6000 Block,,48.85981,-122.58493,1,,,,,0
+5989,2000,Cordata Station,,48.792805,-122.49104,1,,,,,0
+6007,5504,Main St at 1850 Block,,48.844849,-122.58189,1,,,,,0
+6008,5552,Main St at 1850 Block,,48.84457,-122.58306,1,,,,,0
+6009,2255,Northwest Dr at Aldrich Rd,,48.790627,-122.50848,1,,,,,0
+6010,2394,Yew St at Democrat St,,48.72974,-122.44297,1,,,,,0
+6011,3031,Woburn St at Texas St,,48.76123,-122.44521,1,,,,,0
+6012,7238,Sunset Dr at Vining St,,48.781406,-122.43211,1,,,,,0
+6015,5527,Blaine Cost Cutter,,48.993412,-122.72907,1,,,,,0
+6020,5525,H St at 4th St,,48.993942,-122.74825,1,,,,,0
+6021,5526,H St at 8th St,,48.993938,-122.73986,1,,,,,0
+6023,3371,Westerly Rd at Eliza Ave,,48.793262,-122.49614,1,,,,,0
+6024,3373,Westerly Rd at Cordata Pkwy,,48.79192,-122.49242,1,,,,,0
+6025,3372,Westerly Rd at Eliza Ave,,48.793404,-122.49611,1,,,,,0
+6027,7158,Guide Meridian at Kelly Rd,,48.818283,-122.48618,1,,,,,0
+6028,7157,Guide Meridian at Kelly Rd,,48.819248,-122.48574,1,,,,,0
+6029,7159,Pole Rd at 1060,,48.891811,-122.43306,1,,,,,0
+6031,2260,Kellogg Rd at WCC,,48.795231,-122.49421,1,,,,,0
+6032,9998,Lincoln Creek P&R,,48.734566,-122.46601,1,,,,,0
+6033,7295,Sunset Dr at Vining St,,48.781788,-122.43158,1,,,,,0
+6034,3378,Yew St at Wade King Elementary,,48.719948,-122.44274,1,,,,,0
+6035,3379,Yew St at Wade King Elementary,,48.719967,-122.44254,1,,,,,0
+6037,7161,Guide Meridian at Hemmi Rd,,48.862896,-122.48573,1,,,,,0
+6038,7162,Guide Meridian at Pole Rd,,48.890709,-122.48529,1,,,,,0
+6039,7160,Guide Meridian at Hemmi Rd,,48.861958,-122.48611,1,,,,,0
+6040,3381,Lakeway Dr at Grant St,,48.744926,-122.46831,1,,,,,0
+6041,3382,Lake Louise Rd at 1800 Block,,48.735268,-122.38934,1,,,,,0
+6042,4721,1st Ave at Alder St,,48.845303,-122.59081,1,,,,,0
+6043,2510,1st Ave at Cherry St,,48.844059,-122.5919,1,,,,,0
+6044,2511,3rd Ave at Alder St,,48.846581,-122.59272,1,,,,,0
+6045,2512,3rd Ave at Alder St,,48.846336,-122.59325,1,,,,,0
+6046,2528,Cherry St at 2nd Ave,,48.844093,-122.59286,1,,,,,0
+6047,2529,1st Ave at Main St,,48.845768,-122.59007,1,,,,,0
+6054,3389,Bennett Dr at McAlpine Rd,,48.775051,-122.52021,1,,,,,0
+6055,3390,Bennett Dr at Cedarwood Ave,,48.771095,-122.52027,1,,,,,0
+6056,3391,Bennett Dr at Marine Dr,,48.76923,-122.52031,1,,,,,0
+6057,3392,Marine Dr at Bennett Dr,,48.767925,-122.51903,1,,,,,0
+6058,3393,Lindbergh Ave at Eldridge Ave,,48.766006,-122.51511,1,,,,,0
+6078,5561,Alderson Rd at Birch Bay Dr,,48.917702,-122.74419,1,,,,,0
+6079,5562,Alderson Rd at Birch Bay Dr,,48.917805,-122.74434,1,,,,,0
+6080,5563,Birch Bay Dr at Beachcomber Dr,,48.925598,-122.74522,1,,,,,0
+6081,5564,Alderson Rd at Loft Ln,,48.917637,-122.73672,1,,,,,0
+6082,5565,Alderson Rd at Loft Ln,,48.917763,-122.737,1,,,,,0
+6083,5566,Birch Bay Dr at Beachcomber Dr,,48.925606,-122.74501,1,,,,,0
+6084,3400,Hoff Rd at Country Ln,,48.789314,-122.57349,1,,,,,0
+6085,3401,Marine Dr at Rural Ave,,48.790455,-122.58106,1,,,,,0
+6086,3402,Hoff Rd at Country Ln,,48.789314,-122.57362,1,,,,,0
+6087,3403,Chuckanut P&R,,48.482388,-122.33682,2,,,,,0
+6095,7296,East Whatcom Resource Center,,48.940533,-122.15028,1,,,,,0
+6097,3405,Nequalicum Ave at Eldridge Ave,,48.763332,-122.50838,1,,,,,0
+6103,3411,Bennett Dr at Alderwood Ave,,48.7785,-122.51997,1,,,,,0
+6104,3412,Bennett Dr at Alderwood Ave,,48.778767,-122.52016,1,,,,,0
+6105,3413,Electric Ave at Alabama St,,48.762619,-122.42066,1,,,,,0
+6106,3414,Electric Ave at Alabama St,,48.762691,-122.4209,1,,,,,0
+6109,7163,Easterbrook Rd at Bowen Rd,,48.988209,-122.26611,1,,,,,0
+6114,5568,Birch Bay Dr at Harborview Rd,,48.93325,-122.74803,1,,,,,0
+6115,5567,Birch Bay Dr at Harborview Rd,,48.933495,-122.74774,1,,,,,0
+6116,3418,Alabama St at Orleans St,,48.76302,-122.45779,1,,,,,0
+6118,3419,Levin Ln at N Squalicum Pkwy,,48.773479,-122.4695,1,,,,,0
+6127,3428,Bellis Fair Pkwy at WinCo Foods,,48.787899,-122.48093,1,,,,,0
+6128,3429,Bellis Fair Pkwy at Value Village,,48.787155,-122.48468,1,,,,,0
+6129,3430,Bellis Fair Pkwy at Value Village,,48.787186,-122.48445,1,,,,,0
+6130,3431,Bellis Fair Pkwy at WinCo Foods,,48.787682,-122.48058,1,,,,,0
+6133,7298,Shamrock Rd at Bellwood Dr,,48.954494,-122.14464,1,,,,,0
+6134,7164,Sumas Ave at Morton St,,48.993538,-122.26257,1,,,,,0
+6135,7165,Sumas Ave at Columbia St,,48.996807,-122.26262,1,,,,,0
+6136,7166,Cherry St at 1st St,,48.998585,-122.26511,1,,,,,0
+6137,7167,Cherry St at Vancouver St,,48.995171,-122.2651,1,,,,,0
+6146,3433,Alabama St at Grant St,,48.763046,-122.46961,1,,,,,0
+6148,3435,4th Ave at Main St,,48.847649,-122.59484,1,,,,,0
+6149,3436,Bakerview Rd at Kramer Ln,,48.789497,-122.45591,1,,,,,0
+6150,3437,Bakerview Rd at Kramer Ln,,48.789333,-122.45536,1,,,,,0
+6151,3438,Bellis Fair Pkwy at Macy's,,48.787693,-122.48925,1,,,,,0
+6152,3439,Bellis Fair Pkwy at Macy's,,48.787838,-122.4892,1,,,,,0
+6153,7270,Santa Fe Trail at Apache Dr N,,48.931141,-122.13945,1,,,,,0
+6154,7271,Santa Fe Trail at Apache Dr S,,48.928768,-122.13602,1,,,,,0
+6155,7272,Santa Fe Trail at 7800 blk,,48.927521,-122.13589,1,,,,,0
+6156,7273,Little Big Horn at Oregon Trail,,48.925201,-122.13606,1,,,,,0
+6161,7201,Oregon Trail at Chisholm Trail,,48.927017,-122.13786,1,,,,,0
+6162,7205,Oregon Trail at Kiowa Cut,,48.92971,-122.14005,1,,,,,0
+6166,3441,Deemer Rd at Telegraph Rd,,48.785336,-122.47832,1,,,,,0
+6167,3442,Deemer Rd at Telegraph Rd,,48.785187,-122.47856,1,,,,,0
+6170,3443,Alabama St at Vining St,,48.763103,-122.43246,1,,,,,0
+6171,3444,Alabama St at Erie Terrace,,48.762882,-122.43324,1,,,,,0
+6174,3445,Bakerview Rd at Airport Way,,48.789413,-122.52801,1,,,,,0
+6175,3446,Puget St at Fraser,,48.750889,-122.4547,1,,,,,0
+6176,3447,Bakerview Rd at Maplewood Ave,,48.789349,-122.52272,1,,,,,0
+6177,1002,32nd St at WWU Admin Office,,48.730995,-122.47449,1,,,,,0
+6178,1004,Horton Rd at Ryzex Way,,48.806999,-122.49497,1,,,,,0
+6179,1005,Cordata Pkwy at Stuart Rd,,48.799625,-122.49615,1,,,,,0
+6180,1009,Ellis St at Potter St,,48.747211,-122.47162,1,,,,,0
+6181,1007,Ellis St at Gladstone St,,48.749352,-122.47161,1,,,,,0
+6182,1006,Ellis St at Gladstone St,,48.749378,-122.47173,1,,,,,0
+6183,1008,Ellis St at High St,,48.747639,-122.47176,1,,,,,0
+6184,1011,Puget St at Gladstone St,,48.748856,-122.45541,1,,,,,0
+6185,1012,Puget St at Civic Field,,48.746845,-122.45564,1,,,,,0
+6186,1013,James St at Orchard Dr,,48.778465,-122.46407,1,,,,,0
+6187,1014,James St at McLeod Rd,,48.782543,-122.46404,1,,,,,0
+6188,1015,Telegraph Rd at James St,,48.785988,-122.46664,1,,,,,0
+6189,1016,Telegraph at Primrose Ln,,48.785301,-122.47559,1,,,,,0
+6191,1018,Telegraph Rd at Primrose Ln,,48.785099,-122.47557,1,,,,,0
+6192,1019,Telegraph Rd at James St,,48.785805,-122.46698,1,,,,,0
+6193,1020,James St at McLeod Rd,,48.782806,-122.46428,1,,,,,0
+6194,1021,James St at Orchard Dr,,48.778603,-122.46434,1,,,,,0
+6195,1022,Orleans at Sunset Square,,48.774097,-122.45764,1,,,,,0
+6196,1023,Lahti Dr at Spring Coulee Rd,,48.775562,-122.4146,1,,,,,0
+6197,5569,Birch Bay Dr at Club House Dr,,48.928677,-122.74525,1,,,,,0
+6198,5570,Anderson Rd at Sunset St,,48.943771,-122.76377,1,,,,,0
+6199,5571,Anderson Rd at Beach Way Dr,,48.943172,-122.75574,1,,,,,0
+6200,5572,Anderson Rd at Beach Way Dr,,48.943378,-122.75581,1,,,,,0
+6201,5573,Anderson Rd at Sunset St,,48.943958,-122.76381,1,,,,,0
+6202,5574,Birch Bay Dr at Club House Dr,,48.928947,-122.74557,1,,,,,0
+6209,7274,Peacefull Valley Dr at Flair Valley Dr,,48.938366,-122.14583,1,,,,,0
+6211,3448,Fraser St at Moore St,,48.751759,-122.46051,1,,,,,0
