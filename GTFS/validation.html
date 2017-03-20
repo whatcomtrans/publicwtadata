@@ -16,7 +16,6 @@ h3.issueHeader {padding-left: 0.5em}
 h4.issueHeader {padding-left: 1em}
 .pass {background-color: lightgreen}
 .fail {background-color: yellow}
-.notice {background-color: yellow}
 .pass, .fail {font-size: 16pt}
 .header {background-color: white; font-family: Georgia, serif; padding: 0px}
 th.header {text-align: right; font-weight: normal; color: gray}
@@ -30,61 +29,49 @@ FeedValidator extension used: extensions.googletransit
 <br><br>
 <table>
 <tr><th class="header">Agencies:</th><td class="header"><a href="http://www.ridewta.com/">Whatcom Transportation Authority</a></td></tr>
-<tr><th class="header">Routes:</th><td class="header">64</td></tr>
-<tr><th class="header">Stops:</th><td class="header">947</td></tr>
-<tr><th class="header">Trips:</th><td class="header">3609</td></tr>
-<tr><th class="header">Shapes:</th><td class="header">173</td></tr>
-<tr><th class="header">Effective:</th><td class="header">February 05, 2017 to June 10, 2017</td></tr>
+<tr><th class="header">Routes:</th><td class="header">28</td></tr>
+<tr><th class="header">Stops:</th><td class="header">914</td></tr>
+<tr><th class="header">Trips:</th><td class="header">1891</td></tr>
+<tr><th class="header">Shapes:</th><td class="header">82</td></tr>
+<tr><th class="header">Effective:</th><td class="header">March 19, 2017 to June 10, 2017</td></tr>
 </table>
 <br>
-During the upcoming service dates Wed Mar 01 to Sat Apr 29:
+During the upcoming service dates Mon Mar 20 to Thu May 18:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">787</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">941, on 13 service dates (Wed Mar 01, Thu Mar 02, Fri Mar 03, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">267, on 2 service dates (Sun Mar 05, Sun Mar 12)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">795</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">911, on 38 service dates (Tue Mar 28, Wed Mar 29, Thu Mar 30, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">352, on 8 service dates (Sun Mar 26, Sun Apr 02, Sun Apr 09, ...)</td></tr>
 </table>
 <br>
-<span class="fail">Found these problems:</span>
+<span class="fail">
+The server couldn't fulfill the request. Error code: 404.</span><br><br><span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">94 warnings</span></td></tr>
+<tr><td><span class="fail">4 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>23</td><td><a href="#WarningInvalidValue">Invalid Values</a></td></tr>
-<tr><td>2</td><td><a href="#WarningStopsTooClose">Stops Too Closes</a></td></tr>
-<tr><td>60</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
-<tr><td>9</td><td><a href="#WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Times</a></td></tr>
+<table><tr><td>1</td><td><a href="#WarningStopsTooClose">Stops Too Close</a></td></tr>
+<tr><td>2</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
+<tr><td>1</td><td><a href="#WarningUnrecognizedColumn">Unrecognized Column</a></td></tr>
 </table>
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningInvalidValue">Invalid Value</a></h4><ul>
-<li><div class="problem">Invalid value  in field <code>route_long_name</code><br>The same combination of route_short_name and route_long_name shouldn't be used for more than one route, as it is for the for the two routes with IDs "1836" and "1877".</div><br></li>
-<li><div class="problem">Invalid value  in field <code>route_long_name</code><br>The same combination of route_short_name and route_long_name shouldn't be used for more than one route, as it is for the for the two routes with IDs "1837" and "1878".</div><br></li>
-<li><div class="problem">Invalid value  in field <code>route_long_name</code><br>The same combination of route_short_name and route_long_name shouldn't be used for more than one route, as it is for the for the two routes with IDs "1834" and "1875".</div><br></li>
-<li><div class="problem">Invalid value  in field <code>route_long_name</code><br>The same combination of route_short_name and route_long_name shouldn't be used for more than one route, as it is for the for the two routes with IDs "1835" and "1876".</div><br></li>
-<li><div class="problem">Invalid value  in field <code>route_long_name</code><br>The same combination of route_short_name and route_long_name shouldn't be used for more than one route, as it is for the for the two routes with IDs "1850" and "1815".</div><br></li>
-<li>and 18 more of this type.</ul>
-<h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
-<li><div class="problem">The stops "Alabama St at Neveda St" (ID 5590_merged_88944) and "Alabama St at Nevada St" (ID 5590_merged_88946) are 0.00m apart and probably represent the same location.</div><br></li>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
 <li><div class="problem">The stops "Lincoln Creek P&R" (ID 307) and "Lincoln Creek P&R" (ID 6032) are 1.15m apart and probably represent the same location.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
-<li><div class="problem">High speed travel detected in trip 87998: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 87999: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 88000: Guide Meridian at Birch Bay-Lynden Rd to Guide Meridian at Wiser Lake Rd. 3194 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 87998: Guide Meridian at Pole Rd to Guide Meridian at Ten Mile Rd. 2429 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 87999: Guide Meridian at Pole Rd to Guide Meridian at Ten Mile Rd. 2429 meters in 0 seconds.</div><br></li>
-<li>and 55 more of this type.</ul>
-<h4 class="issueHeader"><a name="WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Time</a></h4><ul>
-<li><div class="problem">Trip 87998 has 6 consecutive stop times all with the same arrival/departure time: 12:34:00.</div><br></li>
-<li><div class="problem">Trip 87998 has 8 consecutive stop times all with the same arrival/departure time: 12:39:00.</div><br></li>
-<li><div class="problem">Trip 87998 has 9 consecutive stop times all with the same arrival/departure time: 12:53:00.</div><br></li>
-<li><div class="problem">Trip 87999 has 6 consecutive stop times all with the same arrival/departure time: 11:04:00.</div><br></li>
-<li><div class="problem">Trip 87999 has 8 consecutive stop times all with the same arrival/departure time: 11:09:00.</div><br></li>
-<li>and 4 more of this type.</ul>
+<li><div class="problem">High speed travel detected in trip 86439: Lakeway Dr at Birch St to Electric Ave at Birch St. 123 meters in 2 seconds. (222 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 86409: Lakeway Dr at Birch St to Electric Ave at Birch St. 123 meters in 2 seconds. (222 km/h).</div><br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningUnrecognizedColumn">Unrecognized Column</a></h4><ul>
+<li><div class="problem">Unrecognized column <code>trip_short_name</code> in file <code>trips.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>trips.txt</code><br>
+<table class="dump"><tr><th>route_id</th><th>service_id</th><th>trip_id</th><th>trip_headsign</th><th class="problem">trip_short_name</th><th>direction_id</th><th>block_id</th><th>shape_id</th></tr>
+<tr><td></td><td></td><td></td><td></td><td class="problem"></td><td></td><td></td><td></td></tr></table>
+<br></li>
+</ul>
 
 <div class="footer">
-Generated by <a href="https://github.com/google/transitfeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.15 on March 01, 2017 at 04:03 PM Pacific Standard Time.
+Generated by <a href="http://code.google.com/p/googletransitdatafeed/wiki/FeedValidator">
+FeedValidator</a> version 1.2.12 on March 20, 2017 at 02:25 PM Pacific Daylight Time.
 </div>
 </body>
 </html>
