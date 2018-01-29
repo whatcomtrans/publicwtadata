@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Whatcom Transportation Authority,https://github.com/whatcomtrans/publicwtadata/raw/master/GTFS/wta_gtfs_latest.zip,en,,,
+Whatcom Transportation Authority,http://www.ridewta.com/,en,20180204,20180616,2018_02_Feb_20180129

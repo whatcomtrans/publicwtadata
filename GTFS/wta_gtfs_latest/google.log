@@ -1,0 +1,1011 @@
+Interface Name: GoogleExport
+Service Name: GoogleExport
+
+Export To: C:\WTA\TrapezeExport\Export\
+Log File: C:\WTA\TrapezeExport\Export\google.log
+
+Format: Delimiter
+Delimiter: ,
+Qualifier: "
+
+Selected Files: 
+	agency.txt
+	stops.txt
+	routes.txt
+	trips.txt
+	stop times.txt
+	calendar.txt
+	calendar dates.txt
+	fare_attributes.txt
+	fare_rules.txt
+	shapes.txt
+	transfers.txt
+	feed_info.txt
+
+SignUp Period:
+	2018_02_Feb
+
+ServiceGroup(s):
+	1-wkdy 
+	2-Sat 
+	3-Sun Sunday
+	Hol Holiday
+
+Line(s):
+	1 - Fairhaven&Downtown
+	107 - WWU/Samish
+	108 - Samish/WWU
+	108S - WWU
+	11 - WWU&32nd St
+	14 - Fairhaven&Downtown
+	14S - Fairhaven
+	15 - Cordata/WCC&Downtown
+	190 - Lincoln St&Downtown
+	190S - Lincoln St&WWU
+	232 - Cordata/WCC&Downtown
+	24 - Cordata
+	26 - Lynden&Cordata/WCC
+	27 - Ferndale&Cordata/WCC
+	3 - Airport/Cordata&Airport/Downtown
+	331 - Cordata/WCC&Downtown
+	4 - Hospital/Cordata&Hospital/Downtown
+	48 - Cordata/WCC&Bakerview Spur
+	49 - Downtown&Bakerview Spur
+	5 - Fairhaven&Downtown
+	50 - Gooseberry Pt&Downtown
+	512 - Sudden Valley&Downtown
+	525 - Electric&Downtown
+	533 - Yew St&Downtown
+	540 - Sunset&Downtown
+	65 - Ferndale&Nooksack
+	71X - Everson/Nooksack/Sumas&Cordata/WCC
+	72X - Kendall&Bellingham
+	75 - Blaine/Birch Bay&Bellingham
+	80S - WWU&Lincoln Creek
+	80X - Mt. Vernon&Bellingham
+	92 - WWU&Lincoln Creek
+
+Options:
+	Revenue trip only: No
+	Use GPS Coordinates: No
+	Export Trip Times Only: No
+	StopId Field: StopId
+	RouteId Field: LineId
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Date        time   Message                                                                                        
+----------  -----  -----------------------------------------------------------------------------------------------
+01-29-2018  11:45  Start export.                                                                                  
+01-29-2018  11:45  Loaded 0 supplementary Records.                                                                
+01-29-2018  11:45  Loaded signup.                                                                                 
+01-29-2018  11:45  Loaded 105 Headsigns.                                                                          
+01-29-2018  11:45  Loaded 1 Calendar_dates.                                                                       
+01-29-2018  11:45  Loaded 2142 stop pattern distances.                                                            
+01-29-2018  11:45  Loaded 4 ServiceGroups.                                                                        
+01-29-2018  11:45  Loaded 95 rows of ServiceGroup/ExcCombo Info.                                                  
+01-29-2018  11:45  Loaded 0 AccessibilityTypes.                                                                   
+01-29-2018  11:45  Loaded 6 BusTypes.                                                                             
+01-29-2018  11:45  Loaded 32 lines.                                                                               
+01-29-2018  11:45  Loaded 2009 trips.                                                                             
+01-29-2018  11:45  Loaded 920 stops.                                                                              
+01-29-2018  11:45  Session 1 was created.                                                                         
+01-29-2018  11:45  Exported agency file.                                                                          
+01-29-2018  11:45  Exported 920 stops records.                                                                    
+01-29-2018  11:45  Exported 32 route records.                                                                     
+01-29-2018  11:45  Exported 2009 trip records.                                                                    
+01-29-2018  11:45  Loaded 0 supplementary Records.                                                                
+01-29-2018  11:45  Loaded signup.                                                                                 
+01-29-2018  11:45  Loaded 105 Headsigns.                                                                          
+01-29-2018  11:45  Loaded 1 Calendar_dates.                                                                       
+01-29-2018  11:45  Loaded 2142 stop pattern distances.                                                            
+01-29-2018  11:45  Loaded 4 ServiceGroups.                                                                        
+01-29-2018  11:45  Loaded 95 rows of ServiceGroup/ExcCombo Info.                                                  
+01-29-2018  11:45  Loaded 0 AccessibilityTypes.                                                                   
+01-29-2018  11:45  Loaded 6 BusTypes.                                                                             
+01-29-2018  11:45  Loaded 32 lines.                                                                               
+01-29-2018  11:45  Loaded 2009 trips.                                                                             
+01-29-2018  11:45  Loaded 920 stops.                                                                              
+01-29-2018  11:45  Created 920 Stop Records.                                                                      
+01-29-2018  11:45  Created 32 Route Records.                                                                      
+01-29-2018  11:45  Created 2009 trip Records.                                                                     
+01-29-2018  11:45  Exported 600 stop time records from trip 0 to 29.                                              
+01-29-2018  11:45  Got 615 stop times from trip 30 to 59.                                                         
+01-29-2018  11:45  Got 630 stop times from trip 60 to 89.                                                         
+01-29-2018  11:45    Merged Trip [97345] stop [228] departure time [17:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97344] stop [228] departure time [16:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97343] stop [228] departure time [15:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97342] stop [228] departure time [14:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97341] stop [228] departure time [13:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97340] stop [228] departure time [12:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97339] stop [228] departure time [11:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97338] stop [228] departure time [10:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97337] stop [228] departure time [ 9:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97336] stop [228] departure time [ 8:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97335] stop [228] departure time [ 7:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45  Got 610 stop times from trip 90 to 119.                                                        
+01-29-2018  11:45  Got 507 stop times from trip 120 to 149.                                                       
+01-29-2018  11:45  Got 596 stop times from trip 150 to 179.                                                       
+01-29-2018  11:45  Got 534 stop times from trip 180 to 209.                                                       
+01-29-2018  11:45  Got 537 stop times from trip 210 to 239.                                                       
+01-29-2018  11:45  Got 532 stop times from trip 240 to 269.                                                       
+01-29-2018  11:45  Got 620 stop times from trip 270 to 299.                                                       
+01-29-2018  11:45    Merged Trip [97743] stop [228] departure time [ 7:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97742] stop [228] departure time [ 8:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97741] stop [228] departure time [ 9:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97740] stop [228] departure time [10:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97739] stop [228] departure time [11:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97738] stop [228] departure time [12:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97737] stop [228] departure time [13:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97731] stop [228] departure time [ 7:43:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97730] stop [228] departure time [ 8:43:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97729] stop [228] departure time [ 9:43:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97728] stop [228] departure time [10:43:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97727] stop [228] departure time [11:43:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97726] stop [228] departure time [12:43:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97725] stop [228] departure time [13:43:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97712] stop [228] departure time [ 7:58:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97711] stop [228] departure time [ 8:58:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97710] stop [228] departure time [ 9:58:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97709] stop [228] departure time [10:58:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97708] stop [228] departure time [11:58:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97707] stop [228] departure time [12:58:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97706] stop [228] departure time [13:58:00] from sequence [15] to sequence [14].
+01-29-2018  11:45  Got 637 stop times from trip 300 to 329.                                                       
+01-29-2018  11:45    Merged Trip [97736] stop [228] departure time [14:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97735] stop [228] departure time [15:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97734] stop [228] departure time [16:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97733] stop [228] departure time [17:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97732] stop [228] departure time [18:28:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97724] stop [228] departure time [14:43:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97723] stop [228] departure time [15:43:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97722] stop [228] departure time [16:43:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97721] stop [228] departure time [17:43:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97705] stop [228] departure time [14:58:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97704] stop [228] departure time [15:58:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97703] stop [228] departure time [16:58:00] from sequence [15] to sequence [14].
+01-29-2018  11:45    Merged Trip [97702] stop [228] departure time [17:58:00] from sequence [15] to sequence [14].
+01-29-2018  11:45  Got 527 stop times from trip 330 to 359.                                                       
+01-29-2018  11:45  Got 378 stop times from trip 360 to 389.                                                       
+01-29-2018  11:45  Got 323 stop times from trip 390 to 419.                                                       
+01-29-2018  11:45  Got 660 stop times from trip 420 to 449.                                                       
+01-29-2018  11:45  Got 660 stop times from trip 450 to 479.                                                       
+01-29-2018  11:45  Got 660 stop times from trip 480 to 509.                                                       
+01-29-2018  11:45  Got 546 stop times from trip 510 to 539.                                                       
+01-29-2018  11:45  Got 1012 stop times from trip 540 to 569.                                                      
+01-29-2018  11:45    Merged Trip [98267] stop [253] departure time [19:15:00] from sequence [14] to sequence [13].
+01-29-2018  11:45  Got 1121 stop times from trip 570 to 599.                                                      
+01-29-2018  11:45  Got 1008 stop times from trip 600 to 629.                                                      
+01-29-2018  11:45  Got 870 stop times from trip 630 to 659.                                                       
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45  Got 810 stop times from trip 660 to 689.                                                       
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45  Got 690 stop times from trip 690 to 719.                                                       
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45  Got 720 stop times from trip 720 to 749.                                                       
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45  Got 576 stop times from trip 750 to 779.                                                       
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45  Got 1161 stop times from trip 780 to 809.                                                      
+01-29-2018  11:45  Got 1014 stop times from trip 810 to 839.                                                      
+01-29-2018  11:45  Got 814 stop times from trip 840 to 869.                                                       
+01-29-2018  11:45  Got 1119 stop times from trip 870 to 899.                                                      
+01-29-2018  11:45    Merged Trip [98972] stop [304] departure time [ 9:54:00] from sequence [23] to sequence [22].
+01-29-2018  11:45    Merged Trip [98970] stop [304] departure time [13:45:00] from sequence [11] to sequence [10].
+01-29-2018  11:45  Got 1044 stop times from trip 900 to 929.                                                      
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45  Got 836 stop times from trip 930 to 959.                                                       
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6200 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6201 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6200 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6201 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6200 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6201 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6200 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6201 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6200 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6201 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6200 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6201 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45  Got 662 stop times from trip 960 to 989.                                                       
+01-29-2018  11:45  Got 263 stop times from trip 990 to 1019.                                                      
+01-29-2018  11:45  Got 556 stop times from trip 1020 to 1049.                                                     
+01-29-2018  11:45  Got 617 stop times from trip 1050 to 1079.                                                     
+01-29-2018  11:45  Got 638 stop times from trip 1080 to 1109.                                                     
+01-29-2018  11:45    Merged Trip [97354] stop [228] departure time [ 9:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97353] stop [228] departure time [10:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97352] stop [228] departure time [11:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97351] stop [228] departure time [12:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97350] stop [228] departure time [13:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97349] stop [228] departure time [14:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97348] stop [228] departure time [15:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97347] stop [228] departure time [16:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Merged Trip [97346] stop [228] departure time [17:13:00] from sequence [18] to sequence [17].
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45  Got 584 stop times from trip 1110 to 1139.                                                     
+01-29-2018  11:45  Got 660 stop times from trip 1140 to 1169.                                                     
+01-29-2018  11:45  Got 544 stop times from trip 1170 to 1199.                                                     
+01-29-2018  11:45  Got 562 stop times from trip 1200 to 1229.                                                     
+01-29-2018  11:45  Got 641 stop times from trip 1230 to 1259.                                                     
+01-29-2018  11:45  Got 635 stop times from trip 1260 to 1289.                                                     
+01-29-2018  11:45  Got 660 stop times from trip 1290 to 1319.                                                     
+01-29-2018  11:45  Got 558 stop times from trip 1320 to 1349.                                                     
+01-29-2018  11:45  Got 1045 stop times from trip 1350 to 1379.                                                    
+01-29-2018  11:45  Got 1059 stop times from trip 1380 to 1409.                                                    
+01-29-2018  11:45  Got 891 stop times from trip 1410 to 1439.                                                     
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45  Got 720 stop times from trip 1440 to 1469.                                                     
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:45  Got 644 stop times from trip 1470 to 1499.                                                     
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:45  Got 1033 stop times from trip 1500 to 1529.                                                    
+01-29-2018  11:45  Got 1051 stop times from trip 1530 to 1559.                                                    
+01-29-2018  11:45  Got 784 stop times from trip 1560 to 1589.                                                     
+01-29-2018  11:46  Got 1160 stop times from trip 1590 to 1619.                                                    
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6200 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6201 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6200 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6201 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46  Got 942 stop times from trip 1620 to 1649.                                                     
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6200 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6201 was missing.                                  
+01-29-2018  11:46  Got 557 stop times from trip 1650 to 1679.                                                     
+01-29-2018  11:46  Got 630 stop times from trip 1680 to 1709.                                                     
+01-29-2018  11:46  Got 679 stop times from trip 1710 to 1739.                                                     
+01-29-2018  11:46  Got 576 stop times from trip 1740 to 1769.                                                     
+01-29-2018  11:46  Got 644 stop times from trip 1770 to 1799.                                                     
+01-29-2018  11:46  Got 656 stop times from trip 1800 to 1829.                                                     
+01-29-2018  11:46  Got 618 stop times from trip 1830 to 1859.                                                     
+01-29-2018  11:46  Got 1104 stop times from trip 1860 to 1889.                                                    
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46  Got 884 stop times from trip 1890 to 1919.                                                     
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5599 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6195 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6194 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6193 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6192 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6191 was missing.                                  
+01-29-2018  11:46  Got 754 stop times from trip 1920 to 1949.                                                     
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46  Got 1124 stop times from trip 1950 to 1979.                                                    
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5108 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=6168 was missing.                                  
+01-29-2018  11:46    Removed stop_times.txt record that StopId=5964 was missing.                                  
+01-29-2018  11:46  Got 913 stop times from trip 1980 to 2008.                                                     
+01-29-2018  11:46  Exported 48415 stop time records.                                                              
+01-29-2018  11:46  Exported 5 calendar records.                                                                   
+01-29-2018  11:46  Exported 89 calendar date records.                                                             
+01-29-2018  11:46  Exported 2 fare attribute records.                                                             
+01-29-2018  11:46  Exported 34 fare rule records.                                                                 
+01-29-2018  11:46  Created 5 trip Calendar Records.                                                               
+01-29-2018  11:46  Created 89 trip Calendar_date Records.                                                         
+01-29-2018  11:46  Loaded 4 fare attributes.                                                                      
+01-29-2018  11:46  Loaded 2 fare attributes.                                                                      
+01-29-2018  11:46  Created 2 fare attribute Records.                                                              
+01-29-2018  11:46  Loaded 34 fare rules.                                                                          
+01-29-2018  11:46  Created 34 fare rule Records.                                                                  
+01-29-2018  11:46    *Warning* Pattern 5395 lost shape between sequence 156 and 157.                              
+01-29-2018  11:46  Exported 3054 shapes from Pat 0 to 24.                                                         
+01-29-2018  11:46    *Warning* Pattern 5422 lost shape between sequence 32 and 33.                                
+01-29-2018  11:46  Got 3046 shapes - pattern 25 to 43.                                                            
+01-29-2018  11:46  Got 3161 shapes - pattern 44 to 60.                                                            
+01-29-2018  11:46  Got 3131 shapes - pattern 61 to 76.                                                            
+01-29-2018  11:46  Got 3232 shapes - pattern 77 to 85.                                                            
+01-29-2018  11:46  Got 3117 shapes - pattern 86 to 90.                                                            
+01-29-2018  11:46  Got 3092 shapes - pattern 91 to 101.                                                           
+01-29-2018  11:46  Got 877 shapes - pattern 102 to 104.                                                           
+01-29-2018  11:46  Exported 19656 shape records.                                                                  
+01-29-2018  11:46  Exported 50 transfer records.                                                                  
+01-29-2018  11:46  Exported feed_info file.                                                                       
+01-29-2018  11:46  Closed seeeion 1.                                                                              
+
