@@ -919,3 +919,5 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5352,3046,Birchwood Ave at Orchard Pl,,48.777081,-122.47932,1,,,,,0
 5353,3045,Birchwood Ave at Meridian St,,48.777084,-122.4843,1,,,,,0
 5354,2266,Northwest Ave at Lynn St,,48.771198,-122.49345,1,,,,,0
+6193,1020,James St at McLeod Rd,,48.782805,-122.464279,1,,,,,0
+6194,1021,James St at Orchard Dr,,48.778603,-122.464338,1,,,,,0
