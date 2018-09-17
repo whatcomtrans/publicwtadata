@@ -24,74 +24,66 @@ th.header {text-align: right; font-weight: normal; color: gray}
 </head>
 <body>
 GTFS validation results for feed:<br>
-<code><span class="path">\\whatcomtrans\files\apps\Trapeze\Trap16PROD\TrapezeExport\publicwtadata\GTFS\</span><b>wta_gtfs_latest.zip</b></code><br>
+<code><span class="path">publicwtadata/GTFS/</span><b>wta_gtfs_latest.zip</b></code><br>
 FeedValidator extension used: extensions.googletransit
 <br><br>
 <table>
 <tr><th class="header">Agencies:</th><td class="header"><a href="http://www.ridewta.com/">Whatcom Transportation Authority</a></td></tr>
-<tr><th class="header">Routes:</th><td class="header">64</td></tr>
-<tr><th class="header">Stops:</th><td class="header">944</td></tr>
-<tr><th class="header">Trips:</th><td class="header">4018</td></tr>
-<tr><th class="header">Shapes:</th><td class="header">202</td></tr>
-<tr><th class="header">Effective:</th><td class="header">February 04, 2018 to September 22, 2018</td></tr>
+<tr><th class="header">Routes:</th><td class="header">32</td></tr>
+<tr><th class="header">Stops:</th><td class="header">922</td></tr>
+<tr><th class="header">Trips:</th><td class="header">2086</td></tr>
+<tr><th class="header">Shapes:</th><td class="header">99</td></tr>
+<tr><th class="header">Effective:</th><td class="header">September 23, 2018 to February 02, 2019</td></tr>
 </table>
 <br>
-During the upcoming service dates Fri Jun 01 to Mon Jul 30:
+During the upcoming service dates Sun Sep 23 to Thu Nov 15:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">781</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">1024, on 11 service dates (Fri Jun 01, Mon Jun 04, Tue Jun 05, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">0, on 1 service date (Wed Jul 04)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">880</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">1032, on 36 service dates (Wed Sep 26, Thu Sep 27, Fri Sep 28, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">354, on 8 service dates (Sun Sep 23, Sun Sep 30, Sun Oct 07, ...)</td></tr>
 </table>
 <br>
 <span class="fail">
 The server couldn't fulfill the request. Error code: 404.</span><br><br><span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">99 warnings</span></td></tr>
+<tr><td><span class="fail">35 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>32</td><td><a href="#WarningInvalidValue">Invalid Values</a></td></tr>
-<tr><td>3</td><td><a href="#WarningOtherProblem">Other Problems</a></td></tr>
+<table><tr><td>1</td><td><a href="#WarningFutureService">Future Service</a></td></tr>
+<tr><td>1</td><td><a href="#WarningOtherProblem">Other Problem</a></td></tr>
 <tr><td>1</td><td><a href="#WarningStopsTooClose">Stops Too Close</a></td></tr>
-<tr><td>62</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
+<tr><td>31</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
 <tr><td>1</td><td><a href="#WarningUnrecognizedColumn">Unrecognized Column</a></td></tr>
 </table>
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningInvalidValue">Invalid Value</a></h4><ul>
-<li><div class="problem">Invalid value  in field <code>route_long_name</code><br>The same combination of route_short_name and route_long_name shouldn't be used for more than one route, as it is for the for the two routes with IDs "2053" and "2091".</div><br></li>
-<li><div class="problem">Invalid value  in field <code>route_long_name</code><br>The same combination of route_short_name and route_long_name shouldn't be used for more than one route, as it is for the for the two routes with IDs "2052" and "2090".</div><br></li>
-<li><div class="problem">Invalid value  in field <code>route_long_name</code><br>The same combination of route_short_name and route_long_name shouldn't be used for more than one route, as it is for the for the two routes with IDs "2054" and "2092".</div><br></li>
-<li><div class="problem">Invalid value  in field <code>route_long_name</code><br>The same combination of route_short_name and route_long_name shouldn't be used for more than one route, as it is for the for the two routes with IDs "2073" and "2035".</div><br></li>
-<li><div class="problem">Invalid value  in field <code>route_long_name</code><br>The same combination of route_short_name and route_long_name shouldn't be used for more than one route, as it is for the for the two routes with IDs "2072" and "2034".</div><br></li>
-<li>and 27 more of this type.</ul>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningFutureService">Future Service</a></h4><ul>
+<li><div class="problem">The earliest service date in calendar.txt in this feed is in the future, on September 23, 2018. Published feeds must always include the current date.</div><br></li>
+</ul>
 <h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
-<li><div class="problem">Service period with service_id "5_merged_101311" doesn't have service on any days of the week.</div>in line 2 of <code>calendar.txt</code><br>
-<br></li>
-<li><div class="problem">Service period with service_id "5_merged_101306" doesn't have service on any days of the week.</div>in line 3 of <code>calendar.txt</code><br>
-<br></li>
-<li><div class="problem">Service period with service_id "2301_merged_101308" doesn't have service on any days of the week.</div>in line 9 of <code>calendar.txt</code><br>
+<li><div class="problem">Service period with service_id "5" doesn't have service on any days of the week.</div>in line 5 of <code>calendar.txt</code><br>
 <br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
 <li><div class="problem">The stops "Lincoln Creek P&R" (ID 307) and "Lincoln Creek P&R" (ID 6032) are 1.15m apart and probably represent the same location.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
-<li><div class="problem">High speed travel detected in trip 99919: Lincoln St at Potter St to Lincoln St at Lakeway Dr. 361 meters in 11 seconds. (118 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 99851: Lincoln St at Potter St to Lincoln St at Lakeway Dr. 361 meters in 11 seconds. (118 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 99852: Lincoln St at Potter St to Lincoln St at Lakeway Dr. 361 meters in 11 seconds. (118 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 99853: Lincoln St at Potter St to Lincoln St at Lakeway Dr. 361 meters in 11 seconds. (118 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 99854: Lincoln St at Potter St to Lincoln St at Lakeway Dr. 361 meters in 11 seconds. (118 km/h).</div><br></li>
-<li>and 57 more of this type.</ul>
+<li><div class="problem">High speed travel detected in trip 102087: Lincoln St at Potter St to Lincoln St at Lakeway Dr. 361 meters in 11 seconds. (118 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 102086: Lincoln St at Potter St to Lincoln St at Lakeway Dr. 361 meters in 11 seconds. (118 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 102085: Lincoln St at Potter St to Lincoln St at Lakeway Dr. 361 meters in 11 seconds. (118 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 102084: Lincoln St at Potter St to Lincoln St at Lakeway Dr. 361 meters in 11 seconds. (118 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 102083: Lincoln St at Potter St to Lincoln St at Lakeway Dr. 361 meters in 11 seconds. (118 km/h).</div><br></li>
+<li>and 26 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningUnrecognizedColumn">Unrecognized Column</a></h4><ul>
 <li><div class="problem">Unrecognized column <code>trip_short_name</code> in file <code>trips.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>trips.txt</code><br>
-<table class="dump"><tr><th>block_id</th><th>route_id</th><th>direction_id</th><th>trip_headsign</th><th>shape_id</th><th>service_id</th><th>trip_id</th><th class="problem">trip_short_name</th></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="problem"></td></tr></table>
+<table class="dump"><tr><th>route_id</th><th>service_id</th><th>trip_id</th><th>trip_headsign</th><th class="problem">trip_short_name</th><th>direction_id</th><th>block_id</th><th>shape_id</th></tr>
+<tr><td></td><td></td><td></td><td></td><td class="problem"></td><td></td><td></td><td></td></tr></table>
 <br></li>
 </ul>
 
 <div class="footer">
 Generated by <a href="http://code.google.com/p/googletransitdatafeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.12 on June 01, 2018 at 10:09 AM Pacific Daylight Time.
+FeedValidator</a> version 1.2.12 on September 17, 2018 at 09:40 AM Pacific Daylight Time.
 </div>
 </body>
 </html>
