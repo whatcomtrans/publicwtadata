@@ -11,6 +11,7 @@
                          font-family:monospace}
   table {border-spacing: 5px 0px; margin-top: 3px}
   h3.issueHeader {padding-left: 1em}
+  .notice {background-color: yellow}
   span.pass {background-color: lightgreen}
   span.fail {background-color: yellow}
   .pass, .fail {font-size: 16pt; padding: 3px}
@@ -22,19 +23,22 @@
 </head>
 <body>
 <h1>Feed merger results</h1>
-<p>Old feed: <code>\\whatcomtrans\files\apps\Trapeze\Trap16PROD\TrapezeExport\Signups\201809.zip</code></p>
-<p>New feed: <code>\\whatcomtrans\files\apps\Trapeze\Trap16PROD\TrapezeExport\Signups\201902.zip</code></p>
-<p>Merged feed created: <code>\\whatcomtrans\files\apps\Trapeze\Trap16PROD\TrapezeExport\publicwtadata\GTFS\wta_gtfs_latest.zip</code></p><table><tr><th class="header"/><th class="header">Merged</th><th class="header">Copied from old feed</th><th class="header">Copied from new feed</th></tr>
+<p>Old feed: <code>W:\apps\Trapeze\trap16prod\TrapezeExport\Signups\201902.zip</code></p>
+<p>New feed: <code>W:\apps\Trapeze\trap16prod\TrapezeExport\Signups\201906.zip</code></p>
+<p>Merged feed created: <code>W:\apps\Trapeze\trap16prod\TrapezeExport\publicwtadata\GTFS\wta_gtfs_latest.zip</code></p><table><tr><th class="header"/><th class="header">Merged</th><th class="header">Copied from old feed</th><th class="header">Copied from new feed</th></tr>
 <tr><th class="header">Agencies</th><td class="header">1</td><td class="header">0</td><td class="header">0</td></tr>
-<tr><th class="header">Stops</th><td class="header">919</td><td class="header">3</td><td class="header">7</td></tr>
-<tr><th class="header">Routes</th><td class="header">0</td><td class="header">32</td><td class="header">32</td></tr>
+<tr><th class="header">Stops</th><td class="header">856</td><td class="header">69</td><td class="header">22</td></tr>
+<tr><th class="header">Routes</th><td class="header">0</td><td class="header">32</td><td class="header">31</td></tr>
 <tr><th class="header">Fares</th><td class="header">2</td><td class="header">0</td><td class="header">0</td></tr>
-<tr><th class="header">Shapes</th><td class="header">0</td><td class="header">99</td><td class="header">99</td></tr></table><p><span class="fail">warnings: 4</span></p><h2 class="issueHeader">Warnings:</h2><h3>stops.txt</h3><ol><li>There is a stop in the old feed with id '5211' and one from the new feed with the same id but they could not be merged:<br>Stops are too far apart: 118.1m (largest_stop_distance is 10.0m).</li></ol>
-<h3>trips.txt</h3><ol><li>The feed merger does not currently support merging in this file. The entries have been duplicated instead.</li></ol>
+<tr><th class="header">Shapes</th><td class="header">0</td><td class="header">99</td><td class="header">73</td></tr></table><p><span class="fail">warnings: 7</span></p><h2 class="issueHeader">Warnings:</h2><h3>fare_rules.txt</h3><ol><li>The feed merger is currently unable to handle fare rules properly.</li></ol>
+<h3>stops.txt</h3><ol><li>There is a stop in the old feed with id '5719' and one from the new feed with the same id but they could not be merged:<br>Attribute 'stop_name' could not be merged: values must be the same (case insensitive) ('Lincoln St at NXNW' vs 'Lincoln St at Viking Circle').</li>
+<li>There is a stop in the old feed with id '5092' and one from the new feed with the same id but they could not be merged:<br>Stops are too far apart: 85.3m (largest_stop_distance is 10.0m).</li>
+<li>There is a stop in the old feed with id '5292' and one from the new feed with the same id but they could not be merged:<br>Stops are too far apart: 58.6m (largest_stop_distance is 10.0m).</li>
+<li>There is a stop in the old feed with id '5561' and one from the new feed with the same id but they could not be merged:<br>Stops are too far apart: 61.8m (largest_stop_distance is 10.0m).</li></ol>
 <h3>calendar.txt/calendar_dates.txt</h3><ol><li>The feed merger does not currently support merging in this file. The entries have been duplicated instead.</li></ol>
-<h3>fare_rules.txt</h3><ol><li>The feed merger is currently unable to handle fare rules properly.</li></ol>
+<h3>trips.txt</h3><ol><li>The feed merger does not currently support merging in this file. The entries have been duplicated instead.</li></ol>
 <div class="footer">
-Generated using transitfeed version 1.2.12 on January 28, 2019 at 10:31 AM Pacific Standard Time.
+Generated using transitfeed version 1.2.15 on June 03, 2019 at 02:26 PM Pacific Daylight Time.
 </div>
 </body>
 </html>
