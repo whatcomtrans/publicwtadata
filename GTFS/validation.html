@@ -36,20 +36,19 @@ FeedValidator extension used: extensions.googletransit
 <tr><th class="header">Effective:</th><td class="header">September 22, 2019 to February 01, 2020</td></tr>
 </table>
 <br>
-During the upcoming service dates Sun Sep 22 to Sun Nov 10:
+During the upcoming service dates Fri Oct 04 to Mon Dec 02:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">827</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">965, on 32 service dates (Wed Sep 25, Thu Sep 26, Fri Sep 27, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">386, on 8 service dates (Sun Sep 22, Sun Sep 29, Sun Oct 06, ...)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">814</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">965, on 38 service dates (Fri Oct 04, Mon Oct 07, Tue Oct 08, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">0, on 1 service date (Thu Nov 28)</td></tr>
 </table>
 <br>
 <span class="fail">
 The server couldn't fulfill the request. Error code: 404.</span><br><br><span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">274 warnings</span></td></tr>
+<tr><td><span class="fail">273 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>1</td><td><a href="#WarningFutureService">Future Service</a></td></tr>
-<tr><td>1</td><td><a href="#WarningOtherProblem">Other Problem</a></td></tr>
+<table><tr><td>1</td><td><a href="#WarningOtherProblem">Other Problem</a></td></tr>
 <tr><td>4</td><td><a href="#WarningStopsTooClose">Stops Too Closes</a></td></tr>
 <tr><td>236</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
 <tr><td>31</td><td><a href="#WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Times</a></td></tr>
@@ -58,10 +57,7 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningFutureService">Future Service</a></h4><ul>
-<li><div class="problem">The earliest service date in calendar.txt in this feed is in the future, on September 22, 2019. Published feeds must always include the current date.</div><br></li>
-</ul>
-<h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
 <li><div class="problem">Service period with service_id "5" doesn't have service on any days of the week.</div>in line 5 of <code>calendar.txt</code><br>
 <br></li>
 </ul>
@@ -79,11 +75,11 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 <li><div class="problem">High speed travel detected in trip 112843: Northshore Rd at Britton Rd to Britton Rd at Alice St. 9146454 meters in 57 seconds. (577671 km/h).</div><br></li>
 <li>and 231 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Time</a></h4><ul>
-<li><div class="problem">Trip 111360 has 6 consecutive stop times all with the same arrival/departure time: 08:58:00.</div><br></li>
-<li><div class="problem">Trip 111359 has 6 consecutive stop times all with the same arrival/departure time: 09:58:00.</div><br></li>
-<li><div class="problem">Trip 111358 has 6 consecutive stop times all with the same arrival/departure time: 10:58:00.</div><br></li>
-<li><div class="problem">Trip 111357 has 6 consecutive stop times all with the same arrival/departure time: 11:58:00.</div><br></li>
-<li><div class="problem">Trip 111356 has 6 consecutive stop times all with the same arrival/departure time: 12:58:00.</div><br></li>
+<li><div class="problem">Trip 111350 has 6 consecutive stop times all with the same arrival/departure time: 07:13:00.</div><br></li>
+<li><div class="problem">Trip 111339 has 6 consecutive stop times all with the same arrival/departure time: 07:43:00.</div><br></li>
+<li><div class="problem">Trip 111349 has 6 consecutive stop times all with the same arrival/departure time: 08:13:00.</div><br></li>
+<li><div class="problem">Trip 111338 has 6 consecutive stop times all with the same arrival/departure time: 08:43:00.</div><br></li>
+<li><div class="problem">Trip 111348 has 6 consecutive stop times all with the same arrival/departure time: 09:13:00.</div><br></li>
 <li>and 26 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningUnrecognizedColumn">Unrecognized Column</a></h4><ul>
 <li><div class="problem">Unrecognized column <code>trip_short_name</code> in file <code>trips.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>trips.txt</code><br>
@@ -94,7 +90,7 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 
 <div class="footer">
 Generated by <a href="http://code.google.com/p/googletransitdatafeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.12 on September 12, 2019 at 03:27 PM Pacific Daylight Time.
+FeedValidator</a> version 1.2.12 on October 04, 2019 at 03:33 PM Pacific Daylight Time.
 </div>
 </body>
 </html>
