@@ -389,7 +389,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5609,3050,Cornwall Ave at Flora St,,48.752956,-122.4753,1,,,,,0
 5610,3338,Northshore Dr at Martin St,,48.766247,-122.41538,1,,,,,0
 5613,2334,Northshore Rd at Britton Rd,,48.769096,-122.41089,1,,,,,0
-5614,2348,Britton Rd at Alice St,,48.769958,48.769958,1,,,,,0
+5614,2348,Britton Rd at Alice St,,48.769958,-122.409887,1,,,,,0
 5615,2483,Lahti Dr at Britton Rd,,48.774853,-122.41062,1,,,,,0
 5616,2282,Lahti Dr a D'Linda St,,48.775417,-122.41262,1,,,,,0
 5617,3347,Lahti Dr at Spring Coulee Rd,,48.775791,-122.41425,1,,,,,0
