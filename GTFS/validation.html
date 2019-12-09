@@ -30,50 +30,53 @@ FeedValidator extension used: extensions.googletransit
 <table>
 <tr><th class="header">Agencies:</th><td class="header"><a href="http://www.ridewta.com/">Whatcom Transportation Authority</a></td></tr>
 <tr><th class="header">Routes:</th><td class="header">31</td></tr>
-<tr><th class="header">Stops:</th><td class="header">880</td></tr>
+<tr><th class="header">Stops:</th><td class="header">888</td></tr>
 <tr><th class="header">Trips:</th><td class="header">2034</td></tr>
 <tr><th class="header">Shapes:</th><td class="header">87</td></tr>
 <tr><th class="header">Effective:</th><td class="header">September 22, 2019 to February 01, 2020</td></tr>
 </table>
 <br>
-During the upcoming service dates Tue Oct 08 to Fri Dec 06:
+During the upcoming service dates Mon Dec 09 to Fri Jan 31:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">829</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">965, on 40 service dates (Tue Oct 08, Wed Oct 09, Thu Oct 10, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">0, on 1 service date (Thu Nov 28)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">790</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">965, on 23 service dates (Mon Dec 09, Tue Dec 10, Wed Dec 11, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">0, on 2 service dates (Wed Dec 25, Wed Jan 01)</td></tr>
 </table>
 <br>
 <span class="fail">
 The server couldn't fulfill the request. Error code: 404.</span><br><br><span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">273 warnings</span></td></tr>
+<tr><td><span class="fail">289 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>1</td><td><a href="#WarningOtherProblem">Other Problem</a></td></tr>
-<tr><td>4</td><td><a href="#WarningStopsTooClose">Stops Too Closes</a></td></tr>
-<tr><td>236</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
+<table><tr><td>1</td><td><a href="#WarningExpirationDate">Expiration Date</a></td></tr>
+<tr><td>1</td><td><a href="#WarningOtherProblem">Other Problem</a></td></tr>
+<tr><td>3</td><td><a href="#WarningStopsTooClose">Stops Too Closes</a></td></tr>
+<tr><td>252</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
 <tr><td>31</td><td><a href="#WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Times</a></td></tr>
 <tr><td>1</td><td><a href="#WarningUnrecognizedColumn">Unrecognized Column</a></td></tr>
 </table>
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningExpirationDate">Expiration Date</a></h4><ul>
+<li><div class="problem">This feed will soon expire, on February 01, 2020 (last service date in calendar.txt)</div><br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
 <li><div class="problem">Service period with service_id "5" doesn't have service on any days of the week.</div>in line 5 of <code>calendar.txt</code><br>
 <br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
-<li><div class="problem">The stops "Levin Ln at Squalicum Pkwy" (ID 5627) and "Levin Ln at N Squalicum Pkwy" (ID 6118) are 0.86m apart and probably represent the same location.</div><br></li>
 <li><div class="problem">The stops "Front St at 9th St" (ID 5539) and "Front St at 9th St" (ID 5881) are 1.07m apart and probably represent the same location.</div><br></li>
 <li><div class="problem">The stops "Front St at 10th St" (ID 5538) and "Front St at 11th St" (ID 5883) are 1.71m apart and probably represent the same location.</div><br></li>
 <li><div class="problem">The stops "Portal Way at 6300 Block" (ID 5211) and "Portal Way at 6300 Block" (ID 5203) are 1.98m apart and probably represent the same location.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
-<li><div class="problem">High speed travel detected in trip 112844: Northshore Rd at Britton Rd to Britton Rd at Alice St. 9146454 meters in 57 seconds. (577671 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 112845: Northshore Rd at Britton Rd to Britton Rd at Alice St. 9146454 meters in 57 seconds. (577671 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 112842: Northshore Rd at Britton Rd to Britton Rd at Alice St. 9146454 meters in 57 seconds. (577671 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 112843: Northshore Rd at Britton Rd to Britton Rd at Alice St. 9146454 meters in 57 seconds. (577671 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 112840: Northshore Rd at Britton Rd to Britton Rd at Alice St. 9146454 meters in 57 seconds. (577671 km/h).</div><br></li>
-<li>and 231 more of this type.</ul>
+<li><div class="problem">High speed travel detected in trip 112572: Westerly Rd at Meridian St to Bakerview Rd at Deemer Rd. 7283534 meters in 131 seconds. (200158 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 112570: Westerly Rd at Meridian St to Bakerview Rd at Deemer Rd. 7283534 meters in 131 seconds. (200158 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 112571: Westerly Rd at Meridian St to Bakerview Rd at Deemer Rd. 7283534 meters in 131 seconds. (200158 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 112563: Westerly Rd at Meridian St to Bakerview Rd at Deemer Rd. 7283534 meters in 131 seconds. (200158 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 112565: Westerly Rd at Meridian St to Bakerview Rd at Deemer Rd. 7283534 meters in 131 seconds. (200158 km/h).</div><br></li>
+<li>and 247 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Time</a></h4><ul>
 <li><div class="problem">Trip 111350 has 6 consecutive stop times all with the same arrival/departure time: 07:13:00.</div><br></li>
 <li><div class="problem">Trip 111339 has 6 consecutive stop times all with the same arrival/departure time: 07:43:00.</div><br></li>
@@ -90,7 +93,7 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 
 <div class="footer">
 Generated by <a href="http://code.google.com/p/googletransitdatafeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.12 on October 08, 2019 at 01:52 PM Pacific Daylight Time.
+FeedValidator</a> version 1.2.12 on December 09, 2019 at 02:31 PM Pacific Standard Time.
 </div>
 </body>
 </html>
