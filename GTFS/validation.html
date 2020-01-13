@@ -31,35 +31,35 @@ FeedValidator extension used: extensions.googletransit
 <tr><th class="header">Agencies:</th><td class="header"><a href="http://www.ridewta.com/">Whatcom Transportation Authority</a></td></tr>
 <tr><th class="header">Routes:</th><td class="header">31</td></tr>
 <tr><th class="header">Stops:</th><td class="header">888</td></tr>
-<tr><th class="header">Trips:</th><td class="header">2034</td></tr>
-<tr><th class="header">Shapes:</th><td class="header">87</td></tr>
-<tr><th class="header">Effective:</th><td class="header">September 22, 2019 to February 01, 2020</td></tr>
+<tr><th class="header">Trips:</th><td class="header">2056</td></tr>
+<tr><th class="header">Shapes:</th><td class="header">88</td></tr>
+<tr><th class="header">Effective:</th><td class="header">February 02, 2020 to June 13, 2020</td></tr>
 </table>
 <br>
-During the upcoming service dates Mon Dec 09 to Fri Jan 31:
+During the upcoming service dates Sun Feb 02 to Thu Mar 12:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">790</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">965, on 23 service dates (Mon Dec 09, Tue Dec 10, Wed Dec 11, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">0, on 2 service dates (Wed Dec 25, Wed Jan 01)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">850</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">977, on 28 service dates (Mon Feb 03, Tue Feb 04, Wed Feb 05, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">386, on 6 service dates (Sun Feb 02, Sun Feb 09, Sun Feb 16, ...)</td></tr>
 </table>
 <br>
 <span class="fail">
 The server couldn't fulfill the request. Error code: 404.</span><br><br><span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">289 warnings</span></td></tr>
+<tr><td><span class="fail">205 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>1</td><td><a href="#WarningExpirationDate">Expiration Date</a></td></tr>
+<table><tr><td>1</td><td><a href="#WarningFutureService">Future Service</a></td></tr>
 <tr><td>1</td><td><a href="#WarningOtherProblem">Other Problem</a></td></tr>
 <tr><td>3</td><td><a href="#WarningStopsTooClose">Stops Too Closes</a></td></tr>
-<tr><td>252</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
+<tr><td>168</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
 <tr><td>31</td><td><a href="#WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Times</a></td></tr>
 <tr><td>1</td><td><a href="#WarningUnrecognizedColumn">Unrecognized Column</a></td></tr>
 </table>
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningExpirationDate">Expiration Date</a></h4><ul>
-<li><div class="problem">This feed will soon expire, on February 01, 2020 (last service date in calendar.txt)</div><br></li>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningFutureService">Future Service</a></h4><ul>
+<li><div class="problem">The earliest service date in calendar.txt in this feed is in the future, on February 02, 2020. Published feeds must always include the current date.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
 <li><div class="problem">Service period with service_id "5" doesn't have service on any days of the week.</div>in line 5 of <code>calendar.txt</code><br>
@@ -71,18 +71,18 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 <li><div class="problem">The stops "Portal Way at 6300 Block" (ID 5211) and "Portal Way at 6300 Block" (ID 5203) are 1.98m apart and probably represent the same location.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
-<li><div class="problem">High speed travel detected in trip 112572: Westerly Rd at Meridian St to Bakerview Rd at Deemer Rd. 7283534 meters in 131 seconds. (200158 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 112570: Westerly Rd at Meridian St to Bakerview Rd at Deemer Rd. 7283534 meters in 131 seconds. (200158 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 112571: Westerly Rd at Meridian St to Bakerview Rd at Deemer Rd. 7283534 meters in 131 seconds. (200158 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 112563: Westerly Rd at Meridian St to Bakerview Rd at Deemer Rd. 7283534 meters in 131 seconds. (200158 km/h).</div><br></li>
-<li><div class="problem">High speed travel detected in trip 112565: Westerly Rd at Meridian St to Bakerview Rd at Deemer Rd. 7283534 meters in 131 seconds. (200158 km/h).</div><br></li>
-<li>and 247 more of this type.</ul>
+<li><div class="problem">High speed travel detected in trip 113416: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 113417: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 113404: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 113407: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 113406: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
+<li>and 163 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Time</a></h4><ul>
-<li><div class="problem">Trip 111360 has 6 consecutive stop times all with the same arrival/departure time: 08:58:00.</div><br></li>
-<li><div class="problem">Trip 111359 has 6 consecutive stop times all with the same arrival/departure time: 09:58:00.</div><br></li>
-<li><div class="problem">Trip 111358 has 6 consecutive stop times all with the same arrival/departure time: 10:58:00.</div><br></li>
-<li><div class="problem">Trip 111357 has 6 consecutive stop times all with the same arrival/departure time: 11:58:00.</div><br></li>
-<li><div class="problem">Trip 111356 has 6 consecutive stop times all with the same arrival/departure time: 12:58:00.</div><br></li>
+<li><div class="problem">Trip 113396 has 6 consecutive stop times all with the same arrival/departure time: 07:13:00.</div><br></li>
+<li><div class="problem">Trip 113407 has 6 consecutive stop times all with the same arrival/departure time: 07:43:00.</div><br></li>
+<li><div class="problem">Trip 113397 has 6 consecutive stop times all with the same arrival/departure time: 08:13:00.</div><br></li>
+<li><div class="problem">Trip 113408 has 6 consecutive stop times all with the same arrival/departure time: 08:43:00.</div><br></li>
+<li><div class="problem">Trip 113398 has 6 consecutive stop times all with the same arrival/departure time: 09:13:00.</div><br></li>
 <li>and 26 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningUnrecognizedColumn">Unrecognized Column</a></h4><ul>
 <li><div class="problem">Unrecognized column <code>trip_short_name</code> in file <code>trips.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>trips.txt</code><br>
@@ -93,7 +93,7 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 
 <div class="footer">
 Generated by <a href="http://code.google.com/p/googletransitdatafeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.12 on December 09, 2019 at 02:41 PM Pacific Standard Time.
+FeedValidator</a> version 1.2.12 on January 13, 2020 at 02:34 PM Pacific Standard Time.
 </div>
 </body>
 </html>
