@@ -30,26 +30,25 @@ FeedValidator extension used: extensions.googletransit
 <table>
 <tr><th class="header">Agencies:</th><td class="header"><a href="http://www.ridewta.com/">Whatcom Transportation Authority</a></td></tr>
 <tr><th class="header">Routes:</th><td class="header">31</td></tr>
-<tr><th class="header">Stops:</th><td class="header">888</td></tr>
+<tr><th class="header">Stops:</th><td class="header">890</td></tr>
 <tr><th class="header">Trips:</th><td class="header">2056</td></tr>
-<tr><th class="header">Shapes:</th><td class="header">88</td></tr>
+<tr><th class="header">Shapes:</th><td class="header">87</td></tr>
 <tr><th class="header">Effective:</th><td class="header">February 02, 2020 to June 13, 2020</td></tr>
 </table>
 <br>
-During the upcoming service dates Sun Feb 02 to Thu Mar 12:
+During the upcoming service dates Thu Mar 05 to Sun May 03:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">850</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">977, on 28 service dates (Mon Feb 03, Tue Feb 04, Wed Feb 05, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">386, on 6 service dates (Sun Feb 02, Sun Feb 09, Sun Feb 16, ...)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">836</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">977, on 36 service dates (Thu Mar 05, Fri Mar 06, Mon Mar 09, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">386, on 9 service dates (Sun Mar 08, Sun Mar 15, Sun Mar 22, ...)</td></tr>
 </table>
 <br>
 <span class="fail">
 The server couldn't fulfill the request. Error code: 404.</span><br><br><span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">205 warnings</span></td></tr>
+<tr><td><span class="fail">204 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>1</td><td><a href="#WarningFutureService">Future Service</a></td></tr>
-<tr><td>1</td><td><a href="#WarningOtherProblem">Other Problem</a></td></tr>
+<table><tr><td>1</td><td><a href="#WarningOtherProblem">Other Problem</a></td></tr>
 <tr><td>3</td><td><a href="#WarningStopsTooClose">Stops Too Closes</a></td></tr>
 <tr><td>168</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
 <tr><td>31</td><td><a href="#WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Times</a></td></tr>
@@ -58,10 +57,7 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningFutureService">Future Service</a></h4><ul>
-<li><div class="problem">The earliest service date in calendar.txt in this feed is in the future, on February 02, 2020. Published feeds must always include the current date.</div><br></li>
-</ul>
-<h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
 <li><div class="problem">Service period with service_id "5" doesn't have service on any days of the week.</div>in line 5 of <code>calendar.txt</code><br>
 <br></li>
 </ul>
@@ -71,11 +67,11 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 <li><div class="problem">The stops "Portal Way at 6300 Block" (ID 5211) and "Portal Way at 6300 Block" (ID 5203) are 1.98m apart and probably represent the same location.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
-<li><div class="problem">High speed travel detected in trip 113416: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
-<li><div class="problem">High speed travel detected in trip 113417: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
 <li><div class="problem">High speed travel detected in trip 113404: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
 <li><div class="problem">High speed travel detected in trip 113407: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
 <li><div class="problem">High speed travel detected in trip 113406: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 113401: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 113400: Ellis St at High St to Ellis St at Holly St. 385 meters in 0 seconds.</div><br></li>
 <li>and 163 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningTooManyConsecutiveStopTimesWithSameTime">Too Many Consecutive Stop Times With Same Time</a></h4><ul>
 <li><div class="problem">Trip 113396 has 6 consecutive stop times all with the same arrival/departure time: 07:13:00.</div><br></li>
@@ -93,7 +89,7 @@ The server couldn't fulfill the request. Error code: 404.</span><br><br><span cl
 
 <div class="footer">
 Generated by <a href="http://code.google.com/p/googletransitdatafeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.12 on January 13, 2020 at 02:34 PM Pacific Standard Time.
+FeedValidator</a> version 1.2.12 on March 05, 2020 at 02:29 PM Pacific Standard Time.
 </div>
 </body>
 </html>
