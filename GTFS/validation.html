@@ -28,63 +28,54 @@ GTFS validation results for feed:<br>
 FeedValidator extension used: extensions.googletransit
 <br><br>
 <table>
-<tr><th class="header">Agencies:</th><td class="header"><a href="http://www.ridewta.com">Whatcom Transportation Authority</a></td></tr>
+<tr><th class="header">Agencies:</th><td class="header"><a href="http://www.ridewta.com/">Whatcom Transportation Authority</a></td></tr>
 <tr><th class="header">Routes:</th><td class="header">31</td></tr>
-<tr><th class="header">Stops:</th><td class="header">893</td></tr>
-<tr><th class="header">Trips:</th><td class="header">3913</td></tr>
-<tr><th class="header">Shapes:</th><td class="header">88</td></tr>
-<tr><th class="header">Effective:</th><td class="header">February 02, 2020 to June 13, 2020</td></tr>
+<tr><th class="header">Stops:</th><td class="header">888</td></tr>
+<tr><th class="header">Trips:</th><td class="header">1465</td></tr>
+<tr><th class="header">Shapes:</th><td class="header">66</td></tr>
+<tr><th class="header">Effective:</th><td class="header">March 29, 2020 to June 13, 2020</td></tr>
 </table>
 <br>
-During the upcoming service dates Mon May 04 to Fri Jun 12:
+During the upcoming service dates Thu May 14 to Fri Jun 12:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">616</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">693, on 30 service dates (Mon May 04, Tue May 05, Wed May 06, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">386, on 10 service dates (Sat May 09, Sun May 10, Sat May 16, ...)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">588</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">693, on 21 service dates (Thu May 14, Fri May 15, Mon May 18, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">0, on 1 service date (Mon May 25)</td></tr>
 </table>
 <br>
 <span class="fail">
 The server couldn't fulfill the request. Error code: 404.</span><br><br><span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">8 warnings</span></td></tr>
+<tr><td><span class="fail">4 warnings</span></td></tr>
 <tr><td>
 <table><tr><td>1</td><td><a href="#WarningExpirationDate">Expiration Date</a></td></tr>
-<tr><td>3</td><td><a href="#WarningStopsTooClose">Stops Too Closes</a></td></tr>
-<tr><td>4</td><td><a href="#WarningUnrecognizedColumn">Unrecognized Columns</a></td></tr>
+<tr><td>1</td><td><a href="#WarningOtherProblem">Other Problem</a></td></tr>
+<tr><td>1</td><td><a href="#WarningStopsTooClose">Stops Too Close</a></td></tr>
+<tr><td>1</td><td><a href="#WarningUnrecognizedColumn">Unrecognized Column</a></td></tr>
 </table>
 </td>
 </table>
 <br><br>
 <h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningExpirationDate">Expiration Date</a></h4><ul>
-<li><div class="problem">This feed will soon expire, on June 13, 2020 (feed_end_date in feed_info.txt)</div><br></li>
+<li><div class="problem">This feed will soon expire, on June 13, 2020 (last service date in calendar.txt)</div><br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
+<li><div class="problem">Service period with service_id "5" doesn't have service on any days of the week.</div>in line 5 of <code>calendar.txt</code><br>
+<br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
-<li><div class="problem">The stops "Front St at 9th St" (ID 467) and "Front St at 9th St" (ID 719) are 1.15m apart and probably represent the same location.</div><br></li>
-<li><div class="problem">The stops "Front St at 10th St" (ID 466) and "Front St at 11th St" (ID 721) are 1.36m apart and probably represent the same location.</div><br></li>
-<li><div class="problem">The stops "Portal Way at 6300 Block" (ID 241) and "Portal Way at 6300 Block" (ID 237) are 1.60m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "Portal Way at 6300 Block" (ID 5211) and "Portal Way at 6300 Block" (ID 5203) are 1.98m apart and probably represent the same location.</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningUnrecognizedColumn">Unrecognized Column</a></h4><ul>
-<li><div class="problem">Unrecognized column <code>wheelchair_accessible</code> in file <code>trips.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>trips.txt</code><br>
-<table class="dump"><tr><th>trip_id</th><th>route_id</th><th>service_id</th><th>trip_headsign</th><th>trip_short_name</th><th>direction_id</th><th>block_id</th><th>shape_id</th><th class="problem">wheelchair_accessible</th><th>bikes_allowed</th></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="problem"></td><td></td></tr></table>
-<br></li>
-<li><div class="problem">Unrecognized column <code>bikes_allowed</code> in file <code>trips.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>trips.txt</code><br>
-<table class="dump"><tr><th>trip_id</th><th>route_id</th><th>service_id</th><th>trip_headsign</th><th>trip_short_name</th><th>direction_id</th><th>block_id</th><th>shape_id</th><th>wheelchair_accessible</th><th class="problem">bikes_allowed</th></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="problem"></td></tr></table>
-<br></li>
 <li><div class="problem">Unrecognized column <code>trip_short_name</code> in file <code>trips.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>trips.txt</code><br>
-<table class="dump"><tr><th>trip_id</th><th>route_id</th><th>service_id</th><th>trip_headsign</th><th class="problem">trip_short_name</th><th>direction_id</th><th>block_id</th><th>shape_id</th><th>wheelchair_accessible</th><th>bikes_allowed</th></tr>
-<tr><td></td><td></td><td></td><td></td><td class="problem"></td><td></td><td></td><td></td><td></td><td></td></tr></table>
-<br></li>
-<li><div class="problem">Unrecognized column <code>timepoint</code> in file <code>stop_times.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>stop_times.txt</code><br>
-<table class="dump"><tr><th>trip_id</th><th>arrival_time</th><th>departure_time</th><th>stop_id</th><th>stop_sequence</th><th>stop_headsign</th><th>pickup_type</th><th>drop_off_type</th><th>shape_dist_traveled</th><th class="problem">timepoint</th></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="problem"></td></tr></table>
+<table class="dump"><tr><th>route_id</th><th>service_id</th><th>trip_id</th><th>trip_headsign</th><th class="problem">trip_short_name</th><th>direction_id</th><th>block_id</th><th>shape_id</th></tr>
+<tr><td></td><td></td><td></td><td></td><td class="problem"></td><td></td><td></td><td></td></tr></table>
 <br></li>
 </ul>
 
 <div class="footer">
 Generated by <a href="http://code.google.com/p/googletransitdatafeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.12 on May 04, 2020 at 11:14 AM Pacific Daylight Time.
+FeedValidator</a> version 1.2.12 on May 14, 2020 at 11:13 AM Pacific Daylight Time.
 </div>
 </body>
 </html>
