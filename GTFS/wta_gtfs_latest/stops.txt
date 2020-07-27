@@ -556,7 +556,7 @@
 608,3182,Ellis St at Maple St,,48.741283,-122.471980,1,,,,,2
 609,3183,Maple St at Newell St,,48.740126,-122.470687,1,,,,,2
 610,2133,Samish Way at Abbott St,,48.737317,-122.469992,1,,,,,2
-611,9744,Bill McDonald Pkwy at Buchanan Towers,,48.726332,-122.487049,1,,,,,2
+611,9744,Bill McDonald Pkwy at Buchanan Towers,,48.726345,-122.486871,1,,,,,2
 612,8182,Bill McDonald Pkwy at Campus Services,,48.727148,-122.490488,1,,,,,2
 613,3075,Bill McDonald Pkwy at Campus Services,,48.727673,-122.490150,1,,,,,2
 614,2083,Bill McDonald Pkwy at Buchanan Towers,,48.726524,-122.486858,1,,,,,2
@@ -663,7 +663,7 @@
 717,2732,Pine St at Fern Dr,,48.949038,-122.475466,1,,,,,2
 718,9801,Front St at Fairgrounds East,,48.939217,-122.474370,1,,,,,2
 719,2725,Front St at 9th St,,48.941263,-122.457816,1,,,,,2
-720,2724,7th St at Grover St,,48.942383,-122.455922,1,,,,,2
+720,2724,7th St at Grover St,,48.941939,-122.455929,1,,,,,2
 721,2726,Front St at 11th St,,48.940776,-122.459432,1,,,,,2
 722,2964,Front St at British Columbia Ave,,48.939943,-122.462768,1,,,,,2
 723,2727,Front St at 15th St,,48.939704,-122.466825,1,,,,,2
@@ -890,3 +890,4 @@
 1016,1055,Fraser St at Haskell,,48.751890,-122.458345,1,,,,,2
 1017,1048,Fraser St at Haskell,,48.751775,-122.458309,1,,,,,2
 1018,1054,Cordata Pkwy at Stuart Rd,,48.798610,-122.495261,1,,,,,2
+1019,7218,Mt Baker Hwy at Mosquito Lake Rd,,48.838299,-122.166850,1,,,,,2
