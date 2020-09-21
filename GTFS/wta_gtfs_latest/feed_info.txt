@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Whatcom Transportation Authority,http://www.ridewta.com,en,20200628,20210102,S1000085
+Whatcom Transportation Authority,http://www.ridewta.com,en,20200920,20210102,S1000085
