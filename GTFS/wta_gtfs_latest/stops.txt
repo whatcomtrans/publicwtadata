@@ -1,4 +1,4 @@
-﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
 1,2001,Bellingham Station,,48.750390,-122.475612,1,,,,,2
 2,3131,Eldridge Ave at Walnut St,,48.757977,-122.492100,1,,,,,2
 3,2966,Bellingham Technical College,,48.764887,-122.510672,1,,,,,2

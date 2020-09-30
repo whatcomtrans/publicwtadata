@@ -1,4 +1,4 @@
-﻿trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
 1503070,525,3,525 Barkley,,1,1507,shp-525-51,2,2
 1791010,27,1,27 Cordata/WCC,,1,901,shp-27-02,2,2
 1545020,26,2,26 Cordata/WCC,,1,802,shp-26-01,2,2
