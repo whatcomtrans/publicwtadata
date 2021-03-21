@@ -1,7 +1,4 @@
-service_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday
-3_merged_1797033,20210321,20210612,0,0,0,0,0,0,1
-1_merged_1797029,20210103,20210320,0,0,0,0,0,1,0
-2_merged_1797031,20210103,20210320,1,1,1,1,1,0,0
-1_merged_1797032,20210321,20210612,1,1,1,1,1,0,0
-3_merged_1797030,20210103,20210320,0,0,0,0,0,0,1
-2_merged_1797034,20210321,20210612,0,0,0,0,0,1,0
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+1,1,1,1,1,1,0,0,20210321,20210612
+2,0,0,0,0,0,1,0,20210321,20210612
+3,0,0,0,0,0,0,1,20210321,20210612
