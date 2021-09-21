@@ -35,7 +35,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 907070,105,1,105 Fairhaven,,0,6207,shp-105-53,2,2
 1413070,196,1,196 WWU/Lincoln,,1,3407,shp-196-01,2,2
 619090,331,3,331 Cordata/WCC,,1,5409,shp-331-01,2,2
-17020,190S,2,190S WWU,,0,2702,shp-190S-53,2,2
 1944010,331,4,331 Downtown,,0,3501,shp-331-51,2,2
 259020,190,2,190 Lincoln St,,0,5502,shp-190-53,2,2
 97020,190,2,190 Lincoln St,,0,5502,shp-190-53,2,2
@@ -104,7 +103,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1116090,105,3,105 Fairhaven,,0,6209,shp-105-51,2,2
 1101090,533,3,533 Yew St,,0,1809,shp-533-02,2,2
 617020,232,2,232 Downtown,,0,3802,shp-232-51,2,2
-1343020,190S,2,190S WWU,,1,2602,shp-190S-02,2,2
 1740020,15,2,15 Cordata/WCC,,1,6002,shp-15-01,2,2
 314090,190,3,190 Downtown,,1,3909,shp-190-07,2,2
 645020,540,2,540 Sunset,,0,1802,shp-540-51,2,2
@@ -158,7 +156,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1593020,533,2,533 Downtown,,1,1802,shp-533-03,2,2
 1188090,232,3,232 Cordata/WCC,,1,5209,shp-232-01,2,2
 1760070,232,1,232 Downtown,,0,3807,shp-232-51,2,2
-1482020,190S,2,190S WWU,,0,2702,shp-190S-53,2,2
 1528020,331,2,331 Downtown,,0,802,shp-331-51,2,2
 725010,331,4,331 Cordata/WCC,,1,3801,shp-331-01,2,2
 373070,108,1,108 Samish/WWU,,1,3407,shp-108-02,2,2
@@ -379,7 +376,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 403070,1,1,1 Fairhaven,,0,1407,shp-1-51,2,2
 1862090,1,3,1 Fairhaven,,0,109,shp-1-51,2,2
 1957020,512,2,512 Downtown,,1,1602,shp-512-02,2,2
-449020,14S,2,14S WWU,,0,2302,shp-14S-51,2,2
 234020,1,2,1 Downtown,,1,3102,shp-1-01,2,2
 1263070,232,1,232 Cordata/WCC,,1,6107,shp-232-01,2,2
 808070,232,1,232 Cordata/WCC,,1,6107,shp-232-01,2,2
@@ -463,7 +459,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 779020,232,2,232 Cordata/WCC,,1,5202,shp-232-01,2,2
 583090,232,3,232 Downtown,,0,3809,shp-232-51,2,2
 163010,26,4,26 Cordata/WCC,,1,3601,shp-26-01,2,2
-1584020,14S,2,14S WWU,,0,2302,shp-14S-51,2,2
 736090,331,3,331 Downtown,,0,6709,shp-331-51,2,2
 1534020,14,2,14 Fairhaven via WWU,,0,5002,shp-14-51,2,2
 1049010,72X,4,72X Kendall,,0,4201,shp-72X-53,2,2
@@ -533,14 +528,12 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1961020,190,2,190 Lincoln St,,0,5502,shp-190-53,2,2
 451090,540,3,540 Downtown,,1,1809,shp-540-02,2,2
 654090,232,3,232 Cordata/WCC,,1,5209,shp-232-01,2,2
-355020,190S,2,190S Lincoln St,,1,4702,shp-190S-04,2,2
 2068020,80X,2,80X Bellingham,,1,2202,shp-80X-01,2,2
 272090,232,3,232 Downtown,,0,1309,shp-232-51,2,2
 341070,232,1,232 Downtown,,0,1307,shp-232-51,2,2
 45090,107,3,107 WWU/Samish,,1,5509,shp-107-01,2,2
 846090,232,3,232 Cordata/WCC,,1,6709,shp-232-01,2,2
 1004020,50,2,50 Downtown,,1,1502,shp-50-01,2,2
-2060020,190S,2,190S Lincoln St,,1,4502,shp-190S-04,2,2
 228070,48,1,48 Cordata/WCC,,0,4107,shp-48-51,2,2
 478010,190,4,190 Downtown,,1,601,shp-190-07,2,2
 572020,190,2,190 Downtown,,1,3902,shp-190-07,2,2
@@ -558,7 +551,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 2012070,190,1,190 Lincoln St,,0,707,shp-190-53,2,2
 1953020,331,2,331 Cordata/WCC,,1,3802,shp-331-01,2,2
 332070,197,1,197 Lincoln/WWU,,1,3407,shp-197-01,2,2
-1402020,190S,2,190S Lincoln St,,1,4602,shp-190S-04,2,2
 1859090,72X,3,72X Sunset Square,,1,7409,shp-72X-02,2,2
 1772020,196,2,196 WWU/Lincoln,,1,702,shp-196-01,2,2
 722070,525,1,525 Barkley,,1,1707,shp-525-51,2,2
@@ -568,7 +560,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1912020,105,2,105 Downtown,,1,6202,shp-105-03,2,2
 1637070,1,1,1 Downtown,,1,3907,shp-1-01,2,2
 1086070,1,1,1 Downtown,,1,1407,shp-1-01,2,2
-665020,80S,2,80S WWU,,0,2402,shp-80S-51,2,2
 1768090,232,3,232 Cordata/WCC,,1,5209,shp-232-01,2,2
 1863010,15,4,15 Downtown,,0,501,shp-15-51,2,2
 364010,26,4,26 Cordata/WCC,,1,901,shp-26-01,2,2
@@ -611,7 +602,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1647090,15,3,15 Cordata/WCC,,1,6009,shp-15-01,2,2
 275010,190,4,190 Lincoln St,,0,601,shp-190-53,2,2
 1964020,197,2,197 Lincoln/WWU,,1,5102,shp-197-01,2,2
-632020,190S,2,190S Lincoln St,,1,4602,shp-190S-04,2,2
 1324090,4,3,4 Hospital/Downtown,,0,5509,shp-4-51,2,2
 790090,105,3,105 Downtown,,1,6209,shp-105-02,2,2
 1310090,512,3,512 Lakeway,,0,1609,shp-512-51,2,2
@@ -631,7 +621,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1781010,14,4,14 Downtown via WWU,,1,3201,shp-14-01,2,2
 622090,4,3,4 Hospital/Downtown,,0,1409,shp-4-51,2,2
 2091020,29,2,29 Cordata/Kline,,1,902,shp-29-01,2,2
-831020,190S,2,190S Downtown,,0,4502,shp-190S-07,2,2
 2048070,196,1,196 WWU/Lincoln,,1,3407,shp-196-01,2,2
 596010,14,4,14 Fairhaven via WWU,,0,3201,shp-14-51,2,2
 505010,1,4,1 Downtown,,1,101,shp-1-01,2,2
@@ -640,7 +629,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 2058010,331,4,331 Cordata/WCC,,1,1301,shp-331-01,2,2
 473070,14,1,14 Downtown via WWU,,1,5007,shp-14-01,2,2
 1695070,232,1,232 Cordata/WCC,,1,5207,shp-232-01,2,2
-128020,190S,2,190S WWU,,0,2602,shp-190S-51,2,2
 1305010,190,4,190 Downtown,,1,3301,shp-190-07,2,2
 1927070,27,1,27 Ferndale,,0,1207,shp-27-51,2,2
 1011020,1,2,1 Fairhaven,,0,102,shp-1-51,2,2
@@ -665,7 +653,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1008090,525,3,525 Barkley,,1,1709,shp-525-51,2,2
 906070,533,1,533 Yew St,,0,1807,shp-533-02,2,2
 475010,15,4,15 Downtown,,0,3201,shp-15-51,2,2
-1499020,190S,2,190S Lincoln St,,1,4802,shp-190S-04,2,2
 1629070,26,1,26 Lynden,,0,907,shp-26-52,2,2
 1901070,331,1,331 Downtown,,0,3507,shp-331-51,2,2
 1500020,512,2,512 Sudden Valley,,0,1602,shp-512-52,2,2
@@ -683,19 +670,16 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1284020,27,2,27 Ferndale,,0,1202,shp-27-51,2,2
 912090,331,3,331 Cordata/WCC,,1,6309,shp-331-01,2,2
 93020,331,2,331 Cordata/WCC,,1,3802,shp-331-01,2,2
-562020,190S,2,190S Lincoln St,,1,4802,shp-190S-04,2,2
 1578090,105,3,105 Fairhaven,,0,6209,shp-105-53,2,2
 1170070,232,1,232 Downtown,,0,3807,shp-232-51,2,2
 226090,512,3,512 Sudden Valley,,0,1609,shp-512-52,2,2
 366090,26,3,26 Lynden,,0,909,shp-26-52,2,2
 1754090,14,3,14 Fairhaven via WWU,,0,3209,shp-14-52,2,2
-1168020,14S,2,14S WWU,,0,2302,shp-14S-51,2,2
 1875070,331,1,331 Downtown,,0,6107,shp-331-51,2,2
 1201010,14,4,14 Fairhaven via WWU,,0,501,shp-14-51,2,2
 1626010,190,4,190 Lincoln St,,0,3301,shp-190-53,2,2
 1418070,15,1,15 Downtown,,0,5007,shp-15-51,2,2
 1735070,14,1,14 Fairhaven via WWU,,0,3207,shp-14-52,2,2
-212020,190S,2,190S WWU,,0,2602,shp-190S-51,2,2
 1739020,105,2,105 Downtown,,1,6202,shp-105-01,2,2
 1350010,190,4,190 Downtown,,1,3301,shp-190-07,2,2
 1714070,331,1,331 Downtown,,0,807,shp-331-51,2,2
@@ -744,9 +728,7 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1488070,512,1,512 Sudden Valley,,0,1607,shp-512-52,2,2
 689070,533,1,533 Downtown,,1,1807,shp-533-03,2,2
 1456090,27,3,27 Ferndale,,0,5309,shp-27-51,2,2
-1753020,80S,2,80S WWU,,0,2402,shp-80S-51,2,2
 1990070,533,1,533 Yew St,,0,4007,shp-533-02,2,2
-1440020,190S,2,190S WWU,,0,2702,shp-190S-53,2,2
 1167090,1,3,1 Downtown,,1,3109,shp-1-01,2,2
 540090,26,3,26 Lynden,,0,909,shp-26-53,2,2
 1775090,105,3,105 Fairhaven,,0,3709,shp-105-51,2,2
@@ -867,7 +849,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1154020,105,2,105 Fairhaven,,0,6202,shp-105-53,2,2
 2040070,49,1,49 Bakerview Spur,,1,4207,shp-49-01,2,2
 1120070,26,1,26 Cordata/WCC,,1,907,shp-26-01,2,2
-291020,190S,2,190S WWU,,0,2402,shp-190S-51,2,2
 1585090,15,3,15 Cordata/WCC,,1,6009,shp-15-01,2,2
 1663070,75,1,75B Birch Bay/Blaine,,0,5807,shp-75-53,2,2
 1335090,331,3,331 Cordata/WCC,,1,3809,shp-331-01,2,2
@@ -946,7 +927,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 330090,331,3,331 Cordata/WCC,,1,1309,shp-331-01,2,2
 1878070,27,1,27 Cordata/WCC,,1,5307,shp-27-02,2,2
 529070,4,1,4 Hospital/Downtown,,0,1407,shp-4-51,2,2
-1876020,14S,2,14S WWU,,0,2302,shp-14S-51,2,2
 39090,232,3,232 Cordata/WCC,,1,5209,shp-232-01,2,2
 318010,190,4,190 Downtown,,1,601,shp-190-07,2,2
 1300070,105,1,105 Downtown,,1,5307,shp-105-03,2,2
@@ -1017,7 +997,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1960070,14,1,14 Downtown via WWU,,1,6007,shp-14-02,2,2
 1186020,49,2,49 Downtown,,0,6502,shp-49-51,2,2
 1145010,525,4,525 Downtown,,0,1701,shp-525-03,2,2
-1686020,190S,2,190S Lincoln St,,1,4902,shp-190S-04,2,2
 134090,232,3,232 Downtown,,0,5409,shp-232-51,2,2
 914020,232,2,232 Downtown,,0,6802,shp-232-51,2,2
 421020,512,2,512 Downtown,,1,1602,shp-512-02,2,2
@@ -1067,7 +1046,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 389090,15,3,15 Downtown,,0,6009,shp-15-51,2,2
 1743010,331,4,331 Downtown,,0,3501,shp-331-51,2,2
 1210070,190,1,190 Lincoln St,,0,607,shp-190-53,2,2
-758020,190S,2,190S Lincoln St,,1,4702,shp-190S-03,2,2
 1547020,15,2,15 Downtown,,0,5002,shp-15-51,2,2
 35090,15,3,15 Downtown,,0,5009,shp-15-51,2,2
 677020,232,2,232 Downtown,,0,6302,shp-232-51,2,2
@@ -1100,10 +1078,8 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1114020,540,2,540 Downtown,,1,1802,shp-540-02,2,2
 1257010,27,4,27 Ferndale,,0,1001,shp-27-51,2,2
 300020,232,2,232 Cordata/WCC,,1,6102,shp-232-01,2,2
-71020,190S,2,190S Lincoln St,,1,4602,shp-190S-04,2,2
 65020,26,2,26 Lynden,,0,902,shp-26-52,2,2
 770020,1,2,1 Fairhaven,,0,702,shp-1-51,2,2
-1771020,190S,2,190S Lincoln St,,1,4702,shp-190S-04,2,2
 1510020,75,2,75A Bellingham,,1,6602,shp-75-03,2,2
 1662020,14,2,14 Fairhaven via WWU,,0,5002,shp-14-51,2,2
 1013020,1,2,1 Downtown,,1,702,shp-1-01,2,2
@@ -1134,7 +1110,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1841020,14,2,14 Downtown via WWU,,1,3202,shp-14-02,2,2
 1573070,197,1,197 Lincoln/WWU,,1,3407,shp-197-01,2,2
 1470020,1,2,1 Fairhaven,,0,3102,shp-1-51,2,2
-1853020,105S,2,105S WWU,,1,2502,shp-105S-01,2,2
 337090,75,3,75B Birch Bay/Ferndale,,1,3009,shp-75-02,2,2
 340090,26,3,26 Cordata/WCC,,1,909,shp-26-01,2,2
 1019090,331,3,331 Downtown,,0,809,shp-331-51,2,2
@@ -1151,7 +1126,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1612070,232,1,232 Cordata/WCC,,1,807,shp-232-01,2,2
 917070,27,1,27 Cordata/WCC,,1,3707,shp-27-02,2,2
 1276090,1,3,1 Fairhaven,,0,3109,shp-1-51,2,2
-1367020,190S,2,190S Lincoln St,,1,4802,shp-190S-04,2,2
 929090,232,3,232 Downtown,,0,3809,shp-232-51,2,2
 842090,196,3,196 WWU/Lincoln,,1,709,shp-196-01,2,2
 1585020,15,2,15 Cordata/WCC,,1,6002,shp-15-01,2,2
@@ -1165,7 +1139,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1285070,14,1,14 Fairhaven via WWU,,0,3207,shp-14-52,2,2
 1136070,331,1,331 Downtown,,0,5207,shp-331-51,2,2
 773070,331,1,331 Downtown,,0,6107,shp-331-51,2,2
-1816020,190S,2,190S Lincoln St,,1,4702,shp-190S-03,2,2
 95090,232,3,232 Cordata/WCC,,1,809,shp-232-01,2,2
 287070,105,1,105 Downtown,,1,6207,shp-105-02,2,2
 1376070,14,1,14 Downtown via WWU,,1,6007,shp-14-02,2,2
@@ -1224,7 +1197,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 839070,1,1,1 Downtown,,1,307,shp-1-01,2,2
 726020,14,2,14 Downtown via WWU,,1,5002,shp-14-02,2,2
 662010,1,4,1 Fairhaven,,0,201,shp-1-51,2,2
-215020,190S,2,190S Downtown,,0,4502,shp-190S-07,2,2
 1866020,331,2,331 Downtown,,0,6102,shp-331-51,2,2
 1843020,1,2,1 Fairhaven,,0,5102,shp-1-51,2,2
 1682020,80X,2,80X Mt Vernon,,0,5902,shp-80X-51,2,2
@@ -1262,7 +1234,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1192090,48,3,48 Bakerview Spur,,1,6909,shp-48-01,2,2
 1101020,533,2,533 Yew St,,0,1802,shp-533-02,2,2
 1744090,232,3,232 Downtown,,0,6309,shp-232-51,2,2
-823020,190S,2,190S WWU,,1,2602,shp-190S-02,2,2
 2045090,15,3,15 Cordata/WCC,,1,3209,shp-15-01,2,2
 1537020,15,2,15 Cordata/WCC,,1,5002,shp-15-01,2,2
 356070,24,1,24 Cordata,,1,6007,shp-24-01,2,2
@@ -1292,7 +1263,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1870020,27,2,27 Ferndale,,0,3702,shp-27-51,2,2
 72070,15,1,15 Downtown,,0,6007,shp-15-51,2,2
 1616010,50,4,50 Downtown,,1,1501,shp-50-01,2,2
-843020,190S,2,190S Lincoln St,,1,4502,shp-190S-04,2,2
 698090,1,3,1 Downtown,,1,109,shp-1-01,2,2
 45020,107,2,107 WWU/Samish,,1,5502,shp-107-01,2,2
 60070,331,1,331 Cordata/WCC,,1,1307,shp-331-01,2,2
@@ -1316,7 +1286,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1466090,331,3,331 Cordata/WCC,,1,3809,shp-331-01,2,2
 23020,331,2,331 Cordata/WCC,,1,1302,shp-331-01,2,2
 139020,197,2,197 Lincoln/WWU,,1,702,shp-197-01,2,2
-1074020,190S,2,190S Lincoln St,,1,4602,shp-190S-04,2,2
 1420090,1,3,1 Downtown,,1,109,shp-1-01,2,2
 1621020,331,2,331 Cordata/WCC,,1,6302,shp-331-01,2,2
 305070,331,1,331 Cordata/WCC,,1,5407,shp-331-01,2,2
@@ -1341,10 +1310,8 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1854020,190,2,190 Downtown,,1,5502,shp-190-07,2,2
 2042010,525,4,525 Downtown,,0,1701,shp-525-03,2,2
 1748010,190,4,190 Lincoln St,,0,3301,shp-190-53,2,2
-202020,80S,2,80S WWU,,0,2402,shp-80S-51,2,2
 1914070,232,1,232 Cordata/WCC,,1,807,shp-232-01,2,2
 1708090,232,3,232 Cordata/WCC,,1,3509,shp-232-01,2,2
-221020,190S,2,190S Lincoln St,,1,4602,shp-190S-04,2,2
 1262020,525,2,525 Downtown,,0,1702,shp-525-03,2,2
 1833090,190,3,190 Downtown,,1,5509,shp-190-07,2,2
 1972010,331,4,331 Downtown,,0,801,shp-331-51,2,2
@@ -1381,7 +1348,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1047020,533,2,533 Downtown,,1,1802,shp-533-03,2,2
 153090,4,3,4 Hospital/Cordata,,1,1409,shp-4-01,2,2
 594070,331,1,331 Cordata/WCC,,1,6307,shp-331-01,2,2
-1796020,105S,2,105S WWU,,1,2502,shp-105S-01,2,2
 177020,1,2,1 Fairhaven,,0,702,shp-1-51,2,2
 409070,105,1,105 Fairhaven,,0,6207,shp-105-53,2,2
 1700020,232,2,232 Downtown,,0,3802,shp-232-51,2,2
@@ -1418,7 +1384,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1840090,108,3,108 Samish/WWU,,1,409,shp-108-02,2,2
 149020,71X,2,71X Everson/Nooksack/Sumas,,0,6402,shp-71X-52,2,2
 670020,512,2,512 Downtown,,1,1602,shp-512-02,2,2
-1518020,190S,2,190S WWU,,0,2402,shp-190S-51,2,2
 62090,75,3,75A Bellingham,,1,7309,shp-75-03,2,2
 27070,331,1,331 Downtown,,0,6107,shp-331-51,2,2
 616090,71X,3,71X Cordata/WCC,,1,6909,shp-71X-01,2,2
@@ -1430,7 +1395,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1675090,14,3,14 Fairhaven via WWU,,0,5009,shp-14-52,2,2
 771090,15,3,15 Cordata/WCC,,1,3209,shp-15-01,2,2
 1823070,1,1,1 Downtown,,1,1407,shp-1-01,2,2
-949020,190S,2,190S Lincoln St,,1,4702,shp-190S-03,2,2
 1809070,29,1,29 Cordata/Kline,,1,907,shp-29-01,2,2
 1152010,232,4,232 Downtown,,0,3801,shp-232-51,2,2
 1478020,26,2,26 Cordata/WCC,,1,6102,shp-26-01,2,2
@@ -1526,7 +1490,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1750020,105,2,105 Downtown,,1,1202,shp-105-01,2,2
 930010,331,4,331 Downtown,,0,801,shp-331-51,2,2
 486020,331,2,331 Downtown,,0,802,shp-331-51,2,2
-2086020,80S,2,80S Lincoln Creek,,1,4802,shp-80S-01,2,2
 1842020,190,2,190 Lincoln St,,0,3902,shp-190-53,2,2
 549020,27,2,27 Ferndale,,0,3702,shp-27-51,2,2
 1976070,331,1,331 Cordata/WCC,,1,1307,shp-331-01,2,2
@@ -1619,7 +1582,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 2078070,232,1,232 Downtown,,0,1307,shp-232-51,2,2
 1261010,512,4,512 Downtown,,1,1601,shp-512-02,2,2
 23090,331,3,331 Cordata/WCC,,1,1309,shp-331-01,2,2
-821020,190S,2,190S WWU,,0,2702,shp-190S-53,2,2
 608090,14,3,14 Fairhaven via WWU,,0,509,shp-14-52,2,2
 579090,190,3,190 Lincoln St,,0,5509,shp-190-53,2,2
 1593090,533,3,533 Downtown,,1,1809,shp-533-03,2,2
@@ -1655,7 +1617,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 308090,50,3,50 Gooseberry Pt,,0,1509,shp-50-51,2,2
 148010,15,4,15 Cordata/WCC,,1,501,shp-15-01,2,2
 804090,190,3,190 Downtown,,1,3909,shp-190-07,2,2
-1983020,14S,2,14S WWU,,0,2302,shp-14S-51,2,2
 871090,540,3,540 Downtown,,1,1809,shp-540-02,2,2
 1240010,525,4,525 Downtown,,0,1701,shp-525-03,2,2
 1773090,1,3,1 Fairhaven,,0,109,shp-1-51,2,2
@@ -1664,7 +1625,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 458090,4,3,4 Hospital/Downtown,,0,1409,shp-4-51,2,2
 1177090,232,3,232 Downtown,,0,6309,shp-232-51,2,2
 642090,331,3,331 Cordata/WCC,,1,5409,shp-331-01,2,2
-1452020,190S,2,190S Lincoln St,,1,4702,shp-190S-04,2,2
 282090,1,3,1 Downtown,,1,3109,shp-1-01,2,2
 1579090,331,3,331 Cordata/WCC,,1,5409,shp-331-01,2,2
 624020,331,2,331 Cordata/WCC,,1,5402,shp-331-01,2,2
@@ -1675,7 +1635,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1040070,14,1,14 Fairhaven via WWU,,0,6007,shp-14-51,2,2
 226020,512,2,512 Sudden Valley,,0,1602,shp-512-52,2,2
 1536090,4,3,4 Hospital/Downtown,,0,3909,shp-4-51,2,2
-1097020,190S,2,190S WWU,,0,2402,shp-190S-51,2,2
 706070,190,1,190 Downtown,,1,607,shp-190-07,2,2
 726090,14,3,14 Downtown via WWU,,1,5009,shp-14-02,2,2
 874020,71X,2,71X Cordata/WCC,,1,1902,shp-71X-01,2,2
@@ -1689,12 +1648,10 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1866090,331,3,331 Downtown,,0,6109,shp-331-51,2,2
 1175090,331,3,331 Downtown,,0,809,shp-331-51,2,2
 1967070,190,1,190 Lincoln St,,0,707,shp-190-53,2,2
-832020,190S,2,190S WWU,,0,2502,shp-190S-54,2,2
 492020,15,2,15 Downtown,,0,3202,shp-15-51,2,2
 1672090,15,3,15 Cordata/WCC,,1,5009,shp-15-01,2,2
 519090,512,3,512 Sudden Valley,,0,1609,shp-512-52,2,2
 377090,1,3,1 Fairhaven,,0,109,shp-1-51,2,2
-484020,190S,2,190S Lincoln St,,1,4602,shp-190S-04,2,2
 87020,71X,2,71X Everson/Nooksack/Sumas,,0,6902,shp-71X-52,2,2
 1513090,525,3,525 Downtown,,0,1709,shp-525-03,2,2
 1137090,1,3,1 Fairhaven,,0,109,shp-1-51,2,2
@@ -1711,7 +1668,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1105020,105,2,105 Fairhaven,,0,3702,shp-105-51,2,2
 19010,1,4,1 Fairhaven,,0,101,shp-1-51,2,2
 670090,512,3,512 Downtown,,1,1609,shp-512-02,2,2
-407020,190S,2,190S WWU,,0,2602,shp-190S-51,2,2
 557070,15,1,15 Cordata/WCC,,1,5007,shp-15-01,2,2
 743020,331,2,331 Downtown,,0,802,shp-331-51,2,2
 519020,512,2,512 Sudden Valley,,0,1602,shp-512-52,2,2
@@ -1826,7 +1782,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1980090,105,3,105 Fairhaven,,0,5309,shp-105-51,2,2
 1206090,197,3,197 Lincoln/WWU,,1,5109,shp-197-01,2,2
 1583090,1,3,1 Fairhaven,,0,3109,shp-1-51,2,2
-156020,190S,2,190S Lincoln St,,1,4802,shp-190S-04,2,2
 1490010,232,4,232 Cordata/WCC,,1,3501,shp-232-01,2,2
 29090,1,3,1 Fairhaven,,0,709,shp-1-51,2,2
 1710070,232,1,232 Downtown,,0,3807,shp-232-51,2,2
@@ -1856,7 +1811,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 43010,525,4,525 Downtown,,0,1701,shp-525-03,2,2
 928020,108,2,108 Samish/WWU,,1,402,shp-108-02,2,2
 720070,1,1,1 Fairhaven,,0,3907,shp-1-51,2,2
-1389020,190S,2,190S Lincoln St,,1,4602,shp-190S-04,2,2
 1623020,190,2,190 Lincoln St,,0,3902,shp-190-53,2,2
 1297070,512,1,512 Sudden Valley,,0,1607,shp-512-52,2,2
 1233020,108,2,108 Samish/WWU,,1,402,shp-108-02,2,2
@@ -1923,7 +1877,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 646090,14,3,14 Fairhaven via WWU,,0,6009,shp-14-51,2,2
 1646070,26,1,26 Cordata/WCC,,1,3607,shp-26-02,2,2
 1009070,197,1,197 Lincoln/WWU,,1,707,shp-197-01,2,2
-603020,190S,2,190S Lincoln St,,1,4802,shp-190S-04,2,2
 754070,3,1,3 Airport/Downtown,,0,6207,shp-3-51,2,2
 393090,14,3,14 Fairhaven via WWU,,0,509,shp-14-52,2,2
 1999070,15,1,15 Cordata/WCC,,1,5007,shp-15-01,2,2
@@ -1953,7 +1906,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1415090,49,3,49 Bakerview Spur,,1,6609,shp-49-01,2,2
 2066020,15,2,15 Cordata/WCC,,1,5002,shp-15-01,2,2
 1520070,50,1,50 Downtown,,1,1507,shp-50-01,2,2
-861020,190S,2,190S Lincoln St,,1,4502,shp-190S-04,2,2
 878010,29,4,29 Cordata/Kline,,1,901,shp-29-01,2,2
 74090,196,3,196 WWU/Lincoln,,1,5109,shp-196-01,2,2
 1742020,24,2,24 Cordata,,1,6002,shp-24-01,2,2
@@ -1964,10 +1916,8 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 432020,50,2,50 Downtown,,1,1502,shp-50-01,2,2
 541010,1,4,1 Fairhaven,,0,101,shp-1-51,2,2
 1428020,1,2,1 Fairhaven,,0,702,shp-1-51,2,2
-548020,190S,2,190S WWU,,0,4802,shp-190S-51,2,2
 1778090,331,3,331 Downtown,,0,6109,shp-331-51,2,2
 925090,4,3,4 Hospital/Cordata,,1,5509,shp-4-01,2,2
-968020,190S,2,190S WWU,,0,2702,shp-190S-53,2,2
 1755090,525,3,525 Barkley,,1,1709,shp-525-51,2,2
 12010,15,4,15 Downtown,,0,501,shp-15-51,2,2
 1247070,108,1,108 Samish/WWU,,1,707,shp-108-02,2,2
@@ -2010,7 +1960,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 631090,331,3,331 Downtown,,0,6709,shp-331-51,2,2
 471020,331,2,331 Downtown,,0,5202,shp-331-51,2,2
 282020,1,2,1 Downtown,,1,3102,shp-1-01,2,2
-1591020,190S,2,190S Lincoln St,,1,4702,shp-190S-03,2,2
 1885070,232,1,232 Cordata/WCC,,1,6107,shp-232-01,2,2
 1587070,15,1,15 Cordata/WCC,,1,3207,shp-15-01,2,2
 987090,331,3,331 Downtown,,0,809,shp-331-51,2,2
@@ -2045,7 +1994,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 423090,512,3,512 Sudden Valley,,0,1609,shp-512-52,2,2
 774090,533,3,533 Downtown,,1,4009,shp-533-03,2,2
 1719090,48,3,48 Bakerview Spur,,1,6409,shp-48-01,2,2
-398020,190S,2,190S Lincoln St,,1,4902,shp-190S-04,2,2
 387090,50,3,50 Gooseberry Pt,,0,1509,shp-50-51,2,2
 1604090,512,3,512 Downtown,,1,1609,shp-512-02,2,2
 1613010,15,4,15 Cordata/WCC,,1,501,shp-15-01,2,2
@@ -2182,19 +2130,15 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 721020,232,2,232 Cordata/WCC,,1,802,shp-232-01,2,2
 1618020,533,2,533 Yew St,,0,1802,shp-533-02,2,2
 2023010,1,4,1 Fairhaven,,0,101,shp-1-51,2,2
-1195020,190S,2,190S Downtown,,0,4502,shp-190S-07,2,2
 366020,26,2,26 Lynden,,0,902,shp-26-52,2,2
 468070,232,1,232 Cordata/WCC,,1,3507,shp-232-01,2,2
-683020,190S,2,190S Lincoln St,,1,4902,shp-190S-04,2,2
 994090,232,3,232 Downtown,,0,1309,shp-232-51,2,2
 1652020,525,2,525 Barkley,,1,1702,shp-525-51,2,2
 1058090,15,3,15 Downtown,,0,5009,shp-15-51,2,2
-1634020,190S,2,190S Lincoln St,,1,4602,shp-190S-04,2,2
 620020,50,2,50 Gooseberry Pt,,0,1502,shp-50-51,2,2
 1387070,331,1,331 Downtown,,0,3507,shp-331-51,2,2
 531090,1,3,1 Downtown,,1,109,shp-1-01,2,2
 663070,26,1,26 Lynden,,0,907,shp-26-53,2,2
-292020,190S,2,190S Lincoln St,,1,4602,shp-190S-04,2,2
 250070,15,1,15 Cordata/WCC,,1,5007,shp-15-01,2,2
 1073070,15,1,15 Cordata/WCC,,1,3207,shp-15-01,2,2
 294090,331,3,331 Downtown,,0,6109,shp-331-51,2,2
@@ -2240,7 +2184,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1896010,190,4,190 Lincoln St,,0,3301,shp-190-53,2,2
 1206020,197,2,197 Lincoln/WWU,,1,5102,shp-197-01,2,2
 1966090,1,3,1 Fairhaven,,0,109,shp-1-51,2,2
-2082020,190S,2,190S WWU,,0,2702,shp-190S-53,2,2
 1202020,71X,2,71X Everson/Nooksack/Sumas,,0,5602,shp-71X-52,2,2
 1644090,26,3,26 Cordata/WCC,,1,909,shp-26-01,2,2
 101020,15,2,15 Cordata/WCC,,1,6002,shp-15-01,2,2
@@ -2259,7 +2202,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 470020,29,2,29 Cordata/Kline,,1,902,shp-29-01,2,2
 15020,72X,2,72X Kendall,,0,7002,shp-72X-53,2,2
 1523090,15,3,15 Downtown,,0,509,shp-15-51,2,2
-848020,190S,2,190S Lincoln St,,1,4602,shp-190S-04,2,2
 358070,331,1,331 Downtown,,0,3507,shp-331-51,2,2
 1046090,3,3,3 Airport / Cordata,,1,6209,shp-3-01,2,2
 153020,4,2,4 Hospital/Cordata,,1,1402,shp-4-01,2,2
@@ -2269,12 +2211,10 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 363070,107,1,107 WWU/Samish,,1,307,shp-107-01,2,2
 1337020,232,2,232 Cordata/WCC,,1,802,shp-232-01,2,2
 845090,27,3,27 Cordata/WCC,,1,6209,shp-27-02,2,2
-21020,190S,2,190S Lincoln St,,1,4802,shp-190S-04,2,2
 1849090,80X,3,80X Mt Vernon,,0,2209,shp-80X-51,2,2
 645090,540,3,540 Sunset,,0,1809,shp-540-51,2,2
 209020,540,2,540 Downtown,,1,4002,shp-540-02,2,2
 309020,331,2,331 Cordata/WCC,,1,3802,shp-331-01,2,2
-530020,190S,2,190S Lincoln St,,1,4902,shp-190S-04,2,2
 1645020,14,2,14 Fairhaven via WWU,,0,6002,shp-14-52,2,2
 1888090,197,3,197 Lincoln/WWU,,1,5109,shp-197-01,2,2
 1394020,232,2,232 Downtown,,0,6302,shp-232-51,2,2
@@ -2309,7 +2249,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1050090,232,3,232 Cordata/WCC,,1,5209,shp-232-01,2,2
 1057090,1,3,1 Fairhaven,,0,109,shp-1-51,2,2
 171070,331,1,331 Downtown,,0,5207,shp-331-51,2,2
-1267020,80S,2,80S Lincoln Creek,,1,4902,shp-80S-01,2,2
 1541070,533,1,533 Downtown,,1,1807,shp-533-03,2,2
 988090,26,3,26 Lynden,,0,909,shp-26-53,2,2
 447090,29,3,29 Cordata/Kline,,1,1109,shp-29-01,2,2
@@ -2345,10 +2284,8 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 483020,533,2,533 Yew St,,0,4002,shp-533-02,2,2
 345020,512,2,512 Downtown,,1,1602,shp-512-02,2,2
 728020,190,2,190 Downtown,,1,1402,shp-190-07,2,2
-695020,80S,2,80S Lincoln Creek,,1,4902,shp-80S-01,2,2
 286010,525,4,525 Downtown,,0,1701,shp-525-03,2,2
 1066070,15,1,15 Downtown,,0,5007,shp-15-51,2,2
-1467020,190S,2,190S Lincoln St,,1,4502,shp-190S-04,2,2
 1202090,71X,3,71X Everson/Nooksack/Sumas,,0,5609,shp-71X-52,2,2
 503020,24,2,24 Cordata,,1,5002,shp-24-01,2,2
 137020,190,2,190 Lincoln St,,0,1402,shp-190-53,2,2
@@ -2412,7 +2349,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 2041090,533,3,533 Yew St,,0,1809,shp-533-02,2,2
 1070020,3,2,3 Airport/Downtown,,0,6202,shp-3-51,2,2
 966070,29,1,29 Cordata/Kline,,1,3607,shp-29-01,2,2
-943020,190S,2,190S Downtown,,0,4502,shp-190S-07,2,2
 237070,14,1,14 Fairhaven via WWU,,0,507,shp-14-52,2,2
 1680090,331,3,331 Downtown,,0,6709,shp-331-51,2,2
 2036090,190,3,190 Lincoln St,,0,1409,shp-190-53,2,2
@@ -2480,7 +2416,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 406090,108,3,108 Samish/WWU,,1,409,shp-108-02,2,2
 1276020,1,2,1 Fairhaven,,0,3102,shp-1-51,2,2
 1801070,29,1,29 Cordata/Kline,,1,907,shp-29-01,2,2
-1839020,190S,2,190S WWU,,0,2702,shp-190S-53,2,2
 1558070,71X,1,71X Everson/Nooksack/Sumas,,0,1907,shp-71X-51,2,2
 1058020,15,2,15 Downtown,,0,5002,shp-15-51,2,2
 768020,190,2,190 Downtown,,1,5502,shp-190-06,2,2
@@ -2513,12 +2448,10 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 442090,190,3,190 Downtown,,1,3909,shp-190-07,2,2
 1813020,331,2,331 Downtown,,0,5202,shp-331-51,2,2
 1979020,540,2,540 Downtown,,1,4002,shp-540-02,2,2
-1808020,190S,2,190S Lincoln St,,1,4702,shp-190S-03,2,2
 1249090,105,3,105 Fairhaven,,0,1209,shp-105-51,2,2
 1476070,27,1,27 Cordata/WCC,,1,5307,shp-27-02,2,2
 1880070,15,1,15 Downtown,,0,5007,shp-15-51,2,2
 1199090,232,3,232 Downtown,,0,5409,shp-232-51,2,2
-1572020,190S,2,190S Lincoln St,,1,4502,shp-190S-04,2,2
 547070,232,1,232 Downtown,,0,1307,shp-232-51,2,2
 718070,512,1,512 Sudden Valley,,0,1607,shp-512-52,2,2
 2000020,232,2,232 Cordata/WCC,,1,3502,shp-232-01,2,2
@@ -2617,7 +2550,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 140070,15,1,15 Cordata/WCC,,1,507,shp-15-01,2,2
 5070,331,1,331 Downtown,,0,3507,shp-331-51,2,2
 1320020,1,2,1 Downtown,,1,102,shp-1-01,2,2
-2054020,190S,2,190S Downtown,,0,4502,shp-190S-07,2,2
 1083070,72X,1,72X Kendall,,0,4207,shp-72X-53,2,2
 1236020,232,2,232 Cordata/WCC,,1,5202,shp-232-01,2,2
 995020,232,2,232 Cordata/WCC,,1,802,shp-232-01,2,2
@@ -2645,7 +2577,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 586010,232,4,232 Cordata/WCC,,1,801,shp-232-01,2,2
 1015020,15,2,15 Downtown,,0,5002,shp-15-51,2,2
 343090,49,3,49 Bakerview Spur,,1,6309,shp-49-01,2,2
-1149020,190S,2,190S WWU,,1,2602,shp-190S-02,2,2
 759070,331,1,331 Downtown,,0,5207,shp-331-51,2,2
 1804090,1,3,1 Downtown,,1,5109,shp-1-01,2,2
 54090,525,3,525 Downtown,,0,1709,shp-525-03,2,2
@@ -2707,10 +2638,8 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1383090,540,3,540 Sunset,,0,4009,shp-540-51,2,2
 1443020,533,2,533 Yew St,,0,4002,shp-533-02,2,2
 1479020,15,2,15 Downtown,,0,5002,shp-15-51,2,2
-571020,190S,2,190S WWU,,1,2602,shp-190S-02,2,2
 1219020,105,2,105 Fairhaven,,0,5302,shp-105-51,2,2
 384090,533,3,533 Yew St,,0,4009,shp-533-02,2,2
-90020,190S,2,190S Lincoln St,,1,4802,shp-190S-04,2,2
 544090,24,3,24 Cordata,,1,6009,shp-24-01,2,2
 1776070,1,1,1 Downtown,,1,307,shp-1-01,2,2
 1805090,1,3,1 Downtown,,1,109,shp-1-01,2,2
@@ -2723,7 +2652,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 504020,1,2,1 Downtown,,1,102,shp-1-01,2,2
 902090,80X,3,80X Mt Vernon,,0,4409,shp-80X-51,2,2
 1784020,107,2,107 WWU/Samish,,1,1402,shp-107-01,2,2
-138020,105S,2,105S WWU,,1,2502,shp-105S-01,2,2
 1603020,190,2,190 Downtown,,1,5502,shp-190-07,2,2
 1356090,525,3,525 Barkley,,1,1709,shp-525-51,2,2
 1361020,108,2,108 Samish/WWU,,1,402,shp-108-02,2,2
@@ -2754,7 +2682,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 533070,3,1,3 Airport / Cordata,,1,6207,shp-3-01,2,2
 307020,4,2,4 Hospital/Cordata,,1,3902,shp-4-01,2,2
 2037070,27,1,27 Ferndale,,0,5307,shp-27-51,2,2
-1207020,190S,2,190S WWU,,0,2502,shp-190S-54,2,2
 1166070,232,1,232 Cordata/WCC,,1,5207,shp-232-01,2,2
 1397020,27,2,27 Cordata/WCC,,1,1202,shp-27-02,2,2
 439020,1,2,1 Fairhaven,,0,102,shp-1-51,2,2
@@ -2770,7 +2697,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 750020,15,2,15 Cordata/WCC,,1,6002,shp-15-01,2,2
 1553020,331,2,331 Cordata/WCC,,1,6302,shp-331-01,2,2
 24090,50,3,50 Downtown,,1,4409,shp-50-01,2,2
-844020,80S,2,80S Lincoln Creek,,1,4802,shp-80S-01,2,2
 1963070,1,1,1 Downtown,,1,3907,shp-1-01,2,2
 640020,1,2,1 Downtown,,1,5102,shp-1-01,2,2
 1539020,540,2,540 Sunset,,0,1802,shp-540-51,2,2
@@ -2841,7 +2767,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 81020,525,2,525 Downtown,,0,1702,shp-525-03,2,2
 1059020,50,2,50 Downtown,,1,1502,shp-50-01,2,2
 1581010,29,4,29 Cordata/Kline,,1,3601,shp-29-01,2,2
-1022020,190S,2,190S WWU,,0,2702,shp-190S-53,2,2
 1671090,15,3,15 Cordata/WCC,,1,3209,shp-15-01,2,2
 1347070,331,1,331 Downtown,,0,6107,shp-331-51,2,2
 31070,107,1,107 WWU/Samish,,1,307,shp-107-01,2,2
@@ -2976,7 +2901,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,
 1327020,197,2,197 Lincoln/WWU,,1,702,shp-197-01,2,2
 613090,1,3,1 Fairhaven,,0,3109,shp-1-51,2,2
 1515070,1,1,1 Fairhaven,,0,307,shp-1-51,2,2
-888020,190S,2,190S Lincoln St,,1,4702,shp-190S-04,2,2
 1346020,232,2,232 Downtown,,0,5402,shp-232-51,2,2
 1644020,26,2,26 Cordata/WCC,,1,902,shp-26-01,2,2
 1469020,190,2,190 Lincoln St,,0,5502,shp-190-53,2,2
