@@ -1,32 +1,32 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url
-1,14,1,Fairhaven&Downtown,,3,
-105,14,105,Fairhaven&Downtown,,3,
-105S,14,105S,WWU,,3,
-107,14,107,WWU/Samish,,3,
-108,14,108,Samish/WWU,,3,
-14,14,14,Fairhaven&Downtown,,3,
-14S,14,14S,WWU&Billy Frank Jr,,3,
-15,14,15,Cordata/WCC&Downtown,,3,
-190,14,190,Lincoln St&Downtown,,3,
-190S,14,190S,Lincoln St&WWU,,3,
-196,14,196,WWU/Lincoln,,3,
-197,14,197,Lincoln/WWU,,3,
-232,14,232,Cordata/WCC&Downtown,,3,
-24,14,24,Cordata,,3,
-26,14,26,Lynden&Cordata/WCC,,3,
-27,14,27,Ferndale&Cordata/WCC,,3,
-29,14,29,Cordata/Kline,,3,
-3,14,3,Airport/Cordata&Airport/Downtown,,3,
-331,14,331,Cordata/WCC&Downtown,,3,
-4,14,4,Cordata&Downtown via Hospital,,3,
-48,14,48,Cordata/WCC&Bakerview Spur,,3,
-49,14,49,Downtown&Bakerview Spur,,3,
-50,14,50,LummiNation&Downtown,,3,
-512,14,512,Sudden Valley&Downtown,,3,
-525,14,525,Barkley&Downtown,,3,
-533,14,533,Yew St,,3,
-540,14,540,Sunset&Downtown,,3,
-71X,14,71X,Everson/Nooksack/Sumas&Cordata,,3,
-72X,14,72X,Kendall&Bellingham,,3,
-75,14,75,Blaine/Birch Bay&Bellingham,,3,
-80X,14,80X,Mt. Vernon&Bellingham,,3,
+route_long_name,route_id,route_type,route_text_color,agency_id,route_color,route_url,route_desc,route_short_name
+Kendall&Bellingham,72X,3,,14,,,,72X
+Lincoln/WWU,197,3,,14,,,,197
+WWU/Lincoln,196,3,,14,,,,196
+Cordata/WCC&Downtown,331,3,,14,,,,331
+Lincoln St&Downtown,190,3,,14,,,,190
+LummiNation&Downtown,50,3,,14,,,,50
+Mt. Vernon&Bellingham,80X,3,,14,,,,80X
+Cordata/WCC&Downtown,232,3,,14,,,,232
+Cordata,24,3,,14,,,,24
+Lynden&Cordata/WCC,26,3,,14,,,,26
+Ferndale&Cordata/WCC,27,3,,14,,,,27
+WWU&Billy Frank Jr,14S,3,,14,,,,14S
+Cordata/WCC&Bakerview Spur,48,3,,14,,,,48
+Downtown&Bakerview Spur,49,3,,14,,,,49
+Cordata/Kline,29,3,,14,,,,29
+Fairhaven&Downtown,1,3,,14,,,,1
+Barkley&Downtown,525,3,,14,,,,525
+Sunset&Downtown,540,3,,14,,,,540
+Cordata&Downtown via Hospital,4,3,,14,,,,4
+WWU,105S,3,,14,,,,105S
+Airport/Cordata&Airport/Downtown,3,3,,14,,,,3
+Samish/WWU,108,3,,14,,,,108
+WWU/Samish,107,3,,14,,,,107
+Fairhaven&Downtown,105,3,,14,,,,105
+Cordata/WCC&Downtown,15,3,,14,,,,15
+Fairhaven&Downtown,14,3,,14,,,,14
+Everson/Nooksack/Sumas&Cordata,71X,3,,14,,,,71X
+Blaine/Birch Bay&Bellingham,75,3,,14,,,,75
+Yew St,533,3,,14,,,,533
+Sudden Valley&Downtown,512,3,,14,,,,512
+Lincoln St&WWU,190S,3,,14,,,,190S
