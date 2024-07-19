@@ -766,7 +766,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 851,5567,Birch Bay Dr at Harborview Rd,,48.933633,-122.748140,1,,,,,2
 852,3418,Alabama St at Orleans St,,48.763115,-122.458760,1,,,,,2
 853,3417,Alabama St at Yew St,,48.763087,-122.443223,1,,,,,2
-854,3419,Levin Ln at Cancer Center,,48.773276,-122.469766,1,,,,,2
 855,3428,Bellis Fair Pkwy at WinCo Foods,,48.787894,-122.481629,1,,,,,2
 856,3429,Bellis Fair Pkwy at Value Village,,48.787372,-122.484641,1,,,,,2
 857,3430,Bellis Fair Pkwy at Value Village,,48.787275,-122.484818,1,,,,,2
