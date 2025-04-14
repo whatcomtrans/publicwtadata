@@ -845,7 +845,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1000,7293,Kendall Rd at Balfour Valley Dr,,48.937997,-122.147324,1,,,,,1
 1003,3465,Northwest Dr at 4700 Block,,48.811364,-122.524244,1,,,,,2
 1004,1065,Line Rd at Kamm Rd,,48.957296,-122.418734,1,,,,,1
-1009,5581,Kendall Rd at Mt Baker Hwy,,48.979429,-122.733875,1,,,,,1
+1009,5581,Peace Portal Dr at Hughes Ave,,48.979429,-122.733875,1,,,,,1
 1010,3350,McLeod Rd at Sunset Dr,,48.782146,-122.428090,1,,,,,1
 1012,5582,Peace Portal Dr at Hughes Ave,,48.979094,-122.733547,1,,,,,1
 1013,1066,Meridian St at Birchwood Ave,,48.776735,-122.486220,1,,,,,1
