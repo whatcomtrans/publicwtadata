@@ -1,34 +1,66 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-1,14,1,Fairhaven&Downtown,,3,,a2021b,000000
-105,14,105,Fairhaven&Downtown,,3,,c0dcc0,000000
-105S,14,105S,WWU,,3,,008080,000000
-107,14,107,WWU/Samish,,3,,ff00ff,000000
-108,14,108,Samish/WWU,,3,,ff00ff,000000
-14,14,14,Fairhaven&Downtown,,3,,88ba1f,000000
-14S,14,14S,WWU&Billy Frank Jr,,3,,ff00ff,000000
-15,14,15,Cordata/WCC&Downtown,,3,,e77261,000000
-190,14,190,Lincoln St&Downtown,,3,,4bb475,000000
-190S,14,190S,Lincoln St&WWU,,3,,5b7ca4,000000
-196,14,196,WWU/Lincoln,,3,,ff00ff,000000
-197,14,197,Lincoln/WWU,,3,,30a8cf,000000
-232,14,232,Cordata/WCC&Downtown,,3,,48db24,000000
-24,14,24,Cordata,,3,,0d68f2,000000
-26,14,26,Lynden&Cordata/WCC,,3,,3e73c1,000000
-27,14,27,Ferndale&Cordata/WCC,,3,,000080,000000
-29,14,29,Cordata/Kline,,3,,ff00ff,000000
-3,14,3,Airport/Cordata&Airport/Downtown,,3,,38c7b9,000000
-331,14,331,Cordata/WCC&Downtown,,3,,e9aa16,000000
-4,14,4,Cordata&Downtown via Hospital,,3,,8129f5,000000
-46,14,46,Granary,,3,,0000ff,000000
-47,14,47,Harbor&Downtown,,3,,008000,000000
-48,14,48,Cordata/WCC&Bakerview Spur,,3,,400000,000000
-49,14,49,Downtown&Bakerview Spur,,3,,000080,000000
-50,14,50,LummiNation&Downtown,,3,,d86543,000000
-512,14,512,Sudden Valley&Downtown,,3,,800080,000000
-525,14,525,Barkley&Downtown,,3,,a087e2,000000
-533,14,533,Yew St,,3,,33cc84,000000
-540,14,540,Sunset&Downtown,,3,,5e00bb,000000
-71X,14,71X,Everson/Nooksack/Sumas&Cordata,,3,,0000ff,000000
-72X,14,72X,Kendall&Bellingham,,3,,ff8040,000000
-75,14,75,Blaine/Birch Bay&Bellingham,,3,,ff00ff,000000
-80X,14,80X,Mt. Vernon&Bellingham,,3,,0080c0,000000
+route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route_url,route_desc,route_short_name
+Blaine/Birch Bay&Bellingham,3,ffffff,f05b7d,14,75_merged_2583053,,,75
+Cordata,3,ffffff,028848,14,24_merged_2583042,,,24
+Fairhaven&Downtown,3,000000,e5bfa1,14,1_merged_2583049,,,1
+Harbor&Downtown,3,000000,008000,14,47_merged_2583075,,,47
+WWU/Lincoln,3,ffffff,1268b3,14,196_merged_2583037,,,196
+Kendall&Bellingham,3,000000,ff8040,14,72X_merged_2583080,,,72X
+Lynden&Cordata/WCC,3,ffffff,7a6026,14,26_merged_2583043,,,26
+Fairhaven&Downtown,3,000000,c0dcc0,14,105_merged_2583084,,,105
+WWU,3,000000,008080,14,105S,,,105S
+Cordata/WCC&Downtown,3,ffffff,8dc63f,14,232_merged_2583041,,,232
+LummiNation&Downtown,3,000000,d86543,14,50_merged_2583088,,,50
+Samish/WWU,3,000000,6dcff6,14,108_merged_2583054,,,108
+Downtown&Bakerview Spur,3,000000,000080,14,49_merged_2583074,,,49
+Fairhaven&Downtown,3,000000,88ba1f,14,14_merged_2583086,,,14
+Harbor&Downtown,3,000000,e7efc1,14,47_merged_2583047,,,47
+Downtown&Bakerview Spur,3,ffffff,da1f3d,14,49_merged_2583046,,,49
+WWU/Samish,3,000000,abe1fa,14,107_merged_2583055,,,107
+Lincoln/WWU,3,000000,30a8cf,14,197_merged_2583064,,,197
+Cordata/WCC&Downtown,3,000000,e77261,14,15_merged_2583085,,,15
+WWU&Billy Frank Jr,3,000000,ff00ff,14,14S,,,14S
+Kendall&Bellingham,3,ffffff,952d4f,14,72X_merged_2583052,,,72X
+KingMountain&Cordata/WCC,3,ffffff,e29957,14,45,,,45
+Yew St,3,000000,33cc84,14,533_merged_2583089,,,533
+Cordata/WCC&Bakerview Spur,3,000000,400000,14,48_merged_2583073,,,48
+Airport/Cordata&Airport/Downtown,3,000000,38c7b9,14,3_merged_2583079,,,3
+Sudden Valley&Downtown,3,000000,f287b7,14,512_merged_2583062,,,512
+Mt. Vernon&Bellingham,3,000000,0080c0,14,80X_merged_2583068,,,80X
+Ferndale&Cordata/WCC,3,ffffff,94b0be,14,27_merged_2583044,,,27
+Cordata&Downtown via Hospital,3,000000,8129f5,14,4,,,4
+Lincoln St&WWU,3,000000,5b7ca4,14,190S,,,190S
+Hospital&Downtown,3,000000,f69896,14,9,,,9
+Fairhaven&Downtown,3,ffffff,4fc6e0,14,105_merged_2583056,,,105
+Sunset&Downtown,3,000000,5e00bb,14,540_merged_2583063,,,540
+Mt. Vernon&Bellingham,3,ffffff,b86964,14,80X_merged_2583040,,,80X
+Everson/Nooksack/Sumas&Cordata,3,ffffff,b47236,14,71X_merged_2583059,,,71X
+Sunset&Downtown,3,ffffff,5f3075,14,540_merged_2583035,,,540
+WWU/Samish,3,000000,ff00ff,14,107_merged_2583083,,,107
+Samish/WWU,3,000000,ff00ff,14,108_merged_2583082,,,108
+WWU/Lincoln,3,000000,ff00ff,14,196_merged_2583065,,,196
+Yew St,3,000000,f8c1d9,14,533_merged_2583061,,,533
+Lynden&Cordata/WCC,3,000000,3e73c1,14,26_merged_2583071,,,26
+Cordata,3,000000,0d68f2,14,24_merged_2583070,,,24
+Cordata/Kline,3,ffffff,50b848,14,29_merged_2583048,,,29
+Cordata/WCC&Downtown,3,000000,faa61a,14,331_merged_2583038,,,331
+Lincoln St&Downtown,3,000000,4bb475,14,190_merged_2583067,,,190
+Barkley&Downtown,3,ffffff,8f53a1,14,525_merged_2583050,,,525
+Barkley&Downtown,3,000000,a087e2,14,525_merged_2583078,,,525
+Sudden Valley&Downtown,3,000000,800080,14,512_merged_2583090,,,512
+Eldridge&Downtown,3,000000,b2d235,14,10,,,10
+Everson/Nooksack/Sumas&Cordata,3,000000,0000ff,14,71X_merged_2583087,,,71X
+Lincoln/WWU,3,ffffff,034ea2,14,197_merged_2583036,,,197
+Hospital&Cordata/WCC,3,000000,bbd976,14,18,,,18
+Ferndale&Cordata/WCC,3,000000,000080,14,27_merged_2583072,,,27
+Cordata/WCC&Downtown,3,000000,48db24,14,232_merged_2583069,,,232
+Lincoln St&Downtown,3,ffffff,0095da,14,190_merged_2583039,,,190
+Cordata/WCC&Downtown,3,ffffff,f58220,14,15_merged_2583057,,,15
+LummiNation&Cordata/WCC,3,000000,ffdd00,14,50_merged_2583060,,,50
+Granary,3,000000,0000ff,14,46,,,46
+Blaine/Birch Bay&Bellingham,3,000000,ff00ff,14,75_merged_2583081,,,75
+Cordata/WCC&Bakerview Spur,3,ffffff,f15a22,14,48_merged_2583045,,,48
+Cordata/Kline,3,000000,ff00ff,14,29_merged_2583076,,,29
+Fairhaven&Downtown,3,ffffff,009fc3,14,14_merged_2583058,,,14
+Fairhaven&Downtown,3,000000,a2021b,14,1_merged_2583077,,,1
+Airport/Cordata&Airport/Downtown,3,000000,d7df23,14,3_merged_2583051,,,3
+Cordata/WCC&Downtown,3,000000,e9aa16,14,331_merged_2583066,,,331
