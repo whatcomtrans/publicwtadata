@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
-14,Whatcom Transportation Authority,https://www.ridewta.com/,America/Tijuana,en,1-866-989-4287,https://www.ridewta.com/fares-and-passes/
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+14,Whatcom Transportation Authority,https://www.ridewta.com/,America/Los_Angeles,en,1-866-989-4287,https://www.ridewta.com/fares-and-passes/,customerservice@ridewta.com

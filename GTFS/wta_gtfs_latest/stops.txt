@@ -56,7 +56,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 66,9432,Orleans St at Sunset Dr,,48.771963,-122.457576,1,,,,,2
 67,3351,McLeod Rd at Squalicum High School,,48.782344,-122.423947,1,,,,,1
 68,3342,Alabama St at Yew St,,48.762962,-122.443120,1,,,,,2
-70,2517,McLeod Rd at Squalicum High School,,48.782107,-122.424026,1,,,,,1
+70,2517,McLeod Rd at Squalicum High School,,48.782119,-122.422699,1,,,,,1
 71,3032,Woburn St at Texas St,,48.761295,-122.445435,1,,,,,2
 72,2834,Woburn St at Barkley Village,,48.768804,-122.445485,1,,,,,1
 73,3001,Electric Ave at Whatcom Falls Park,,48.749473,-122.425969,1,,,,,2
@@ -690,7 +690,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 799,2255,Northwest Dr at Aldrich Rd,,48.791744,-122.509360,1,,,,,1
 801,3031,Woburn St at Texas St,,48.761261,-122.445225,1,,,,,2
 802,7238,Sunset Dr at Vining St,,48.781427,-122.432044,1,,,,,1
-803,5527,Blaine Cost Cutter,,48.993426,-122.729328,1,,,,,1
+803,5527,Blaine Center,,48.993426,-122.729328,1,,,,,1
 805,5526,H St at 8th St,,48.993938,-122.739860,1,,,,,1
 806,3371,Westerly Rd at Eliza Ave,,48.793241,-122.495718,1,,,,,2
 807,3373,Westerly Rd at Cordata Pkwy,,48.791897,-122.492316,1,,,,,2
@@ -802,7 +802,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 969,7247,Deming Rd at 4800 Block,,48.826328,-122.228466,1,,,,,2
 970,7248,Deming Rd at 4200 Block,,48.838580,-122.259488,1,,,,,2
 971,5577,Lincoln Rd at Harborview Rd,,48.950455,-122.749110,1,,,,,2
-976,5577,Lincoln Rd at Harborview Rd,,48.950607,-122.749537,1,,,,,2
+976,5578,Lincoln Rd at Harborview Rd,,48.950607,-122.749537,1,,,,,2
 977,5579,Portal Way at Kaas Rd,,48.870619,-122.584507,1,,,,,2
 979,1025,Champion St at Ellis St,,48.749265,-122.472089,1,,,,,1
 980,5580,H St at 6th St,,48.993965,-122.743856,1,,,,,2
@@ -880,7 +880,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1068,5590,Hughes Ave at Odell St,,48.979247,-122.726593,1,,,,,2
 1069,1056,James St at Creston Way,,48.799532,-122.469519,1,,,,,2
 1070,1057,James St at Creston Way,,48.800078,-122.469523,1,,,,,2
-1071,1058,Cornwall Ave at Maple St,,48.748979,-122.480480,1,,,,,2
+1071,1058,Cornwall Ave at Maple St,,48.747890,-122.482165,1,,,,,2
 1072,5591,Bell Rd at Peace Portal Dr,,48.976394,-122.728313,1,,,,,2
 1073,5592,Bell Rd at Peace Portal Dr,,48.975991,-122.728516,1,,,,,2
 1074,1086,James St at King Ave,,48.795529,-122.464264,1,,,,,2
