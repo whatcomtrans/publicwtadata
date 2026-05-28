@@ -1,2 +1,2 @@
-feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Whatcom Transportation Authority,https://www.ridewta.com/,en,20260201,20260613,S1000173
+"feed_publisher_name","feed_publisher_url","feed_lang","feed_start_date","feed_end_date","feed_version"
+"Whatcom Transportation Authority","https://www.ridewta.com/","en","20260201","20260919","S1000173-S1000174"
