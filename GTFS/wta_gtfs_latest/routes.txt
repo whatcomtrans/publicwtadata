@@ -2,9 +2,11 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 1,14,1,Fairhaven&Downtown,,3,,e5bfa1,000000
 10,14,10,Eldridge&Downtown,,3,,b2d235,000000
 14,14,14,Fairhaven&Downtown,,3,,009fc3,ffffff
+14S,14,14S,WWU&Billy Frank Jr,,3,,009fc3,000000
 15,14,15,Cordata/WCC&Downtown,,3,,f58220,ffffff
 18,14,18,Hospital&Cordata/WCC,,3,,bbd976,000000
 190,14,190,Lincoln St&Downtown,,3,,0095da,ffffff
+190S,14,190S,Lincoln St&WWU,,3,,0095da,000000
 232,14,232,Cordata/WCC&Downtown,,3,,8dc63f,ffffff
 24,14,24,Cordata,,3,,028848,ffffff
 26,14,26,Lynden&Cordata/WCC,,3,,7a6026,ffffff
@@ -29,3 +31,5 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 75,14,75,Blaine/Birch Bay&Bellingham,,3,,f05b7d,ffffff
 80X,14,80X,Mt. Vernon&Bellingham,,3,,b86964,ffffff
 9,14,9,Hospital&Downtown,,3,,f69896,000000
+97,14,97,WWU&Samish,,3,,034ea2,ffffff
+98,14,98,WWU&Samish,,3,,abe1fa,000000
